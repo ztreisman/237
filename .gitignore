@@ -60,3 +60,9 @@ cc_sessions.txt
 __pycache__/
 *.pyc
 *.swp
+
+# third-party arXiv preprints — kept locally, link instead of redistributing
+doc/*.pdf
+
+# personal research journal — kept locally only
+doc/new_journal_entry*.txt

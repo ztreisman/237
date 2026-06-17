@@ -66,3 +66,8 @@ theory/*.pdf
 
 # personal research journal — kept locally only
 theory/new_journal_entry*.txt
+
+# poincare_37.py writes outputs to cwd; canonical copies live in
+# examples/ and analysis/ — don't track copies generated in python/
+python/poincare_37.svg
+python/poincare_coords.npy

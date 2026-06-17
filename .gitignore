@@ -62,7 +62,7 @@ __pycache__/
 *.swp
 
 # third-party arXiv preprints — kept locally, link instead of redistributing
-doc/*.pdf
+theory/*.pdf
 
 # personal research journal — kept locally only
-doc/new_journal_entry*.txt
+theory/new_journal_entry*.txt

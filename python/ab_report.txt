@@ -1,0 +1,41 @@
+A/B WORD & COMPENSATION ANALYSIS
+trials: 209
+
+Ring-5 word classes: {'A1': 56, 'B1': 56, 'A2': 91, 'B2a': 91, 'B2b': 91}
+  (A1: A before lone B; A2: A before BB; B1: lone B;
+   B2a/B2b: first/second B of a BB run)
+
+1. COMPENSATION (per ring-4 sector: D4 = mean band-4 fold,
+   D5 = mean radial 4->5 fold at the same vertex)
+   corr(D4, D5):       mean -0.4154  (sd 0.0634)
+   Var(D4+D5)/(Var D4 + Var D5): mean 0.5858
+   (ratio < 1 = anti-correlated sharing; << 1 = strong conservation;
+    = 1 = independent; > 1 = reinforcing)
+   per-sector total D4+D5: mean 1.7571, sd 0.2990, CV 0.1702
+
+2. RADIAL FOLD BY CHILD WORD CLASS (rad):
+   class |        n |    mean |     sd |    p90 |    max
+      A1 |    23408 |  0.8500 | 0.5413 | 1.6891 | 3.0484
+      A2 |    38038 |  0.8356 | 0.5322 | 1.6539 | 3.1046
+      B1 |    11704 |  1.3156 | 0.6403 | 1.9287 | 3.1341
+     B2a |    19019 |  1.2109 | 0.6433 | 1.9194 | 3.1410
+     B2b |    19019 |  1.2047 | 0.6412 | 1.9202 | 3.1360
+
+3. BOUNDARY EXTRINSIC TURNING BY VERTEX CLASS (rad):
+   (intrinsic floor: A* = 0, B* = π/3 ≈ 1.0472)
+   class |        n |    mean | mean-floor |    p90
+      A1 |    11704 |  1.1246 |     1.1246 | 2.0819
+      A2 |    19019 |  1.1214 |     1.1214 | 2.0835
+      B1 |    11704 |  1.6876 |     0.6404 | 2.0955
+     B2a |    19019 |  1.6162 |     0.5691 | 2.0930
+     B2b |    19019 |  1.6107 |     0.5635 | 2.0927
+
+Interpretation:
+ - Strong conservation (var ratio << 1) + low CV of D4+D5 means the
+   total per-sector fold demand is a near-constant — measure it, and
+   capacity exhaustion becomes: (demand growth φ²/ring) vs (bounded
+   per-sector capacity). That is the provable form.
+ - If B2a/B2b classes carry systematically larger folds/turning than
+   B1, the BB runs of the substitution word are the stress carriers,
+   and σ: A→AB, B→ABB guarantees their density — the localization
+   lemma becomes combinatorial.

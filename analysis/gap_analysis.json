@@ -1,0 +1,5132 @@
+[
+  {
+    "file": "physics_grow_seed01_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 77.7843,
+        "gap_disk_deg": 77.7843,
+        "strip_deg": 89.9638,
+        "margin_deg": -12.1795
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7832,
+        "radius_min": 1.3187,
+        "radius_max": 1.991,
+        "gap_bdy_deg": 53.637,
+        "gap_disk_deg": 53.637,
+        "strip_deg": 34.1111,
+        "margin_deg": 19.5259
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed01_ring02_std0.0014.ply",
+    "max_ring": 9,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0029,
+        "radius_min": 1.0013,
+        "radius_max": 1.004,
+        "gap_bdy_deg": 77.3822,
+        "gap_disk_deg": 77.3822,
+        "strip_deg": 85.6372,
+        "margin_deg": -8.255
+      },
+      "9": {
+        "n_verts": 21,
+        "radius_mean": 1.7791,
+        "radius_min": 1.4812,
+        "radius_max": 1.9943,
+        "gap_bdy_deg": 68.4994,
+        "gap_disk_deg": 68.0182,
+        "strip_deg": 34.2006,
+        "margin_deg": 33.8176
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed01_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 84.4619,
+        "gap_disk_deg": 84.4619,
+        "strip_deg": 89.9816,
+        "margin_deg": -5.5198
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7415,
+        "radius_min": 1.1577,
+        "radius_max": 1.9906,
+        "gap_bdy_deg": 55.306,
+        "gap_disk_deg": 55.306,
+        "strip_deg": 35.0456,
+        "margin_deg": 20.2603
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4969,
+        "radius_min": 1.5577,
+        "radius_max": 2.9459,
+        "gap_bdy_deg": 35.5504,
+        "gap_disk_deg": 35.5504,
+        "strip_deg": 23.6097,
+        "margin_deg": 11.9407
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed01_ring03_std0.0001.ply",
+    "max_ring": 9,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0004,
+        "radius_min": 1.0001,
+        "radius_max": 1.0008,
+        "gap_bdy_deg": 72.8976,
+        "gap_disk_deg": 72.8976,
+        "strip_deg": 88.3593,
+        "margin_deg": -15.4616
+      },
+      "9": {
+        "n_verts": 77,
+        "radius_mean": 2.4008,
+        "radius_min": 1.5624,
+        "radius_max": 2.95,
+        "gap_bdy_deg": 53.598,
+        "gap_disk_deg": 53.598,
+        "strip_deg": 24.6156,
+        "margin_deg": 28.9824
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed01_ring04_std0.0017.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0032,
+        "radius_min": 0.9968,
+        "radius_max": 1.0115,
+        "gap_bdy_deg": 74.6008,
+        "gap_disk_deg": 74.6008,
+        "strip_deg": 85.3984,
+        "margin_deg": -10.7976
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8023,
+        "radius_min": 1.4698,
+        "radius_max": 1.9999,
+        "gap_bdy_deg": 52.8763,
+        "gap_disk_deg": 52.8763,
+        "strip_deg": 33.7005,
+        "margin_deg": 19.1758
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5319,
+        "radius_min": 1.8418,
+        "radius_max": 2.9554,
+        "gap_bdy_deg": 34.0812,
+        "gap_disk_deg": 34.0812,
+        "strip_deg": 23.2631,
+        "margin_deg": 10.8181
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2532,
+        "radius_min": 1.6974,
+        "radius_max": 3.8564,
+        "gap_bdy_deg": 17.7946,
+        "gap_disk_deg": 17.7946,
+        "strip_deg": 17.9018,
+        "margin_deg": -0.1071
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed01_ring04_std0.0035.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0041,
+        "radius_min": 0.9871,
+        "radius_max": 1.0223,
+        "gap_bdy_deg": 74.8648,
+        "gap_disk_deg": 74.8648,
+        "strip_deg": 84.829,
+        "margin_deg": -9.9642
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8107,
+        "radius_min": 1.5328,
+        "radius_max": 2.0097,
+        "gap_bdy_deg": 51.6992,
+        "gap_disk_deg": 51.6992,
+        "strip_deg": 33.5228,
+        "margin_deg": 18.1763
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5436,
+        "radius_min": 1.8681,
+        "radius_max": 2.9596,
+        "gap_bdy_deg": 34.2539,
+        "gap_disk_deg": 34.2539,
+        "strip_deg": 23.1503,
+        "margin_deg": 11.1036
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.265,
+        "radius_min": 1.7486,
+        "radius_max": 3.9092,
+        "gap_bdy_deg": 20.314,
+        "gap_disk_deg": 20.314,
+        "strip_deg": 17.835,
+        "margin_deg": 2.479
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed01_ring04_std0.0054.ply",
+    "max_ring": 9,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0076,
+        "radius_min": 0.9889,
+        "radius_max": 1.0278,
+        "gap_bdy_deg": 76.1308,
+        "gap_disk_deg": 76.1308,
+        "strip_deg": 82.9656,
+        "margin_deg": -6.8347
+      },
+      "8": {
+        "n_verts": 147,
+        "radius_mean": 3.2681,
+        "radius_min": 1.6476,
+        "radius_max": 3.9159,
+        "gap_bdy_deg": 20.6952,
+        "gap_disk_deg": 20.6952,
+        "strip_deg": 17.8177,
+        "margin_deg": 2.8775
+      },
+      "9": {
+        "n_verts": 77,
+        "radius_mean": 2.3487,
+        "radius_min": 1.5411,
+        "radius_max": 2.9649,
+        "gap_bdy_deg": 35.2236,
+        "gap_disk_deg": 20.6952,
+        "strip_deg": 25.1987,
+        "margin_deg": -4.5036
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed01_ring04_std0.0264.ply",
+    "max_ring": 9,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0662,
+        "radius_min": 1.0167,
+        "radius_max": 1.1401,
+        "gap_bdy_deg": 84.5175,
+        "gap_disk_deg": 84.5175,
+        "strip_deg": 69.7086,
+        "margin_deg": 14.8089
+      },
+      "8": {
+        "n_verts": 147,
+        "radius_mean": 3.3503,
+        "radius_min": 1.5136,
+        "radius_max": 4.1684,
+        "gap_bdy_deg": 27.8234,
+        "gap_disk_deg": 27.8234,
+        "strip_deg": 17.3665,
+        "margin_deg": 10.4569
+      },
+      "9": {
+        "n_verts": 77,
+        "radius_mean": 2.4682,
+        "radius_min": 1.6008,
+        "radius_max": 3.1586,
+        "gap_bdy_deg": 44.0458,
+        "gap_disk_deg": 27.8234,
+        "strip_deg": 23.9003,
+        "margin_deg": 3.9231
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed01_ring05_std0.0468.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2001,
+        "radius_min": 1.1552,
+        "radius_max": 1.2536,
+        "gap_bdy_deg": 75.273,
+        "gap_disk_deg": 75.273,
+        "strip_deg": 56.4334,
+        "margin_deg": 18.8397
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1398,
+        "radius_min": 1.8684,
+        "radius_max": 2.4227,
+        "gap_bdy_deg": 57.3067,
+        "gap_disk_deg": 57.3067,
+        "strip_deg": 27.8616,
+        "margin_deg": 29.4452
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9456,
+        "radius_min": 1.8936,
+        "radius_max": 3.5234,
+        "gap_bdy_deg": 41.6969,
+        "gap_disk_deg": 41.6969,
+        "strip_deg": 19.8455,
+        "margin_deg": 21.8514
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6361,
+        "radius_min": 1.806,
+        "radius_max": 4.5316,
+        "gap_bdy_deg": 23.8432,
+        "gap_disk_deg": 23.8432,
+        "strip_deg": 15.9634,
+        "margin_deg": 7.8798
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2281,
+        "radius_min": 0.993,
+        "radius_max": 5.5042,
+        "gap_bdy_deg": 12.9726,
+        "gap_disk_deg": 10.2854,
+        "strip_deg": 13.6809,
+        "margin_deg": -3.3955
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed01_ring05_std0.0568.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2116,
+        "radius_min": 1.1264,
+        "radius_max": 1.3097,
+        "gap_bdy_deg": 76.0094,
+        "gap_disk_deg": 76.0094,
+        "strip_deg": 55.6249,
+        "margin_deg": 20.3845
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1541,
+        "radius_min": 1.8041,
+        "radius_max": 2.5129,
+        "gap_bdy_deg": 56.0221,
+        "gap_disk_deg": 56.0221,
+        "strip_deg": 27.6611,
+        "margin_deg": 28.361
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9471,
+        "radius_min": 1.7186,
+        "radius_max": 3.6356,
+        "gap_bdy_deg": 40.8808,
+        "gap_disk_deg": 40.8808,
+        "strip_deg": 19.8355,
+        "margin_deg": 21.0453
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6714,
+        "radius_min": 1.9833,
+        "radius_max": 4.5845,
+        "gap_bdy_deg": 23.3833,
+        "gap_disk_deg": 23.3833,
+        "strip_deg": 15.8058,
+        "margin_deg": 7.5775
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2513,
+        "radius_min": 1.0331,
+        "radius_max": 5.59,
+        "gap_bdy_deg": 12.0053,
+        "gap_disk_deg": 10.8015,
+        "strip_deg": 13.6046,
+        "margin_deg": -2.8032
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed02_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 75.964,
+        "gap_disk_deg": 75.964,
+        "strip_deg": 89.9864,
+        "margin_deg": -14.0224
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.728,
+        "radius_min": 1.3445,
+        "radius_max": 1.9588,
+        "gap_bdy_deg": 47.8234,
+        "gap_disk_deg": 47.8234,
+        "strip_deg": 35.3601,
+        "margin_deg": 12.4634
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed02_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 87.5719,
+        "gap_disk_deg": 87.5719,
+        "strip_deg": 89.9608,
+        "margin_deg": -2.3889
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7006,
+        "radius_min": 1.0881,
+        "radius_max": 1.9857,
+        "gap_bdy_deg": 54.3867,
+        "gap_disk_deg": 54.3867,
+        "strip_deg": 36.0172,
+        "margin_deg": 18.3695
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4255,
+        "radius_min": 1.0252,
+        "radius_max": 2.9647,
+        "gap_bdy_deg": 35.6461,
+        "gap_disk_deg": 29.8116,
+        "strip_deg": 24.349,
+        "margin_deg": 5.4627
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed02_ring04_std0.0030.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0128,
+        "radius_min": 1.0051,
+        "radius_max": 1.0195,
+        "gap_bdy_deg": 72.4955,
+        "gap_disk_deg": 72.4955,
+        "strip_deg": 80.8792,
+        "margin_deg": -8.3837
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.776,
+        "radius_min": 1.4767,
+        "radius_max": 2.0115,
+        "gap_bdy_deg": 49.4958,
+        "gap_disk_deg": 49.4958,
+        "strip_deg": 34.2686,
+        "margin_deg": 15.2272
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5297,
+        "radius_min": 1.6605,
+        "radius_max": 2.9875,
+        "gap_bdy_deg": 30.0467,
+        "gap_disk_deg": 30.0467,
+        "strip_deg": 23.2848,
+        "margin_deg": 6.7619
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2337,
+        "radius_min": 1.7691,
+        "radius_max": 3.9688,
+        "gap_bdy_deg": 20.5199,
+        "gap_disk_deg": 19.5414,
+        "strip_deg": 18.0139,
+        "margin_deg": 1.5275
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed02_ring04_std0.0036.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0149,
+        "radius_min": 1.0076,
+        "radius_max": 1.0242,
+        "gap_bdy_deg": 73.0092,
+        "gap_disk_deg": 73.0092,
+        "strip_deg": 80.1832,
+        "margin_deg": -7.1741
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7773,
+        "radius_min": 1.4643,
+        "radius_max": 2.0101,
+        "gap_bdy_deg": 50.154,
+        "gap_disk_deg": 50.154,
+        "strip_deg": 34.2391,
+        "margin_deg": 15.9149
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5299,
+        "radius_min": 1.6724,
+        "radius_max": 2.9954,
+        "gap_bdy_deg": 29.6445,
+        "gap_disk_deg": 29.6445,
+        "strip_deg": 23.2826,
+        "margin_deg": 6.3619
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2314,
+        "radius_min": 1.7346,
+        "radius_max": 3.982,
+        "gap_bdy_deg": 20.355,
+        "gap_disk_deg": 19.4291,
+        "strip_deg": 18.0269,
+        "margin_deg": 1.4022
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed02_ring04_std0.0044.ply",
+    "max_ring": 9,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0169,
+        "radius_min": 1.0081,
+        "radius_max": 1.0304,
+        "gap_bdy_deg": 73.4363,
+        "gap_disk_deg": 73.4363,
+        "strip_deg": 79.525,
+        "margin_deg": -6.0887
+      },
+      "8": {
+        "n_verts": 147,
+        "radius_mean": 3.2302,
+        "radius_min": 1.7498,
+        "radius_max": 3.9687,
+        "gap_bdy_deg": 20.0749,
+        "gap_disk_deg": 20.0749,
+        "strip_deg": 18.034,
+        "margin_deg": 2.0408
+      },
+      "9": {
+        "n_verts": 77,
+        "radius_mean": 2.3281,
+        "radius_min": 1.4796,
+        "radius_max": 2.9919,
+        "gap_bdy_deg": 29.1479,
+        "gap_disk_deg": 19.1805,
+        "strip_deg": 25.4383,
+        "margin_deg": -6.2577
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed02_ring05_std0.0438.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1881,
+        "radius_min": 1.1239,
+        "radius_max": 1.2329,
+        "gap_bdy_deg": 75.4811,
+        "gap_disk_deg": 75.4811,
+        "strip_deg": 57.3148,
+        "margin_deg": 18.1663
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.094,
+        "radius_min": 1.7556,
+        "radius_max": 2.452,
+        "gap_bdy_deg": 57.719,
+        "gap_disk_deg": 57.719,
+        "strip_deg": 28.5263,
+        "margin_deg": 29.1927
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9402,
+        "radius_min": 2.3525,
+        "radius_max": 3.5495,
+        "gap_bdy_deg": 38.6391,
+        "gap_disk_deg": 38.6391,
+        "strip_deg": 19.8838,
+        "margin_deg": 18.7554
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6477,
+        "radius_min": 1.5973,
+        "radius_max": 4.5444,
+        "gap_bdy_deg": 22.8807,
+        "gap_disk_deg": 22.8807,
+        "strip_deg": 15.9109,
+        "margin_deg": 6.9698
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2525,
+        "radius_min": 1.3052,
+        "radius_max": 5.4914,
+        "gap_bdy_deg": 10.3534,
+        "gap_disk_deg": 9.2769,
+        "strip_deg": 13.6009,
+        "margin_deg": -4.3239
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed02_ring05_std0.0518.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1863,
+        "radius_min": 1.1429,
+        "radius_max": 1.2147,
+        "gap_bdy_deg": 75.2251,
+        "gap_disk_deg": 75.2251,
+        "strip_deg": 57.4556,
+        "margin_deg": 17.7695
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1086,
+        "radius_min": 1.7921,
+        "radius_max": 2.3952,
+        "gap_bdy_deg": 57.6051,
+        "gap_disk_deg": 57.6051,
+        "strip_deg": 28.311,
+        "margin_deg": 29.2942
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9686,
+        "radius_min": 2.1755,
+        "radius_max": 3.4746,
+        "gap_bdy_deg": 38.1769,
+        "gap_disk_deg": 38.1769,
+        "strip_deg": 19.6857,
+        "margin_deg": 18.4911
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6706,
+        "radius_min": 2.2256,
+        "radius_max": 4.4704,
+        "gap_bdy_deg": 22.492,
+        "gap_disk_deg": 22.492,
+        "strip_deg": 15.8092,
+        "margin_deg": 6.6827
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2637,
+        "radius_min": 1.5597,
+        "radius_max": 5.3721,
+        "gap_bdy_deg": 11.6015,
+        "gap_disk_deg": 9.5771,
+        "strip_deg": 13.5645,
+        "margin_deg": -3.9874
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed03_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 90.2521,
+        "gap_disk_deg": 90.2521,
+        "strip_deg": 89.995,
+        "margin_deg": 0.2571
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7333,
+        "radius_min": 1.1642,
+        "radius_max": 1.9503,
+        "gap_bdy_deg": 59.7,
+        "gap_disk_deg": 59.7,
+        "strip_deg": 35.2356,
+        "margin_deg": 24.4644
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed03_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 90.7988,
+        "gap_disk_deg": 90.7988,
+        "strip_deg": 89.9855,
+        "margin_deg": 0.8133
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7347,
+        "radius_min": 1.1473,
+        "radius_max": 1.9858,
+        "gap_bdy_deg": 61.9407,
+        "gap_disk_deg": 61.9407,
+        "strip_deg": 35.2015,
+        "margin_deg": 26.7392
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4675,
+        "radius_min": 1.5967,
+        "radius_max": 2.9207,
+        "gap_bdy_deg": 37.8872,
+        "gap_disk_deg": 37.8872,
+        "strip_deg": 23.9082,
+        "margin_deg": 13.979
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed03_ring04_std0.0033.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.01,
+        "radius_min": 0.9965,
+        "radius_max": 1.0198,
+        "gap_bdy_deg": 85.6751,
+        "gap_disk_deg": 85.6751,
+        "strip_deg": 81.9249,
+        "margin_deg": 3.7502
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7711,
+        "radius_min": 1.4034,
+        "radius_max": 1.9991,
+        "gap_bdy_deg": 59.2825,
+        "gap_disk_deg": 59.2825,
+        "strip_deg": 34.3752,
+        "margin_deg": 24.9073
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5467,
+        "radius_min": 1.8012,
+        "radius_max": 2.9532,
+        "gap_bdy_deg": 34.9547,
+        "gap_disk_deg": 34.9547,
+        "strip_deg": 23.1204,
+        "margin_deg": 11.8343
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2172,
+        "radius_min": 1.4719,
+        "radius_max": 3.9289,
+        "gap_bdy_deg": 19.5126,
+        "gap_disk_deg": 18.1603,
+        "strip_deg": 18.1093,
+        "margin_deg": 0.051
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed03_ring04_std0.0043.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0126,
+        "radius_min": 0.9958,
+        "radius_max": 1.0212,
+        "gap_bdy_deg": 84.4386,
+        "gap_disk_deg": 84.4386,
+        "strip_deg": 80.9435,
+        "margin_deg": 3.495
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7734,
+        "radius_min": 1.4238,
+        "radius_max": 2.0112,
+        "gap_bdy_deg": 58.3509,
+        "gap_disk_deg": 58.3509,
+        "strip_deg": 34.3244,
+        "margin_deg": 24.0265
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5546,
+        "radius_min": 1.8592,
+        "radius_max": 2.9728,
+        "gap_bdy_deg": 34.5475,
+        "gap_disk_deg": 34.5475,
+        "strip_deg": 23.0452,
+        "margin_deg": 11.5023
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2189,
+        "radius_min": 1.6349,
+        "radius_max": 3.9297,
+        "gap_bdy_deg": 18.9927,
+        "gap_disk_deg": 17.1512,
+        "strip_deg": 18.099,
+        "margin_deg": -0.9479
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed03_ring04_std0.0057.ply",
+    "max_ring": 9,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0153,
+        "radius_min": 0.9969,
+        "radius_max": 1.0239,
+        "gap_bdy_deg": 83.6261,
+        "gap_disk_deg": 83.6261,
+        "strip_deg": 80.0248,
+        "margin_deg": 3.6013
+      },
+      "8": {
+        "n_verts": 147,
+        "radius_mean": 3.2277,
+        "radius_min": 1.7154,
+        "radius_max": 3.9435,
+        "gap_bdy_deg": 17.5264,
+        "gap_disk_deg": 17.5264,
+        "strip_deg": 18.048,
+        "margin_deg": -0.5216
+      },
+      "9": {
+        "n_verts": 77,
+        "radius_mean": 2.3503,
+        "radius_min": 1.4216,
+        "radius_max": 2.9731,
+        "gap_bdy_deg": 35.9876,
+        "gap_disk_deg": 16.9588,
+        "strip_deg": 25.1804,
+        "margin_deg": -8.2217
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed03_ring05_std0.0449.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1983,
+        "radius_min": 1.1688,
+        "radius_max": 1.2266,
+        "gap_bdy_deg": 78.9877,
+        "gap_disk_deg": 78.9877,
+        "strip_deg": 56.5651,
+        "margin_deg": 22.4226
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.119,
+        "radius_min": 1.8001,
+        "radius_max": 2.3631,
+        "gap_bdy_deg": 59.3828,
+        "gap_disk_deg": 59.3828,
+        "strip_deg": 28.1584,
+        "margin_deg": 31.2244
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9421,
+        "radius_min": 2.1001,
+        "radius_max": 3.4452,
+        "gap_bdy_deg": 40.101,
+        "gap_disk_deg": 40.101,
+        "strip_deg": 19.8702,
+        "margin_deg": 20.2309
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6141,
+        "radius_min": 1.5183,
+        "radius_max": 4.4676,
+        "gap_bdy_deg": 21.6696,
+        "gap_disk_deg": 21.6696,
+        "strip_deg": 16.0629,
+        "margin_deg": 5.6067
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2133,
+        "radius_min": 0.9929,
+        "radius_max": 5.4579,
+        "gap_bdy_deg": 10.5089,
+        "gap_disk_deg": 10.3138,
+        "strip_deg": 13.7299,
+        "margin_deg": -3.4161
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed03_ring05_std0.0457.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1979,
+        "radius_min": 1.1747,
+        "radius_max": 1.2178,
+        "gap_bdy_deg": 77.892,
+        "gap_disk_deg": 77.892,
+        "strip_deg": 56.5964,
+        "margin_deg": 21.2956
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.124,
+        "radius_min": 1.8232,
+        "radius_max": 2.3668,
+        "gap_bdy_deg": 58.8588,
+        "gap_disk_deg": 58.8588,
+        "strip_deg": 28.0874,
+        "margin_deg": 30.7714
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9535,
+        "radius_min": 2.3187,
+        "radius_max": 3.4506,
+        "gap_bdy_deg": 42.0635,
+        "gap_disk_deg": 42.0635,
+        "strip_deg": 19.7901,
+        "margin_deg": 22.2734
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6362,
+        "radius_min": 1.5178,
+        "radius_max": 4.4959,
+        "gap_bdy_deg": 23.2054,
+        "gap_disk_deg": 23.2054,
+        "strip_deg": 15.9627,
+        "margin_deg": 7.2427
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2306,
+        "radius_min": 0.9898,
+        "radius_max": 5.4349,
+        "gap_bdy_deg": 12.7471,
+        "gap_disk_deg": 9.2009,
+        "strip_deg": 13.6724,
+        "margin_deg": -4.4715
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed04_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 92.0726,
+        "gap_disk_deg": 92.0726,
+        "strip_deg": 89.9709,
+        "margin_deg": 2.1017
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7535,
+        "radius_min": 1.3068,
+        "radius_max": 1.9693,
+        "gap_bdy_deg": 55.9726,
+        "gap_disk_deg": 55.9726,
+        "strip_deg": 34.7701,
+        "margin_deg": 21.2025
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed04_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 94.9937,
+        "gap_disk_deg": 94.9937,
+        "strip_deg": 90.0,
+        "margin_deg": 4.9937
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7256,
+        "radius_min": 1.1392,
+        "radius_max": 1.9945,
+        "gap_bdy_deg": 57.4312,
+        "gap_disk_deg": 57.4312,
+        "strip_deg": 35.4164,
+        "margin_deg": 22.0148
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4383,
+        "radius_min": 1.599,
+        "radius_max": 2.9443,
+        "gap_bdy_deg": 38.8827,
+        "gap_disk_deg": 31.7378,
+        "strip_deg": 24.212,
+        "margin_deg": 7.5258
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed04_ring04_std0.0025.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0078,
+        "radius_min": 1.0025,
+        "radius_max": 1.0164,
+        "gap_bdy_deg": 78.1981,
+        "gap_disk_deg": 78.1981,
+        "strip_deg": 82.8634,
+        "margin_deg": -4.6653
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8036,
+        "radius_min": 1.5964,
+        "radius_max": 2.004,
+        "gap_bdy_deg": 53.2418,
+        "gap_disk_deg": 53.2418,
+        "strip_deg": 33.673,
+        "margin_deg": 19.5689
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5621,
+        "radius_min": 2.0304,
+        "radius_max": 2.9814,
+        "gap_bdy_deg": 34.3218,
+        "gap_disk_deg": 34.3218,
+        "strip_deg": 22.9732,
+        "margin_deg": 11.3486
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2114,
+        "radius_min": 1.8492,
+        "radius_max": 3.9407,
+        "gap_bdy_deg": 18.2558,
+        "gap_disk_deg": 16.4225,
+        "strip_deg": 18.1432,
+        "margin_deg": -1.7207
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed04_ring04_std0.0045.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0085,
+        "radius_min": 0.994,
+        "radius_max": 1.0198,
+        "gap_bdy_deg": 79.9817,
+        "gap_disk_deg": 79.9817,
+        "strip_deg": 82.5494,
+        "margin_deg": -2.5677
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8069,
+        "radius_min": 1.5356,
+        "radius_max": 2.0073,
+        "gap_bdy_deg": 57.0707,
+        "gap_disk_deg": 57.0707,
+        "strip_deg": 33.602,
+        "margin_deg": 23.4687
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5626,
+        "radius_min": 1.7772,
+        "radius_max": 2.9869,
+        "gap_bdy_deg": 36.7764,
+        "gap_disk_deg": 36.7764,
+        "strip_deg": 22.9687,
+        "margin_deg": 13.8078
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2012,
+        "radius_min": 1.6882,
+        "radius_max": 3.9784,
+        "gap_bdy_deg": 17.9278,
+        "gap_disk_deg": 17.2052,
+        "strip_deg": 18.2029,
+        "margin_deg": -0.9977
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed04_ring04_std0.0058.ply",
+    "max_ring": 9,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0105,
+        "radius_min": 0.9901,
+        "radius_max": 1.0277,
+        "gap_bdy_deg": 80.1268,
+        "gap_disk_deg": 80.1268,
+        "strip_deg": 81.7482,
+        "margin_deg": -1.6214
+      },
+      "8": {
+        "n_verts": 147,
+        "radius_mean": 3.1886,
+        "radius_min": 1.4855,
+        "radius_max": 3.9745,
+        "gap_bdy_deg": 18.2534,
+        "gap_disk_deg": 18.2534,
+        "strip_deg": 18.2773,
+        "margin_deg": -0.0239
+      },
+      "9": {
+        "n_verts": 77,
+        "radius_mean": 2.3541,
+        "radius_min": 1.5184,
+        "radius_max": 2.9934,
+        "gap_bdy_deg": 37.8749,
+        "gap_disk_deg": 18.1097,
+        "strip_deg": 25.1375,
+        "margin_deg": -7.0278
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed04_ring05_std0.0546.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1973,
+        "radius_min": 1.131,
+        "radius_max": 1.2648,
+        "gap_bdy_deg": 78.9534,
+        "gap_disk_deg": 78.9534,
+        "strip_deg": 56.6366,
+        "margin_deg": 22.3168
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.123,
+        "radius_min": 1.8277,
+        "radius_max": 2.3855,
+        "gap_bdy_deg": 57.9965,
+        "gap_disk_deg": 57.9965,
+        "strip_deg": 28.101,
+        "margin_deg": 29.8955
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9553,
+        "radius_min": 2.3422,
+        "radius_max": 3.4685,
+        "gap_bdy_deg": 41.3744,
+        "gap_disk_deg": 41.3744,
+        "strip_deg": 19.7776,
+        "margin_deg": 21.5968
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6318,
+        "radius_min": 1.9225,
+        "radius_max": 4.5199,
+        "gap_bdy_deg": 24.9419,
+        "gap_disk_deg": 24.9419,
+        "strip_deg": 15.9825,
+        "margin_deg": 8.9594
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2111,
+        "radius_min": 1.3834,
+        "radius_max": 5.3516,
+        "gap_bdy_deg": 10.8915,
+        "gap_disk_deg": 10.5842,
+        "strip_deg": 13.7371,
+        "margin_deg": -3.1529
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed05_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 76.6805,
+        "gap_disk_deg": 76.6805,
+        "strip_deg": 89.9846,
+        "margin_deg": -13.3041
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7917,
+        "radius_min": 1.57,
+        "radius_max": 1.9669,
+        "gap_bdy_deg": 56.0807,
+        "gap_disk_deg": 56.0807,
+        "strip_deg": 33.9272,
+        "margin_deg": 22.1535
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed05_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 74.9849,
+        "gap_disk_deg": 74.9849,
+        "strip_deg": 90.0,
+        "margin_deg": -15.0151
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7546,
+        "radius_min": 1.4754,
+        "radius_max": 1.9873,
+        "gap_bdy_deg": 53.3561,
+        "gap_disk_deg": 53.3561,
+        "strip_deg": 34.7454,
+        "margin_deg": 18.6107
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4813,
+        "radius_min": 1.9659,
+        "radius_max": 2.8506,
+        "gap_bdy_deg": 39.9507,
+        "gap_disk_deg": 39.9507,
+        "strip_deg": 23.7663,
+        "margin_deg": 16.1843
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed05_ring04_std0.0018.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0064,
+        "radius_min": 0.9987,
+        "radius_max": 1.0119,
+        "gap_bdy_deg": 77.257,
+        "gap_disk_deg": 77.257,
+        "strip_deg": 83.5559,
+        "margin_deg": -6.2988
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7812,
+        "radius_min": 1.4898,
+        "radius_max": 2.0099,
+        "gap_bdy_deg": 55.2676,
+        "gap_disk_deg": 55.2676,
+        "strip_deg": 34.1548,
+        "margin_deg": 21.1128
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5418,
+        "radius_min": 1.8707,
+        "radius_max": 2.972,
+        "gap_bdy_deg": 38.7229,
+        "gap_disk_deg": 38.7229,
+        "strip_deg": 23.1672,
+        "margin_deg": 15.5557
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2637,
+        "radius_min": 1.9665,
+        "radius_max": 3.9696,
+        "gap_bdy_deg": 20.8053,
+        "gap_disk_deg": 20.8053,
+        "strip_deg": 17.8423,
+        "margin_deg": 2.963
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed05_ring04_std0.0028.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0117,
+        "radius_min": 1.0028,
+        "radius_max": 1.0194,
+        "gap_bdy_deg": 74.7136,
+        "gap_disk_deg": 74.7136,
+        "strip_deg": 81.2614,
+        "margin_deg": -6.5478
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.789,
+        "radius_min": 1.5439,
+        "radius_max": 2.0105,
+        "gap_bdy_deg": 55.4792,
+        "gap_disk_deg": 55.4792,
+        "strip_deg": 33.9849,
+        "margin_deg": 21.4943
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.548,
+        "radius_min": 1.9193,
+        "radius_max": 2.9806,
+        "gap_bdy_deg": 38.0349,
+        "gap_disk_deg": 38.0349,
+        "strip_deg": 23.1076,
+        "margin_deg": 14.9273
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2675,
+        "radius_min": 1.8872,
+        "radius_max": 3.9802,
+        "gap_bdy_deg": 20.8191,
+        "gap_disk_deg": 20.8191,
+        "strip_deg": 17.8212,
+        "margin_deg": 2.9979
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed05_ring04_std0.0044.ply",
+    "max_ring": 9,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0174,
+        "radius_min": 1.0048,
+        "radius_max": 1.029,
+        "gap_bdy_deg": 75.5417,
+        "gap_disk_deg": 75.5417,
+        "strip_deg": 79.3956,
+        "margin_deg": -3.8539
+      },
+      "8": {
+        "n_verts": 147,
+        "radius_mean": 3.2583,
+        "radius_min": 1.8201,
+        "radius_max": 3.9881,
+        "gap_bdy_deg": 20.9531,
+        "gap_disk_deg": 20.9531,
+        "strip_deg": 17.8732,
+        "margin_deg": 3.0799
+      },
+      "9": {
+        "n_verts": 77,
+        "radius_mean": 2.339,
+        "radius_min": 1.5713,
+        "radius_max": 2.9918,
+        "gap_bdy_deg": 38.7541,
+        "gap_disk_deg": 20.9531,
+        "strip_deg": 25.3111,
+        "margin_deg": -4.358
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed05_ring05_std0.0476.ply",
+    "max_ring": 9,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2164,
+        "radius_min": 1.1678,
+        "radius_max": 1.2675,
+        "gap_bdy_deg": 78.7134,
+        "gap_disk_deg": 78.7134,
+        "strip_deg": 55.2964,
+        "margin_deg": 23.417
+      },
+      "7": {
+        "n_verts": 385,
+        "radius_mean": 4.2702,
+        "radius_min": 1.2156,
+        "radius_max": 5.6021,
+        "gap_bdy_deg": 11.2409,
+        "gap_disk_deg": 11.2409,
+        "strip_deg": 13.5434,
+        "margin_deg": -2.3024
+      },
+      "8": {
+        "n_verts": 147,
+        "radius_mean": 3.6767,
+        "radius_min": 1.9374,
+        "radius_max": 4.563,
+        "gap_bdy_deg": 25.8037,
+        "gap_disk_deg": 11.2409,
+        "strip_deg": 15.7824,
+        "margin_deg": -4.5415
+      },
+      "9": {
+        "n_verts": 77,
+        "radius_mean": 2.7541,
+        "radius_min": 1.9271,
+        "radius_max": 3.5492,
+        "gap_bdy_deg": 43.1097,
+        "gap_disk_deg": 11.2409,
+        "strip_deg": 21.2905,
+        "margin_deg": -10.0496
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed05_ring05_std0.0487.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2071,
+        "radius_min": 1.174,
+        "radius_max": 1.2555,
+        "gap_bdy_deg": 79.1943,
+        "gap_disk_deg": 79.1943,
+        "strip_deg": 55.9353,
+        "margin_deg": 23.259
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1428,
+        "radius_min": 1.9051,
+        "radius_max": 2.4088,
+        "gap_bdy_deg": 60.2086,
+        "gap_disk_deg": 60.2086,
+        "strip_deg": 27.819,
+        "margin_deg": 32.3896
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9863,
+        "radius_min": 2.2852,
+        "radius_max": 3.4325,
+        "gap_bdy_deg": 42.4381,
+        "gap_disk_deg": 42.4381,
+        "strip_deg": 19.5643,
+        "margin_deg": 22.8739
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6976,
+        "radius_min": 2.0228,
+        "radius_max": 4.4768,
+        "gap_bdy_deg": 24.4737,
+        "gap_disk_deg": 24.4737,
+        "strip_deg": 15.6907,
+        "margin_deg": 8.783
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2915,
+        "radius_min": 1.2706,
+        "radius_max": 5.526,
+        "gap_bdy_deg": 10.5991,
+        "gap_disk_deg": 10.168,
+        "strip_deg": 13.4748,
+        "margin_deg": -3.3068
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed05_ring05_std0.0490.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2001,
+        "radius_min": 1.1572,
+        "radius_max": 1.2407,
+        "gap_bdy_deg": 77.945,
+        "gap_disk_deg": 77.945,
+        "strip_deg": 56.4361,
+        "margin_deg": 21.5089
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1356,
+        "radius_min": 1.8622,
+        "radius_max": 2.3951,
+        "gap_bdy_deg": 60.7216,
+        "gap_disk_deg": 60.7216,
+        "strip_deg": 27.9214,
+        "margin_deg": 32.8002
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9562,
+        "radius_min": 2.003,
+        "radius_max": 3.4688,
+        "gap_bdy_deg": 41.5009,
+        "gap_disk_deg": 41.5009,
+        "strip_deg": 19.7719,
+        "margin_deg": 21.729
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6642,
+        "radius_min": 1.6313,
+        "radius_max": 4.448,
+        "gap_bdy_deg": 24.3322,
+        "gap_disk_deg": 24.3322,
+        "strip_deg": 15.8376,
+        "margin_deg": 8.4946
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2566,
+        "radius_min": 0.9962,
+        "radius_max": 5.6159,
+        "gap_bdy_deg": 11.6998,
+        "gap_disk_deg": 11.3085,
+        "strip_deg": 13.5874,
+        "margin_deg": -2.2789
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed06_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 75.7302,
+        "gap_disk_deg": 75.7302,
+        "strip_deg": 89.9962,
+        "margin_deg": -14.266
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7471,
+        "radius_min": 1.4429,
+        "radius_max": 1.9827,
+        "gap_bdy_deg": 60.5526,
+        "gap_disk_deg": 59.4105,
+        "strip_deg": 34.9157,
+        "margin_deg": 24.4948
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed06_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 80.7611,
+        "gap_disk_deg": 80.7611,
+        "strip_deg": 89.9686,
+        "margin_deg": -9.2074
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7204,
+        "radius_min": 1.3468,
+        "radius_max": 1.9833,
+        "gap_bdy_deg": 58.3188,
+        "gap_disk_deg": 56.2611,
+        "strip_deg": 35.5404,
+        "margin_deg": 20.7207
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4595,
+        "radius_min": 1.4573,
+        "radius_max": 2.9048,
+        "gap_bdy_deg": 39.5818,
+        "gap_disk_deg": 39.5818,
+        "strip_deg": 23.9903,
+        "margin_deg": 15.5915
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed06_ring04_std0.0012.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0025,
+        "radius_min": 0.9993,
+        "radius_max": 1.0042,
+        "gap_bdy_deg": 77.1302,
+        "gap_disk_deg": 77.1302,
+        "strip_deg": 85.925,
+        "margin_deg": -8.7948
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7899,
+        "radius_min": 1.4811,
+        "radius_max": 1.9919,
+        "gap_bdy_deg": 57.7135,
+        "gap_disk_deg": 57.7135,
+        "strip_deg": 33.9649,
+        "margin_deg": 23.7486
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5297,
+        "radius_min": 1.4607,
+        "radius_max": 2.9831,
+        "gap_bdy_deg": 40.6345,
+        "gap_disk_deg": 40.6345,
+        "strip_deg": 23.2853,
+        "margin_deg": 17.3492
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2515,
+        "radius_min": 1.3936,
+        "radius_max": 3.9569,
+        "gap_bdy_deg": 18.9513,
+        "gap_disk_deg": 18.9513,
+        "strip_deg": 17.9117,
+        "margin_deg": 1.0396
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed06_ring04_std0.0022.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.003,
+        "radius_min": 0.9987,
+        "radius_max": 1.0054,
+        "gap_bdy_deg": 76.6016,
+        "gap_disk_deg": 76.6016,
+        "strip_deg": 85.575,
+        "margin_deg": -8.9734
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7925,
+        "radius_min": 1.4545,
+        "radius_max": 1.9955,
+        "gap_bdy_deg": 57.7887,
+        "gap_disk_deg": 57.7887,
+        "strip_deg": 33.9097,
+        "margin_deg": 23.879
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5312,
+        "radius_min": 1.4588,
+        "radius_max": 2.99,
+        "gap_bdy_deg": 41.1868,
+        "gap_disk_deg": 41.1868,
+        "strip_deg": 23.2705,
+        "margin_deg": 17.9163
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2516,
+        "radius_min": 1.4175,
+        "radius_max": 3.9129,
+        "gap_bdy_deg": 20.2449,
+        "gap_disk_deg": 20.2449,
+        "strip_deg": 17.9109,
+        "margin_deg": 2.3341
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed06_ring05_std0.0415.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1969,
+        "radius_min": 1.1523,
+        "radius_max": 1.2464,
+        "gap_bdy_deg": 77.4589,
+        "gap_disk_deg": 77.4589,
+        "strip_deg": 56.6673,
+        "margin_deg": 20.7916
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1256,
+        "radius_min": 1.7503,
+        "radius_max": 2.4101,
+        "gap_bdy_deg": 65.7673,
+        "gap_disk_deg": 65.7673,
+        "strip_deg": 28.0641,
+        "margin_deg": 37.7033
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9301,
+        "radius_min": 1.6689,
+        "radius_max": 3.4256,
+        "gap_bdy_deg": 46.6353,
+        "gap_disk_deg": 46.6353,
+        "strip_deg": 19.955,
+        "margin_deg": 26.6803
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6351,
+        "radius_min": 1.485,
+        "radius_max": 4.449,
+        "gap_bdy_deg": 25.0989,
+        "gap_disk_deg": 25.0989,
+        "strip_deg": 15.9679,
+        "margin_deg": 9.131
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2394,
+        "radius_min": 0.9917,
+        "radius_max": 5.4311,
+        "gap_bdy_deg": 10.956,
+        "gap_disk_deg": 10.956,
+        "strip_deg": 13.6437,
+        "margin_deg": -2.6878
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed07_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 79.0361,
+        "gap_disk_deg": 79.0361,
+        "strip_deg": 90.0,
+        "margin_deg": -10.9639
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7719,
+        "radius_min": 1.5841,
+        "radius_max": 1.9923,
+        "gap_bdy_deg": 56.6794,
+        "gap_disk_deg": 56.6794,
+        "strip_deg": 34.3573,
+        "margin_deg": 22.322
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed07_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 82.7839,
+        "gap_disk_deg": 82.7839,
+        "strip_deg": 89.9785,
+        "margin_deg": -7.1946
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7317,
+        "radius_min": 1.183,
+        "radius_max": 1.9978,
+        "gap_bdy_deg": 57.7133,
+        "gap_disk_deg": 57.7133,
+        "strip_deg": 35.2722,
+        "margin_deg": 22.4411
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4655,
+        "radius_min": 1.7147,
+        "radius_max": 2.9423,
+        "gap_bdy_deg": 36.1506,
+        "gap_disk_deg": 36.1506,
+        "strip_deg": 23.929,
+        "margin_deg": 12.2217
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed07_ring04_std0.0041.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0143,
+        "radius_min": 1.0045,
+        "radius_max": 1.0304,
+        "gap_bdy_deg": 73.1922,
+        "gap_disk_deg": 73.1922,
+        "strip_deg": 80.3802,
+        "margin_deg": -7.1879
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8188,
+        "radius_min": 1.5827,
+        "radius_max": 2.019,
+        "gap_bdy_deg": 55.7046,
+        "gap_disk_deg": 55.7046,
+        "strip_deg": 33.3533,
+        "margin_deg": 22.3513
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5753,
+        "radius_min": 2.0778,
+        "radius_max": 2.9835,
+        "gap_bdy_deg": 38.3919,
+        "gap_disk_deg": 38.3919,
+        "strip_deg": 22.8492,
+        "margin_deg": 15.5426
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2471,
+        "radius_min": 1.6215,
+        "radius_max": 3.9299,
+        "gap_bdy_deg": 18.7917,
+        "gap_disk_deg": 18.7917,
+        "strip_deg": 17.937,
+        "margin_deg": 0.8547
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed07_ring04_std0.0047.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0148,
+        "radius_min": 1.004,
+        "radius_max": 1.0336,
+        "gap_bdy_deg": 73.0455,
+        "gap_disk_deg": 73.0455,
+        "strip_deg": 80.2079,
+        "margin_deg": -7.1624
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8187,
+        "radius_min": 1.584,
+        "radius_max": 2.0178,
+        "gap_bdy_deg": 55.9072,
+        "gap_disk_deg": 55.9072,
+        "strip_deg": 33.3569,
+        "margin_deg": 22.5503
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5784,
+        "radius_min": 2.0552,
+        "radius_max": 2.9762,
+        "gap_bdy_deg": 38.5755,
+        "gap_disk_deg": 38.5755,
+        "strip_deg": 22.8197,
+        "margin_deg": 15.7558
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2464,
+        "radius_min": 1.6171,
+        "radius_max": 3.9317,
+        "gap_bdy_deg": 19.1187,
+        "gap_disk_deg": 19.1187,
+        "strip_deg": 17.9406,
+        "margin_deg": 1.1781
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed07_ring05_std0.0432.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2163,
+        "radius_min": 1.1606,
+        "radius_max": 1.251,
+        "gap_bdy_deg": 77.9532,
+        "gap_disk_deg": 77.9532,
+        "strip_deg": 55.3015,
+        "margin_deg": 22.6517
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1554,
+        "radius_min": 1.9405,
+        "radius_max": 2.462,
+        "gap_bdy_deg": 62.8342,
+        "gap_disk_deg": 62.8342,
+        "strip_deg": 27.6427,
+        "margin_deg": 35.1915
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9738,
+        "radius_min": 1.9137,
+        "radius_max": 3.5465,
+        "gap_bdy_deg": 42.4266,
+        "gap_disk_deg": 42.4266,
+        "strip_deg": 19.65,
+        "margin_deg": 22.7766
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6611,
+        "radius_min": 1.5305,
+        "radius_max": 4.5215,
+        "gap_bdy_deg": 25.7995,
+        "gap_disk_deg": 25.7995,
+        "strip_deg": 15.8515,
+        "margin_deg": 9.948
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2504,
+        "radius_min": 0.9934,
+        "radius_max": 5.5197,
+        "gap_bdy_deg": 12.4756,
+        "gap_disk_deg": 12.4756,
+        "strip_deg": 13.6075,
+        "margin_deg": -1.1319
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed08_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 82.7918,
+        "gap_disk_deg": 82.7918,
+        "strip_deg": 90.0,
+        "margin_deg": -7.2082
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7561,
+        "radius_min": 1.353,
+        "radius_max": 1.9877,
+        "gap_bdy_deg": 56.8167,
+        "gap_disk_deg": 56.8167,
+        "strip_deg": 34.712,
+        "margin_deg": 22.1047
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed08_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 85.7419,
+        "gap_disk_deg": 85.7419,
+        "strip_deg": 89.97,
+        "margin_deg": -4.2281
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7561,
+        "radius_min": 1.358,
+        "radius_max": 1.9702,
+        "gap_bdy_deg": 57.1473,
+        "gap_disk_deg": 57.1473,
+        "strip_deg": 34.7122,
+        "margin_deg": 22.4351
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5146,
+        "radius_min": 1.6856,
+        "radius_max": 2.868,
+        "gap_bdy_deg": 40.6677,
+        "gap_disk_deg": 40.6677,
+        "strip_deg": 23.4328,
+        "margin_deg": 17.2349
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed08_ring04_std0.0039.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0101,
+        "radius_min": 0.9982,
+        "radius_max": 1.0172,
+        "gap_bdy_deg": 79.3898,
+        "gap_disk_deg": 79.3898,
+        "strip_deg": 81.905,
+        "margin_deg": -2.5152
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8097,
+        "radius_min": 1.5908,
+        "radius_max": 1.9943,
+        "gap_bdy_deg": 53.7836,
+        "gap_disk_deg": 53.7836,
+        "strip_deg": 33.5439,
+        "margin_deg": 20.2397
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5791,
+        "radius_min": 1.7274,
+        "radius_max": 2.971,
+        "gap_bdy_deg": 37.9256,
+        "gap_disk_deg": 37.9256,
+        "strip_deg": 22.8135,
+        "margin_deg": 15.1121
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2364,
+        "radius_min": 1.5824,
+        "radius_max": 3.9331,
+        "gap_bdy_deg": 22.334,
+        "gap_disk_deg": 22.334,
+        "strip_deg": 17.9984,
+        "margin_deg": 4.3356
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed08_ring04_std0.0043.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0105,
+        "radius_min": 0.9983,
+        "radius_max": 1.0164,
+        "gap_bdy_deg": 79.2062,
+        "gap_disk_deg": 79.2062,
+        "strip_deg": 81.7282,
+        "margin_deg": -2.522
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8123,
+        "radius_min": 1.6082,
+        "radius_max": 2.0002,
+        "gap_bdy_deg": 53.9343,
+        "gap_disk_deg": 53.9343,
+        "strip_deg": 33.4898,
+        "margin_deg": 20.4445
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5843,
+        "radius_min": 1.7431,
+        "radius_max": 2.9716,
+        "gap_bdy_deg": 37.6378,
+        "gap_disk_deg": 37.6378,
+        "strip_deg": 22.7652,
+        "margin_deg": 14.8726
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2447,
+        "radius_min": 1.6003,
+        "radius_max": 3.9237,
+        "gap_bdy_deg": 21.8097,
+        "gap_disk_deg": 21.8097,
+        "strip_deg": 17.9506,
+        "margin_deg": 3.8591
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed08_ring05_std0.0457.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1974,
+        "radius_min": 1.1584,
+        "radius_max": 1.2475,
+        "gap_bdy_deg": 77.1133,
+        "gap_disk_deg": 77.1133,
+        "strip_deg": 56.6326,
+        "margin_deg": 20.4807
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1311,
+        "radius_min": 1.7836,
+        "radius_max": 2.419,
+        "gap_bdy_deg": 60.7248,
+        "gap_disk_deg": 60.7248,
+        "strip_deg": 27.9846,
+        "margin_deg": 32.7402
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9683,
+        "radius_min": 2.0748,
+        "radius_max": 3.5123,
+        "gap_bdy_deg": 44.1948,
+        "gap_disk_deg": 44.1948,
+        "strip_deg": 19.6874,
+        "margin_deg": 24.5074
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6553,
+        "radius_min": 1.7277,
+        "radius_max": 4.5392,
+        "gap_bdy_deg": 26.6988,
+        "gap_disk_deg": 26.6988,
+        "strip_deg": 15.8771,
+        "margin_deg": 10.8217
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.226,
+        "radius_min": 0.9989,
+        "radius_max": 5.5009,
+        "gap_bdy_deg": 12.9604,
+        "gap_disk_deg": 12.9604,
+        "strip_deg": 13.6876,
+        "margin_deg": -0.7273
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed09_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 88.852,
+        "gap_disk_deg": 88.852,
+        "strip_deg": 89.956,
+        "margin_deg": -1.104
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7568,
+        "radius_min": 1.3005,
+        "radius_max": 1.9908,
+        "gap_bdy_deg": 56.797,
+        "gap_disk_deg": 56.797,
+        "strip_deg": 34.6959,
+        "margin_deg": 22.1011
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed09_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 93.5976,
+        "gap_disk_deg": 93.5976,
+        "strip_deg": 89.9681,
+        "margin_deg": 3.6295
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7324,
+        "radius_min": 1.2943,
+        "radius_max": 1.9941,
+        "gap_bdy_deg": 60.4722,
+        "gap_disk_deg": 60.4722,
+        "strip_deg": 35.257,
+        "margin_deg": 25.2152
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4821,
+        "radius_min": 1.6911,
+        "radius_max": 2.9405,
+        "gap_bdy_deg": 43.0464,
+        "gap_disk_deg": 43.0464,
+        "strip_deg": 23.7591,
+        "margin_deg": 19.2873
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed09_ring04_std0.0014.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0029,
+        "radius_min": 0.9995,
+        "radius_max": 1.0083,
+        "gap_bdy_deg": 83.845,
+        "gap_disk_deg": 83.845,
+        "strip_deg": 85.6079,
+        "margin_deg": -1.7628
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7842,
+        "radius_min": 1.384,
+        "radius_max": 1.9809,
+        "gap_bdy_deg": 55.5675,
+        "gap_disk_deg": 55.5675,
+        "strip_deg": 34.0876,
+        "margin_deg": 21.4799
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5729,
+        "radius_min": 2.0524,
+        "radius_max": 2.8927,
+        "gap_bdy_deg": 38.4946,
+        "gap_disk_deg": 38.4946,
+        "strip_deg": 22.8712,
+        "margin_deg": 15.6234
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2286,
+        "radius_min": 1.1685,
+        "radius_max": 3.8402,
+        "gap_bdy_deg": 23.0395,
+        "gap_disk_deg": 18.4485,
+        "strip_deg": 18.0433,
+        "margin_deg": 0.4052
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed09_ring04_std0.0031.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0094,
+        "radius_min": 0.9983,
+        "radius_max": 1.0177,
+        "gap_bdy_deg": 85.3363,
+        "gap_disk_deg": 85.3363,
+        "strip_deg": 82.1754,
+        "margin_deg": 3.1609
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7928,
+        "radius_min": 1.4306,
+        "radius_max": 2.0101,
+        "gap_bdy_deg": 56.6652,
+        "gap_disk_deg": 56.6652,
+        "strip_deg": 33.9027,
+        "margin_deg": 22.7625
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5843,
+        "radius_min": 2.0553,
+        "radius_max": 2.9156,
+        "gap_bdy_deg": 40.545,
+        "gap_disk_deg": 40.545,
+        "strip_deg": 22.7651,
+        "margin_deg": 17.7799
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2334,
+        "radius_min": 1.1681,
+        "radius_max": 3.8636,
+        "gap_bdy_deg": 23.4537,
+        "gap_disk_deg": 19.9697,
+        "strip_deg": 18.0151,
+        "margin_deg": 1.9546
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed09_ring05_std0.0414.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1797,
+        "radius_min": 1.087,
+        "radius_max": 1.2409,
+        "gap_bdy_deg": 78.1002,
+        "gap_disk_deg": 78.1002,
+        "strip_deg": 57.962,
+        "margin_deg": 20.1382
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1022,
+        "radius_min": 1.814,
+        "radius_max": 2.4273,
+        "gap_bdy_deg": 58.1995,
+        "gap_disk_deg": 58.1995,
+        "strip_deg": 28.4047,
+        "margin_deg": 29.7948
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9387,
+        "radius_min": 2.321,
+        "radius_max": 3.5598,
+        "gap_bdy_deg": 40.7084,
+        "gap_disk_deg": 40.7084,
+        "strip_deg": 19.8942,
+        "margin_deg": 20.8142
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6207,
+        "radius_min": 1.6075,
+        "radius_max": 4.5654,
+        "gap_bdy_deg": 23.8122,
+        "gap_disk_deg": 23.8122,
+        "strip_deg": 16.0327,
+        "margin_deg": 7.7795
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2208,
+        "radius_min": 0.994,
+        "radius_max": 5.4565,
+        "gap_bdy_deg": 11.1098,
+        "gap_disk_deg": 9.7874,
+        "strip_deg": 13.705,
+        "margin_deg": -3.9177
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed09_ring05_std0.0459.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1934,
+        "radius_min": 1.1283,
+        "radius_max": 1.2335,
+        "gap_bdy_deg": 78.6669,
+        "gap_disk_deg": 78.6669,
+        "strip_deg": 56.9205,
+        "margin_deg": 21.7464
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1232,
+        "radius_min": 1.8373,
+        "radius_max": 2.3436,
+        "gap_bdy_deg": 56.087,
+        "gap_disk_deg": 56.087,
+        "strip_deg": 28.0991,
+        "margin_deg": 27.9879
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9609,
+        "radius_min": 2.1885,
+        "radius_max": 3.377,
+        "gap_bdy_deg": 39.8974,
+        "gap_disk_deg": 39.8974,
+        "strip_deg": 19.7389,
+        "margin_deg": 20.1586
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6384,
+        "radius_min": 1.725,
+        "radius_max": 4.4538,
+        "gap_bdy_deg": 25.2554,
+        "gap_disk_deg": 25.2554,
+        "strip_deg": 15.953,
+        "margin_deg": 9.3024
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.224,
+        "radius_min": 0.9985,
+        "radius_max": 5.4295,
+        "gap_bdy_deg": 10.9976,
+        "gap_disk_deg": 10.6286,
+        "strip_deg": 13.6943,
+        "margin_deg": -3.0657
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed10_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 85.0896,
+        "gap_disk_deg": 85.0896,
+        "strip_deg": 89.9723,
+        "margin_deg": -4.8826
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7717,
+        "radius_min": 1.2162,
+        "radius_max": 1.992,
+        "gap_bdy_deg": 62.4275,
+        "gap_disk_deg": 62.4275,
+        "strip_deg": 34.3636,
+        "margin_deg": 28.0639
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed10_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 83.2165,
+        "gap_disk_deg": 83.2165,
+        "strip_deg": 89.967,
+        "margin_deg": -6.7505
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7696,
+        "radius_min": 1.124,
+        "radius_max": 1.9962,
+        "gap_bdy_deg": 59.5638,
+        "gap_disk_deg": 59.5638,
+        "strip_deg": 34.41,
+        "margin_deg": 25.1538
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5085,
+        "radius_min": 1.6575,
+        "radius_max": 2.9236,
+        "gap_bdy_deg": 39.6251,
+        "gap_disk_deg": 39.6251,
+        "strip_deg": 23.4939,
+        "margin_deg": 16.1311
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed10_ring04_std0.0010.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0037,
+        "radius_min": 1.001,
+        "radius_max": 1.0073,
+        "gap_bdy_deg": 79.8786,
+        "gap_disk_deg": 79.8786,
+        "strip_deg": 85.0516,
+        "margin_deg": -5.173
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8106,
+        "radius_min": 1.4063,
+        "radius_max": 2.0003,
+        "gap_bdy_deg": 54.6373,
+        "gap_disk_deg": 54.6373,
+        "strip_deg": 33.5247,
+        "margin_deg": 21.1125
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5618,
+        "radius_min": 1.9338,
+        "radius_max": 2.9187,
+        "gap_bdy_deg": 37.6295,
+        "gap_disk_deg": 37.6295,
+        "strip_deg": 22.9759,
+        "margin_deg": 14.6536
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2433,
+        "radius_min": 1.5527,
+        "radius_max": 3.8852,
+        "gap_bdy_deg": 19.0631,
+        "gap_disk_deg": 19.0631,
+        "strip_deg": 17.9588,
+        "margin_deg": 1.1044
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed10_ring04_std0.0019.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0071,
+        "radius_min": 1.0002,
+        "radius_max": 1.0158,
+        "gap_bdy_deg": 78.9914,
+        "gap_disk_deg": 78.9914,
+        "strip_deg": 83.1999,
+        "margin_deg": -4.2085
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8131,
+        "radius_min": 1.3929,
+        "radius_max": 2.0031,
+        "gap_bdy_deg": 54.4332,
+        "gap_disk_deg": 54.4332,
+        "strip_deg": 33.4734,
+        "margin_deg": 20.9598
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5639,
+        "radius_min": 1.9185,
+        "radius_max": 2.9249,
+        "gap_bdy_deg": 37.4163,
+        "gap_disk_deg": 37.4163,
+        "strip_deg": 22.9568,
+        "margin_deg": 14.4595
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2437,
+        "radius_min": 1.5405,
+        "radius_max": 3.8766,
+        "gap_bdy_deg": 19.1678,
+        "gap_disk_deg": 19.1678,
+        "strip_deg": 17.9562,
+        "margin_deg": 1.2116
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed10_ring05_std0.0450.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2098,
+        "radius_min": 1.1475,
+        "radius_max": 1.2749,
+        "gap_bdy_deg": 80.975,
+        "gap_disk_deg": 80.975,
+        "strip_deg": 55.7519,
+        "margin_deg": 25.2231
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1443,
+        "radius_min": 1.9205,
+        "radius_max": 2.4059,
+        "gap_bdy_deg": 61.7249,
+        "gap_disk_deg": 61.7249,
+        "strip_deg": 27.7984,
+        "margin_deg": 33.9264
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9638,
+        "radius_min": 2.2773,
+        "radius_max": 3.4359,
+        "gap_bdy_deg": 40.6174,
+        "gap_disk_deg": 40.6174,
+        "strip_deg": 19.7187,
+        "margin_deg": 20.8987
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6304,
+        "radius_min": 1.7594,
+        "radius_max": 4.4416,
+        "gap_bdy_deg": 25.9539,
+        "gap_disk_deg": 25.9539,
+        "strip_deg": 15.9891,
+        "margin_deg": 9.9648
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2289,
+        "radius_min": 0.9885,
+        "radius_max": 5.4525,
+        "gap_bdy_deg": 11.2479,
+        "gap_disk_deg": 11.2479,
+        "strip_deg": 13.6782,
+        "margin_deg": -2.4303
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed10_ring05_std0.0502.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2103,
+        "radius_min": 1.1601,
+        "radius_max": 1.2589,
+        "gap_bdy_deg": 82.2252,
+        "gap_disk_deg": 82.2252,
+        "strip_deg": 55.7162,
+        "margin_deg": 26.509
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1374,
+        "radius_min": 1.8979,
+        "radius_max": 2.4163,
+        "gap_bdy_deg": 60.1243,
+        "gap_disk_deg": 60.1243,
+        "strip_deg": 27.8957,
+        "margin_deg": 32.2286
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9659,
+        "radius_min": 2.4666,
+        "radius_max": 3.3972,
+        "gap_bdy_deg": 40.5397,
+        "gap_disk_deg": 40.5397,
+        "strip_deg": 19.7042,
+        "margin_deg": 20.8355
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6682,
+        "radius_min": 1.9952,
+        "radius_max": 4.4608,
+        "gap_bdy_deg": 22.7968,
+        "gap_disk_deg": 22.7968,
+        "strip_deg": 15.8197,
+        "margin_deg": 6.977
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2446,
+        "radius_min": 1.1122,
+        "radius_max": 5.4479,
+        "gap_bdy_deg": 10.9669,
+        "gap_disk_deg": 10.3074,
+        "strip_deg": 13.6267,
+        "margin_deg": -3.3192
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed11_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 78.7665,
+        "gap_disk_deg": 78.7665,
+        "strip_deg": 90.0,
+        "margin_deg": -11.2335
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7464,
+        "radius_min": 1.446,
+        "radius_max": 1.9807,
+        "gap_bdy_deg": 55.7719,
+        "gap_disk_deg": 54.2817,
+        "strip_deg": 34.9329,
+        "margin_deg": 19.3488
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed11_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 83.1676,
+        "gap_disk_deg": 83.1676,
+        "strip_deg": 89.9586,
+        "margin_deg": -6.7911
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7213,
+        "radius_min": 1.2934,
+        "radius_max": 1.9966,
+        "gap_bdy_deg": 51.8043,
+        "gap_disk_deg": 51.8043,
+        "strip_deg": 35.5177,
+        "margin_deg": 16.2865
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4413,
+        "radius_min": 1.3634,
+        "radius_max": 2.9268,
+        "gap_bdy_deg": 37.595,
+        "gap_disk_deg": 37.595,
+        "strip_deg": 24.181,
+        "margin_deg": 13.4141
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed11_ring04_std0.0031.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0075,
+        "radius_min": 1.0009,
+        "radius_max": 1.0141,
+        "gap_bdy_deg": 72.5665,
+        "gap_disk_deg": 72.5665,
+        "strip_deg": 83.0176,
+        "margin_deg": -10.4511
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.809,
+        "radius_min": 1.5806,
+        "radius_max": 1.979,
+        "gap_bdy_deg": 58.011,
+        "gap_disk_deg": 58.011,
+        "strip_deg": 33.5587,
+        "margin_deg": 24.4522
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5346,
+        "radius_min": 1.5611,
+        "radius_max": 2.9371,
+        "gap_bdy_deg": 39.7922,
+        "gap_disk_deg": 39.7922,
+        "strip_deg": 23.2369,
+        "margin_deg": 16.5552
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2284,
+        "radius_min": 1.4895,
+        "radius_max": 3.936,
+        "gap_bdy_deg": 21.8842,
+        "gap_disk_deg": 19.5248,
+        "strip_deg": 18.0441,
+        "margin_deg": 1.4807
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed11_ring04_std0.0035.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.008,
+        "radius_min": 1.0028,
+        "radius_max": 1.0127,
+        "gap_bdy_deg": 71.589,
+        "gap_disk_deg": 71.589,
+        "strip_deg": 82.7973,
+        "margin_deg": -11.2083
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8142,
+        "radius_min": 1.5866,
+        "radius_max": 1.9833,
+        "gap_bdy_deg": 58.3124,
+        "gap_disk_deg": 58.3124,
+        "strip_deg": 33.4489,
+        "margin_deg": 24.8635
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5414,
+        "radius_min": 1.5951,
+        "radius_max": 2.9549,
+        "gap_bdy_deg": 40.0599,
+        "gap_disk_deg": 40.0599,
+        "strip_deg": 23.1717,
+        "margin_deg": 16.8882
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2369,
+        "radius_min": 1.4967,
+        "radius_max": 3.9517,
+        "gap_bdy_deg": 21.9733,
+        "gap_disk_deg": 20.5234,
+        "strip_deg": 17.9953,
+        "margin_deg": 2.528
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed11_ring05_std0.0481.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2051,
+        "radius_min": 1.1415,
+        "radius_max": 1.2542,
+        "gap_bdy_deg": 79.2785,
+        "gap_disk_deg": 79.2785,
+        "strip_deg": 56.0801,
+        "margin_deg": 23.1984
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1273,
+        "radius_min": 1.7767,
+        "radius_max": 2.3828,
+        "gap_bdy_deg": 64.0448,
+        "gap_disk_deg": 64.0448,
+        "strip_deg": 28.039,
+        "margin_deg": 36.0058
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9523,
+        "radius_min": 1.9992,
+        "radius_max": 3.4368,
+        "gap_bdy_deg": 47.0473,
+        "gap_disk_deg": 47.0473,
+        "strip_deg": 19.7987,
+        "margin_deg": 27.2485
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6609,
+        "radius_min": 1.7914,
+        "radius_max": 4.5257,
+        "gap_bdy_deg": 30.4468,
+        "gap_disk_deg": 30.4468,
+        "strip_deg": 15.8521,
+        "margin_deg": 14.5947
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2592,
+        "radius_min": 1.088,
+        "radius_max": 5.4873,
+        "gap_bdy_deg": 11.3803,
+        "gap_disk_deg": 11.3803,
+        "strip_deg": 13.5791,
+        "margin_deg": -2.1988
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed11_ring05_std0.0528.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2039,
+        "radius_min": 1.126,
+        "radius_max": 1.2515,
+        "gap_bdy_deg": 80.7146,
+        "gap_disk_deg": 80.7146,
+        "strip_deg": 56.1633,
+        "margin_deg": 24.5513
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1373,
+        "radius_min": 1.7447,
+        "radius_max": 2.3798,
+        "gap_bdy_deg": 64.1156,
+        "gap_disk_deg": 64.1156,
+        "strip_deg": 27.8963,
+        "margin_deg": 36.2193
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9517,
+        "radius_min": 2.01,
+        "radius_max": 3.4446,
+        "gap_bdy_deg": 45.0017,
+        "gap_disk_deg": 45.0017,
+        "strip_deg": 19.8028,
+        "margin_deg": 25.1989
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6513,
+        "radius_min": 1.6495,
+        "radius_max": 4.499,
+        "gap_bdy_deg": 27.0208,
+        "gap_disk_deg": 27.0208,
+        "strip_deg": 15.895,
+        "margin_deg": 11.1258
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2479,
+        "radius_min": 1.0369,
+        "radius_max": 5.5343,
+        "gap_bdy_deg": 12.4357,
+        "gap_disk_deg": 12.4357,
+        "strip_deg": 13.6159,
+        "margin_deg": -1.1802
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed11_ring05_std0.0543.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2106,
+        "radius_min": 1.1399,
+        "radius_max": 1.2609,
+        "gap_bdy_deg": 80.4043,
+        "gap_disk_deg": 80.4043,
+        "strip_deg": 55.6951,
+        "margin_deg": 24.7092
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1466,
+        "radius_min": 1.8359,
+        "radius_max": 2.4519,
+        "gap_bdy_deg": 63.6481,
+        "gap_disk_deg": 63.6481,
+        "strip_deg": 27.7658,
+        "margin_deg": 35.8823
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9653,
+        "radius_min": 2.0282,
+        "radius_max": 3.516,
+        "gap_bdy_deg": 46.0792,
+        "gap_disk_deg": 46.0792,
+        "strip_deg": 19.7086,
+        "margin_deg": 26.3706
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6698,
+        "radius_min": 1.6679,
+        "radius_max": 4.587,
+        "gap_bdy_deg": 28.4893,
+        "gap_disk_deg": 28.4893,
+        "strip_deg": 15.8127,
+        "margin_deg": 12.6766
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2786,
+        "radius_min": 0.9977,
+        "radius_max": 5.5419,
+        "gap_bdy_deg": 11.7082,
+        "gap_disk_deg": 11.7082,
+        "strip_deg": 13.5163,
+        "margin_deg": -1.8081
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed12_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 80.0472,
+        "gap_disk_deg": 80.0472,
+        "strip_deg": 90.0,
+        "margin_deg": -9.9528
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8001,
+        "radius_min": 1.3841,
+        "radius_max": 1.9722,
+        "gap_bdy_deg": 63.1868,
+        "gap_disk_deg": 63.1868,
+        "strip_deg": 33.7465,
+        "margin_deg": 29.4403
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed12_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 83.9994,
+        "gap_disk_deg": 83.9994,
+        "strip_deg": 89.9706,
+        "margin_deg": -5.9712
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7614,
+        "radius_min": 1.2384,
+        "radius_max": 1.9822,
+        "gap_bdy_deg": 64.8003,
+        "gap_disk_deg": 64.8003,
+        "strip_deg": 34.5929,
+        "margin_deg": 30.2074
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4966,
+        "radius_min": 1.8012,
+        "radius_max": 2.905,
+        "gap_bdy_deg": 46.3862,
+        "gap_disk_deg": 46.3862,
+        "strip_deg": 23.6119,
+        "margin_deg": 22.7743
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed12_ring04_std0.0005.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0006,
+        "radius_min": 1.0001,
+        "radius_max": 1.0016,
+        "gap_bdy_deg": 72.9464,
+        "gap_disk_deg": 72.9464,
+        "strip_deg": 88.0606,
+        "margin_deg": -15.1142
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8167,
+        "radius_min": 1.4716,
+        "radius_max": 1.9783,
+        "gap_bdy_deg": 55.0727,
+        "gap_disk_deg": 55.0727,
+        "strip_deg": 33.3988,
+        "margin_deg": 21.6738
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5874,
+        "radius_min": 1.8067,
+        "radius_max": 2.8625,
+        "gap_bdy_deg": 38.7977,
+        "gap_disk_deg": 38.7977,
+        "strip_deg": 22.736,
+        "margin_deg": 16.0617
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2958,
+        "radius_min": 1.9734,
+        "radius_max": 3.8558,
+        "gap_bdy_deg": 22.5546,
+        "gap_disk_deg": 22.5546,
+        "strip_deg": 17.6629,
+        "margin_deg": 4.8917
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed12_ring04_std0.0014.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0022,
+        "radius_min": 1.0,
+        "radius_max": 1.0037,
+        "gap_bdy_deg": 73.7688,
+        "gap_disk_deg": 73.7688,
+        "strip_deg": 86.2289,
+        "margin_deg": -12.4601
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8188,
+        "radius_min": 1.4814,
+        "radius_max": 1.9838,
+        "gap_bdy_deg": 54.9795,
+        "gap_disk_deg": 54.9795,
+        "strip_deg": 33.3534,
+        "margin_deg": 21.6261
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5881,
+        "radius_min": 1.7529,
+        "radius_max": 2.8758,
+        "gap_bdy_deg": 38.0697,
+        "gap_disk_deg": 38.0697,
+        "strip_deg": 22.7294,
+        "margin_deg": 15.3403
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2922,
+        "radius_min": 1.9131,
+        "radius_max": 3.8724,
+        "gap_bdy_deg": 22.4929,
+        "gap_disk_deg": 22.4929,
+        "strip_deg": 17.6831,
+        "margin_deg": 4.8098
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed12_ring05_std0.0496.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2001,
+        "radius_min": 1.1689,
+        "radius_max": 1.2264,
+        "gap_bdy_deg": 78.056,
+        "gap_disk_deg": 78.056,
+        "strip_deg": 56.4361,
+        "margin_deg": 21.6199
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1427,
+        "radius_min": 1.7591,
+        "radius_max": 2.3813,
+        "gap_bdy_deg": 60.7622,
+        "gap_disk_deg": 60.7622,
+        "strip_deg": 27.8203,
+        "margin_deg": 32.9419
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9789,
+        "radius_min": 1.9613,
+        "radius_max": 3.3882,
+        "gap_bdy_deg": 41.3505,
+        "gap_disk_deg": 41.3505,
+        "strip_deg": 19.6151,
+        "margin_deg": 21.7354
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6581,
+        "radius_min": 1.8539,
+        "radius_max": 4.3874,
+        "gap_bdy_deg": 24.7465,
+        "gap_disk_deg": 24.7465,
+        "strip_deg": 15.8647,
+        "margin_deg": 8.8818
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.25,
+        "radius_min": 1.1087,
+        "radius_max": 5.3839,
+        "gap_bdy_deg": 11.0364,
+        "gap_disk_deg": 10.8144,
+        "strip_deg": 13.6091,
+        "margin_deg": -2.7947
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed13_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 84.1515,
+        "gap_disk_deg": 84.1515,
+        "strip_deg": 90.0,
+        "margin_deg": -5.8485
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7619,
+        "radius_min": 1.3669,
+        "radius_max": 1.9988,
+        "gap_bdy_deg": 57.8425,
+        "gap_disk_deg": 57.8425,
+        "strip_deg": 34.5816,
+        "margin_deg": 23.2609
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed13_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 89.1612,
+        "gap_disk_deg": 89.1612,
+        "strip_deg": 89.9513,
+        "margin_deg": -0.7901
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.728,
+        "radius_min": 1.1661,
+        "radius_max": 1.9949,
+        "gap_bdy_deg": 60.2033,
+        "gap_disk_deg": 60.2033,
+        "strip_deg": 35.3601,
+        "margin_deg": 24.8432
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4576,
+        "radius_min": 1.5287,
+        "radius_max": 2.9627,
+        "gap_bdy_deg": 36.5311,
+        "gap_disk_deg": 36.4697,
+        "strip_deg": 24.0107,
+        "margin_deg": 12.459
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed13_ring04_std0.0007.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0011,
+        "radius_min": 0.9981,
+        "radius_max": 1.0057,
+        "gap_bdy_deg": 75.8808,
+        "gap_disk_deg": 75.8808,
+        "strip_deg": 87.2844,
+        "margin_deg": -11.4036
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8177,
+        "radius_min": 1.5495,
+        "radius_max": 1.9841,
+        "gap_bdy_deg": 58.9417,
+        "gap_disk_deg": 58.9417,
+        "strip_deg": 33.378,
+        "margin_deg": 25.5637
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5736,
+        "radius_min": 1.6647,
+        "radius_max": 2.9285,
+        "gap_bdy_deg": 39.0673,
+        "gap_disk_deg": 39.0673,
+        "strip_deg": 22.8649,
+        "margin_deg": 16.2025
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2394,
+        "radius_min": 1.179,
+        "radius_max": 3.8969,
+        "gap_bdy_deg": 22.4228,
+        "gap_disk_deg": 22.4228,
+        "strip_deg": 17.9809,
+        "margin_deg": 4.4418
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed13_ring04_std0.0020.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0041,
+        "radius_min": 0.9993,
+        "radius_max": 1.0119,
+        "gap_bdy_deg": 76.2512,
+        "gap_disk_deg": 76.2512,
+        "strip_deg": 84.8288,
+        "margin_deg": -8.5776
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8212,
+        "radius_min": 1.5546,
+        "radius_max": 1.9911,
+        "gap_bdy_deg": 58.8467,
+        "gap_disk_deg": 58.8467,
+        "strip_deg": 33.3045,
+        "margin_deg": 25.5422
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5743,
+        "radius_min": 1.6465,
+        "radius_max": 2.9361,
+        "gap_bdy_deg": 38.1047,
+        "gap_disk_deg": 38.1047,
+        "strip_deg": 22.8583,
+        "margin_deg": 15.2464
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2395,
+        "radius_min": 1.1749,
+        "radius_max": 3.9193,
+        "gap_bdy_deg": 21.7965,
+        "gap_disk_deg": 21.7965,
+        "strip_deg": 17.98,
+        "margin_deg": 3.8165
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed14_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 77.0078,
+        "gap_disk_deg": 77.0078,
+        "strip_deg": 90.0,
+        "margin_deg": -12.9922
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7696,
+        "radius_min": 1.4927,
+        "radius_max": 1.9742,
+        "gap_bdy_deg": 58.6138,
+        "gap_disk_deg": 58.3073,
+        "strip_deg": 34.4085,
+        "margin_deg": 23.8987
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed14_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 82.7358,
+        "gap_disk_deg": 82.7358,
+        "strip_deg": 89.9857,
+        "margin_deg": -7.2499
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7653,
+        "radius_min": 1.4377,
+        "radius_max": 1.9966,
+        "gap_bdy_deg": 59.4548,
+        "gap_disk_deg": 59.4548,
+        "strip_deg": 34.5047,
+        "margin_deg": 24.9501
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5156,
+        "radius_min": 1.5866,
+        "radius_max": 2.9192,
+        "gap_bdy_deg": 38.3856,
+        "gap_disk_deg": 38.3856,
+        "strip_deg": 23.4229,
+        "margin_deg": 14.9627
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed14_ring04_std0.0002.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0003,
+        "radius_min": 0.9999,
+        "radius_max": 1.0005,
+        "gap_bdy_deg": 73.07,
+        "gap_disk_deg": 73.07,
+        "strip_deg": 88.6701,
+        "margin_deg": -15.6001
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8021,
+        "radius_min": 1.5247,
+        "radius_max": 1.9892,
+        "gap_bdy_deg": 54.5793,
+        "gap_disk_deg": 54.5793,
+        "strip_deg": 33.7034,
+        "margin_deg": 20.8759
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5527,
+        "radius_min": 1.7667,
+        "radius_max": 2.942,
+        "gap_bdy_deg": 35.0647,
+        "gap_disk_deg": 35.0647,
+        "strip_deg": 23.0634,
+        "margin_deg": 12.0013
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2253,
+        "radius_min": 1.8388,
+        "radius_max": 3.9093,
+        "gap_bdy_deg": 18.1322,
+        "gap_disk_deg": 18.1322,
+        "strip_deg": 18.0623,
+        "margin_deg": 0.0699
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed14_ring04_std0.0008.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.002,
+        "radius_min": 1.0005,
+        "radius_max": 1.0027,
+        "gap_bdy_deg": 73.0644,
+        "gap_disk_deg": 73.0644,
+        "strip_deg": 86.4189,
+        "margin_deg": -13.3545
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8039,
+        "radius_min": 1.5298,
+        "radius_max": 1.9901,
+        "gap_bdy_deg": 54.6859,
+        "gap_disk_deg": 54.6859,
+        "strip_deg": 33.6669,
+        "margin_deg": 21.019
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5555,
+        "radius_min": 1.7734,
+        "radius_max": 2.9534,
+        "gap_bdy_deg": 34.805,
+        "gap_disk_deg": 34.805,
+        "strip_deg": 23.0361,
+        "margin_deg": 11.7689
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2265,
+        "radius_min": 1.8273,
+        "radius_max": 3.9184,
+        "gap_bdy_deg": 18.3088,
+        "gap_disk_deg": 18.3088,
+        "strip_deg": 18.0554,
+        "margin_deg": 0.2534
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed14_ring05_std0.0447.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1983,
+        "radius_min": 1.165,
+        "radius_max": 1.2522,
+        "gap_bdy_deg": 78.2023,
+        "gap_disk_deg": 78.2023,
+        "strip_deg": 56.5678,
+        "margin_deg": 21.6344
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1284,
+        "radius_min": 1.781,
+        "radius_max": 2.4035,
+        "gap_bdy_deg": 59.1784,
+        "gap_disk_deg": 59.1784,
+        "strip_deg": 28.0244,
+        "margin_deg": 31.1541
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9694,
+        "radius_min": 2.1677,
+        "radius_max": 3.4794,
+        "gap_bdy_deg": 41.2585,
+        "gap_disk_deg": 41.2585,
+        "strip_deg": 19.6804,
+        "margin_deg": 21.5782
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6484,
+        "radius_min": 1.6936,
+        "radius_max": 4.481,
+        "gap_bdy_deg": 24.1839,
+        "gap_disk_deg": 24.1839,
+        "strip_deg": 15.9079,
+        "margin_deg": 8.276
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2504,
+        "radius_min": 1.0263,
+        "radius_max": 5.4359,
+        "gap_bdy_deg": 13.8345,
+        "gap_disk_deg": 9.6981,
+        "strip_deg": 13.6076,
+        "margin_deg": -3.9096
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed14_ring05_std0.0484.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2068,
+        "radius_min": 1.152,
+        "radius_max": 1.2601,
+        "gap_bdy_deg": 80.202,
+        "gap_disk_deg": 80.202,
+        "strip_deg": 55.9606,
+        "margin_deg": 24.2414
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1455,
+        "radius_min": 1.835,
+        "radius_max": 2.4462,
+        "gap_bdy_deg": 61.4522,
+        "gap_disk_deg": 61.4522,
+        "strip_deg": 27.7802,
+        "margin_deg": 33.6719
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9743,
+        "radius_min": 2.0419,
+        "radius_max": 3.5267,
+        "gap_bdy_deg": 40.8957,
+        "gap_disk_deg": 40.8957,
+        "strip_deg": 19.6467,
+        "margin_deg": 21.249
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6516,
+        "radius_min": 1.7811,
+        "radius_max": 4.5339,
+        "gap_bdy_deg": 23.7555,
+        "gap_disk_deg": 23.7555,
+        "strip_deg": 15.8938,
+        "margin_deg": 7.8617
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2368,
+        "radius_min": 0.9983,
+        "radius_max": 5.5105,
+        "gap_bdy_deg": 14.4513,
+        "gap_disk_deg": 11.1813,
+        "strip_deg": 13.6523,
+        "margin_deg": -2.471
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed15_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 73.4548,
+        "gap_disk_deg": 73.4548,
+        "strip_deg": 89.9598,
+        "margin_deg": -16.505
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7583,
+        "radius_min": 1.365,
+        "radius_max": 1.9381,
+        "gap_bdy_deg": 50.4358,
+        "gap_disk_deg": 50.4358,
+        "strip_deg": 34.661,
+        "margin_deg": 15.7748
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed15_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 74.1579,
+        "gap_disk_deg": 74.1579,
+        "strip_deg": 89.987,
+        "margin_deg": -15.8292
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7453,
+        "radius_min": 1.3037,
+        "radius_max": 1.973,
+        "gap_bdy_deg": 53.8973,
+        "gap_disk_deg": 53.8973,
+        "strip_deg": 34.9579,
+        "margin_deg": 18.9393
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4345,
+        "radius_min": 1.3587,
+        "radius_max": 2.8549,
+        "gap_bdy_deg": 32.8279,
+        "gap_disk_deg": 31.5081,
+        "strip_deg": 24.2529,
+        "margin_deg": 7.2552
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed15_ring04_std0.0026.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 0.9986,
+        "radius_min": 0.9956,
+        "radius_max": 1.0015,
+        "gap_bdy_deg": 71.3701,
+        "gap_disk_deg": 71.3701,
+        "strip_deg": 90.0,
+        "margin_deg": -18.6299
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7906,
+        "radius_min": 1.4902,
+        "radius_max": 1.9546,
+        "gap_bdy_deg": 51.6388,
+        "gap_disk_deg": 51.6388,
+        "strip_deg": 33.9493,
+        "margin_deg": 17.6895
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5274,
+        "radius_min": 1.1627,
+        "radius_max": 2.9185,
+        "gap_bdy_deg": 34.3658,
+        "gap_disk_deg": 34.3658,
+        "strip_deg": 23.3072,
+        "margin_deg": 11.0587
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2268,
+        "radius_min": 1.2326,
+        "radius_max": 3.8701,
+        "gap_bdy_deg": 19.1041,
+        "gap_disk_deg": 18.6045,
+        "strip_deg": 18.0532,
+        "margin_deg": 0.5512
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed15_ring04_std0.0032.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 0.9987,
+        "radius_min": 0.9934,
+        "radius_max": 1.0033,
+        "gap_bdy_deg": 71.0249,
+        "gap_disk_deg": 71.0249,
+        "strip_deg": 90.0,
+        "margin_deg": -18.9751
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7944,
+        "radius_min": 1.5014,
+        "radius_max": 1.9647,
+        "gap_bdy_deg": 52.3147,
+        "gap_disk_deg": 52.3147,
+        "strip_deg": 33.8695,
+        "margin_deg": 18.4452
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5296,
+        "radius_min": 1.1133,
+        "radius_max": 2.9191,
+        "gap_bdy_deg": 34.9534,
+        "gap_disk_deg": 34.9534,
+        "strip_deg": 23.2857,
+        "margin_deg": 11.6677
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2257,
+        "radius_min": 1.1878,
+        "radius_max": 3.8673,
+        "gap_bdy_deg": 18.8581,
+        "gap_disk_deg": 18.1591,
+        "strip_deg": 18.0598,
+        "margin_deg": 0.0993
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed15_ring05_std0.0428.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1787,
+        "radius_min": 1.1363,
+        "radius_max": 1.2051,
+        "gap_bdy_deg": 77.6504,
+        "gap_disk_deg": 77.6504,
+        "strip_deg": 58.0395,
+        "margin_deg": 19.6109
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1013,
+        "radius_min": 1.7535,
+        "radius_max": 2.3257,
+        "gap_bdy_deg": 59.9848,
+        "gap_disk_deg": 59.9848,
+        "strip_deg": 28.4182,
+        "margin_deg": 31.5665
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9006,
+        "radius_min": 1.4747,
+        "radius_max": 3.3761,
+        "gap_bdy_deg": 40.7427,
+        "gap_disk_deg": 40.7427,
+        "strip_deg": 20.1668,
+        "margin_deg": 20.576
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.5851,
+        "radius_min": 1.1368,
+        "radius_max": 4.3625,
+        "gap_bdy_deg": 24.7253,
+        "gap_disk_deg": 24.7253,
+        "strip_deg": 16.1963,
+        "margin_deg": 8.529
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.1899,
+        "radius_min": 1.0001,
+        "radius_max": 5.3279,
+        "gap_bdy_deg": 10.2453,
+        "gap_disk_deg": 10.0971,
+        "strip_deg": 13.8081,
+        "margin_deg": -3.711
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed15_ring05_std0.0438.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1854,
+        "radius_min": 1.1669,
+        "radius_max": 1.2048,
+        "gap_bdy_deg": 78.6133,
+        "gap_disk_deg": 78.6133,
+        "strip_deg": 57.5204,
+        "margin_deg": 21.0929
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1133,
+        "radius_min": 1.8102,
+        "radius_max": 2.3427,
+        "gap_bdy_deg": 60.2857,
+        "gap_disk_deg": 60.2857,
+        "strip_deg": 28.2411,
+        "margin_deg": 32.0445
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9174,
+        "radius_min": 1.6013,
+        "radius_max": 3.356,
+        "gap_bdy_deg": 39.481,
+        "gap_disk_deg": 39.481,
+        "strip_deg": 20.046,
+        "margin_deg": 19.435
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.617,
+        "radius_min": 1.3485,
+        "radius_max": 4.3983,
+        "gap_bdy_deg": 23.4323,
+        "gap_disk_deg": 23.4323,
+        "strip_deg": 16.0499,
+        "margin_deg": 7.3824
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2177,
+        "radius_min": 0.9947,
+        "radius_max": 5.398,
+        "gap_bdy_deg": 10.4243,
+        "gap_disk_deg": 10.4243,
+        "strip_deg": 13.7152,
+        "margin_deg": -3.2909
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed15_ring05_std0.0446.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.1909,
+        "radius_min": 1.1689,
+        "radius_max": 1.2272,
+        "gap_bdy_deg": 78.2724,
+        "gap_disk_deg": 78.2724,
+        "strip_deg": 57.1074,
+        "margin_deg": 21.165
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1282,
+        "radius_min": 1.7749,
+        "radius_max": 2.3661,
+        "gap_bdy_deg": 61.2396,
+        "gap_disk_deg": 61.2396,
+        "strip_deg": 28.0261,
+        "margin_deg": 33.2135
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9382,
+        "radius_min": 1.5511,
+        "radius_max": 3.4307,
+        "gap_bdy_deg": 41.3482,
+        "gap_disk_deg": 41.3482,
+        "strip_deg": 19.8982,
+        "margin_deg": 21.45
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6295,
+        "radius_min": 1.4433,
+        "radius_max": 4.417,
+        "gap_bdy_deg": 24.9442,
+        "gap_disk_deg": 24.9442,
+        "strip_deg": 15.9932,
+        "margin_deg": 8.951
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2019,
+        "radius_min": 1.0416,
+        "radius_max": 5.3148,
+        "gap_bdy_deg": 11.3013,
+        "gap_disk_deg": 10.9223,
+        "strip_deg": 13.7679,
+        "margin_deg": -2.8456
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed16_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 93.2229,
+        "gap_disk_deg": 93.2229,
+        "strip_deg": 89.9729,
+        "margin_deg": 3.25
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7632,
+        "radius_min": 1.2906,
+        "radius_max": 1.9608,
+        "gap_bdy_deg": 66.4076,
+        "gap_disk_deg": 66.4076,
+        "strip_deg": 34.5528,
+        "margin_deg": 31.8548
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed16_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 91.8006,
+        "gap_disk_deg": 91.8006,
+        "strip_deg": 90.0,
+        "margin_deg": 1.8006
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7512,
+        "radius_min": 1.1788,
+        "radius_max": 1.9693,
+        "gap_bdy_deg": 64.5287,
+        "gap_disk_deg": 64.5287,
+        "strip_deg": 34.8219,
+        "margin_deg": 29.7068
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4741,
+        "radius_min": 1.5983,
+        "radius_max": 2.9205,
+        "gap_bdy_deg": 39.5515,
+        "gap_disk_deg": 39.5515,
+        "strip_deg": 23.8407,
+        "margin_deg": 15.7108
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed16_ring04_std0.0196.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0173,
+        "radius_min": 1.0058,
+        "radius_max": 1.0298,
+        "gap_bdy_deg": 81.3317,
+        "gap_disk_deg": 81.3317,
+        "strip_deg": 79.4155,
+        "margin_deg": 1.9162
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8202,
+        "radius_min": 1.5601,
+        "radius_max": 2.0186,
+        "gap_bdy_deg": 60.2606,
+        "gap_disk_deg": 60.2606,
+        "strip_deg": 33.3244,
+        "margin_deg": 26.9362
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.595,
+        "radius_min": 2.0558,
+        "radius_max": 3.0218,
+        "gap_bdy_deg": 39.6885,
+        "gap_disk_deg": 39.6885,
+        "strip_deg": 22.6661,
+        "margin_deg": 17.0224
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2134,
+        "radius_min": 1.3614,
+        "radius_max": 3.9569,
+        "gap_bdy_deg": 20.7532,
+        "gap_disk_deg": 20.7532,
+        "strip_deg": 18.1316,
+        "margin_deg": 2.6216
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed16_ring04_std0.0202.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0256,
+        "radius_min": 1.0126,
+        "radius_max": 1.0426,
+        "gap_bdy_deg": 83.1095,
+        "gap_disk_deg": 83.1095,
+        "strip_deg": 77.1704,
+        "margin_deg": 5.9391
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8283,
+        "radius_min": 1.5549,
+        "radius_max": 2.016,
+        "gap_bdy_deg": 59.6872,
+        "gap_disk_deg": 59.6872,
+        "strip_deg": 33.1582,
+        "margin_deg": 26.5291
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.6095,
+        "radius_min": 2.0743,
+        "radius_max": 2.9891,
+        "gap_bdy_deg": 40.5054,
+        "gap_disk_deg": 40.5054,
+        "strip_deg": 22.5328,
+        "margin_deg": 17.9726
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2285,
+        "radius_min": 1.3754,
+        "radius_max": 3.956,
+        "gap_bdy_deg": 21.5769,
+        "gap_disk_deg": 21.5769,
+        "strip_deg": 18.0435,
+        "margin_deg": 3.5334
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed16_ring05_std0.0515.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2185,
+        "radius_min": 1.1697,
+        "radius_max": 1.2714,
+        "gap_bdy_deg": 82.9704,
+        "gap_disk_deg": 82.9704,
+        "strip_deg": 55.1552,
+        "margin_deg": 27.8152
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1576,
+        "radius_min": 1.9502,
+        "radius_max": 2.4439,
+        "gap_bdy_deg": 62.4994,
+        "gap_disk_deg": 62.4994,
+        "strip_deg": 27.6116,
+        "margin_deg": 34.8877
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.987,
+        "radius_min": 2.2758,
+        "radius_max": 3.5718,
+        "gap_bdy_deg": 43.8892,
+        "gap_disk_deg": 43.8892,
+        "strip_deg": 19.5595,
+        "margin_deg": 24.3296
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.632,
+        "radius_min": 1.6749,
+        "radius_max": 4.6077,
+        "gap_bdy_deg": 26.1384,
+        "gap_disk_deg": 26.1384,
+        "strip_deg": 15.9818,
+        "margin_deg": 10.1566
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2154,
+        "radius_min": 0.9959,
+        "radius_max": 5.5371,
+        "gap_bdy_deg": 13.3303,
+        "gap_disk_deg": 12.6374,
+        "strip_deg": 13.7229,
+        "margin_deg": -1.0855
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed17_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 89.3856,
+        "gap_disk_deg": 89.3856,
+        "strip_deg": 90.0,
+        "margin_deg": -0.6144
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7348,
+        "radius_min": 1.4038,
+        "radius_max": 1.9937,
+        "gap_bdy_deg": 56.0026,
+        "gap_disk_deg": 56.0026,
+        "strip_deg": 35.2003,
+        "margin_deg": 20.8023
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed17_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 86.4165,
+        "gap_disk_deg": 86.4165,
+        "strip_deg": 90.0,
+        "margin_deg": -3.5835
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7256,
+        "radius_min": 1.215,
+        "radius_max": 1.994,
+        "gap_bdy_deg": 56.9281,
+        "gap_disk_deg": 56.9281,
+        "strip_deg": 35.4168,
+        "margin_deg": 21.5114
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4541,
+        "radius_min": 1.568,
+        "radius_max": 2.9578,
+        "gap_bdy_deg": 37.7656,
+        "gap_disk_deg": 37.7656,
+        "strip_deg": 24.0468,
+        "margin_deg": 13.7188
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed17_ring04_std0.0041.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0068,
+        "radius_min": 0.993,
+        "radius_max": 1.0194,
+        "gap_bdy_deg": 79.2473,
+        "gap_disk_deg": 79.2473,
+        "strip_deg": 83.3272,
+        "margin_deg": -4.0798
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8051,
+        "radius_min": 1.4526,
+        "radius_max": 1.9931,
+        "gap_bdy_deg": 56.4459,
+        "gap_disk_deg": 56.4459,
+        "strip_deg": 33.6414,
+        "margin_deg": 22.8045
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5601,
+        "radius_min": 1.7029,
+        "radius_max": 2.9725,
+        "gap_bdy_deg": 36.764,
+        "gap_disk_deg": 36.764,
+        "strip_deg": 22.9925,
+        "margin_deg": 13.7714
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2299,
+        "radius_min": 1.4534,
+        "radius_max": 3.8849,
+        "gap_bdy_deg": 18.3466,
+        "gap_disk_deg": 18.3466,
+        "strip_deg": 18.0357,
+        "margin_deg": 0.3109
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed17_ring04_std0.0048.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0079,
+        "radius_min": 0.9909,
+        "radius_max": 1.0205,
+        "gap_bdy_deg": 78.3865,
+        "gap_disk_deg": 78.3865,
+        "strip_deg": 82.8084,
+        "margin_deg": -4.4219
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8081,
+        "radius_min": 1.465,
+        "radius_max": 2.0051,
+        "gap_bdy_deg": 55.4175,
+        "gap_disk_deg": 55.4175,
+        "strip_deg": 33.5774,
+        "margin_deg": 21.84
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5562,
+        "radius_min": 1.578,
+        "radius_max": 2.9772,
+        "gap_bdy_deg": 36.4582,
+        "gap_disk_deg": 36.4582,
+        "strip_deg": 23.0297,
+        "margin_deg": 13.4285
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2287,
+        "radius_min": 1.4353,
+        "radius_max": 3.8858,
+        "gap_bdy_deg": 18.207,
+        "gap_disk_deg": 18.207,
+        "strip_deg": 18.0424,
+        "margin_deg": 0.1646
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed17_ring05_std0.0501.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2131,
+        "radius_min": 1.1555,
+        "radius_max": 1.2721,
+        "gap_bdy_deg": 77.9086,
+        "gap_disk_deg": 77.9086,
+        "strip_deg": 55.5186,
+        "margin_deg": 22.39
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1574,
+        "radius_min": 1.8769,
+        "radius_max": 2.4573,
+        "gap_bdy_deg": 60.4302,
+        "gap_disk_deg": 60.4302,
+        "strip_deg": 27.614,
+        "margin_deg": 32.8162
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9863,
+        "radius_min": 2.1462,
+        "radius_max": 3.4927,
+        "gap_bdy_deg": 41.3741,
+        "gap_disk_deg": 41.3741,
+        "strip_deg": 19.5639,
+        "margin_deg": 21.8102
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6729,
+        "radius_min": 1.7387,
+        "radius_max": 4.4938,
+        "gap_bdy_deg": 23.9335,
+        "gap_disk_deg": 23.9335,
+        "strip_deg": 15.799,
+        "margin_deg": 8.1345
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2752,
+        "radius_min": 1.3191,
+        "radius_max": 5.4182,
+        "gap_bdy_deg": 11.3657,
+        "gap_disk_deg": 11.3657,
+        "strip_deg": 13.5271,
+        "margin_deg": -2.1614
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed18_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 92.3343,
+        "gap_disk_deg": 92.3343,
+        "strip_deg": 90.0,
+        "margin_deg": 2.3343
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7658,
+        "radius_min": 1.3156,
+        "radius_max": 2.0,
+        "gap_bdy_deg": 60.4306,
+        "gap_disk_deg": 60.4306,
+        "strip_deg": 34.4938,
+        "margin_deg": 25.9369
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed18_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 91.5395,
+        "gap_disk_deg": 91.5395,
+        "strip_deg": 89.9559,
+        "margin_deg": 1.5836
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7652,
+        "radius_min": 1.3592,
+        "radius_max": 1.9949,
+        "gap_bdy_deg": 59.2261,
+        "gap_disk_deg": 59.2261,
+        "strip_deg": 34.5072,
+        "margin_deg": 24.7189
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4953,
+        "radius_min": 1.5606,
+        "radius_max": 2.9706,
+        "gap_bdy_deg": 39.5307,
+        "gap_disk_deg": 39.5307,
+        "strip_deg": 23.6252,
+        "margin_deg": 15.9055
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed18_ring04_std0.0019.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.006,
+        "radius_min": 1.0021,
+        "radius_max": 1.0093,
+        "gap_bdy_deg": 79.5017,
+        "gap_disk_deg": 79.5017,
+        "strip_deg": 83.7485,
+        "margin_deg": -4.2468
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.808,
+        "radius_min": 1.547,
+        "radius_max": 1.9991,
+        "gap_bdy_deg": 55.9145,
+        "gap_disk_deg": 55.9145,
+        "strip_deg": 33.5806,
+        "margin_deg": 22.3339
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5445,
+        "radius_min": 1.7545,
+        "radius_max": 2.8711,
+        "gap_bdy_deg": 35.0882,
+        "gap_disk_deg": 35.0882,
+        "strip_deg": 23.1415,
+        "margin_deg": 11.9467
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2557,
+        "radius_min": 1.3014,
+        "radius_max": 3.8681,
+        "gap_bdy_deg": 18.9044,
+        "gap_disk_deg": 18.9044,
+        "strip_deg": 17.8878,
+        "margin_deg": 1.0166
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed18_ring04_std0.0029.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0092,
+        "radius_min": 1.0001,
+        "radius_max": 1.0139,
+        "gap_bdy_deg": 78.9677,
+        "gap_disk_deg": 78.9677,
+        "strip_deg": 82.2678,
+        "margin_deg": -3.3001
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8164,
+        "radius_min": 1.5253,
+        "radius_max": 1.996,
+        "gap_bdy_deg": 56.9816,
+        "gap_disk_deg": 56.9816,
+        "strip_deg": 33.4037,
+        "margin_deg": 23.5779
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.553,
+        "radius_min": 1.8231,
+        "radius_max": 2.8514,
+        "gap_bdy_deg": 35.2305,
+        "gap_disk_deg": 35.2305,
+        "strip_deg": 23.0601,
+        "margin_deg": 12.1704
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2636,
+        "radius_min": 1.3376,
+        "radius_max": 3.8373,
+        "gap_bdy_deg": 18.7586,
+        "gap_disk_deg": 18.7586,
+        "strip_deg": 17.8432,
+        "margin_deg": 0.9154
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed18_ring05_std0.0474.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2081,
+        "radius_min": 1.1683,
+        "radius_max": 1.256,
+        "gap_bdy_deg": 79.6026,
+        "gap_disk_deg": 79.6026,
+        "strip_deg": 55.8695,
+        "margin_deg": 23.7331
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1405,
+        "radius_min": 1.8586,
+        "radius_max": 2.4716,
+        "gap_bdy_deg": 63.9514,
+        "gap_disk_deg": 63.9514,
+        "strip_deg": 27.8514,
+        "margin_deg": 36.1
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9318,
+        "radius_min": 1.7258,
+        "radius_max": 3.6007,
+        "gap_bdy_deg": 42.8291,
+        "gap_disk_deg": 42.8291,
+        "strip_deg": 19.943,
+        "margin_deg": 22.886
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.638,
+        "radius_min": 1.3061,
+        "radius_max": 4.5542,
+        "gap_bdy_deg": 22.3006,
+        "gap_disk_deg": 22.3006,
+        "strip_deg": 15.9546,
+        "margin_deg": 6.346
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2575,
+        "radius_min": 0.9997,
+        "radius_max": 5.5755,
+        "gap_bdy_deg": 12.2927,
+        "gap_disk_deg": 12.2927,
+        "strip_deg": 13.5847,
+        "margin_deg": -1.2919
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed18_ring05_std0.0479.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2174,
+        "radius_min": 1.1823,
+        "radius_max": 1.2607,
+        "gap_bdy_deg": 78.9648,
+        "gap_disk_deg": 78.9648,
+        "strip_deg": 55.2287,
+        "margin_deg": 23.7361
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1541,
+        "radius_min": 1.8253,
+        "radius_max": 2.4401,
+        "gap_bdy_deg": 64.5111,
+        "gap_disk_deg": 64.5111,
+        "strip_deg": 27.6603,
+        "margin_deg": 36.8507
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9446,
+        "radius_min": 1.8444,
+        "radius_max": 3.5325,
+        "gap_bdy_deg": 43.8481,
+        "gap_disk_deg": 43.8481,
+        "strip_deg": 19.8529,
+        "margin_deg": 23.9952
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6567,
+        "radius_min": 1.3746,
+        "radius_max": 4.5576,
+        "gap_bdy_deg": 27.0776,
+        "gap_disk_deg": 27.0776,
+        "strip_deg": 15.8709,
+        "margin_deg": 11.2067
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2487,
+        "radius_min": 0.9983,
+        "radius_max": 5.5445,
+        "gap_bdy_deg": 12.7392,
+        "gap_disk_deg": 12.7392,
+        "strip_deg": 13.6131,
+        "margin_deg": -0.8739
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed19_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 89.0301,
+        "gap_disk_deg": 89.0301,
+        "strip_deg": 90.0,
+        "margin_deg": -0.9699
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7874,
+        "radius_min": 1.3411,
+        "radius_max": 1.9981,
+        "gap_bdy_deg": 62.9555,
+        "gap_disk_deg": 62.9555,
+        "strip_deg": 34.019,
+        "margin_deg": 28.9364
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed19_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 84.1077,
+        "gap_disk_deg": 84.1077,
+        "strip_deg": 89.9802,
+        "margin_deg": -5.8724
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7636,
+        "radius_min": 1.2424,
+        "radius_max": 1.9999,
+        "gap_bdy_deg": 61.2841,
+        "gap_disk_deg": 61.2841,
+        "strip_deg": 34.5431,
+        "margin_deg": 26.741
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4417,
+        "radius_min": 1.7561,
+        "radius_max": 2.9259,
+        "gap_bdy_deg": 36.3484,
+        "gap_disk_deg": 36.3484,
+        "strip_deg": 24.1763,
+        "margin_deg": 12.1721
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed19_ring04_std0.0016.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0003,
+        "radius_min": 0.9969,
+        "radius_max": 1.0028,
+        "gap_bdy_deg": 71.8708,
+        "gap_disk_deg": 71.8708,
+        "strip_deg": 88.5643,
+        "margin_deg": -16.6935
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8035,
+        "radius_min": 1.513,
+        "radius_max": 1.9886,
+        "gap_bdy_deg": 52.0654,
+        "gap_disk_deg": 52.0654,
+        "strip_deg": 33.6746,
+        "margin_deg": 18.3908
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.558,
+        "radius_min": 1.9553,
+        "radius_max": 2.9721,
+        "gap_bdy_deg": 35.9098,
+        "gap_disk_deg": 35.9098,
+        "strip_deg": 23.012,
+        "margin_deg": 12.8977
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2189,
+        "radius_min": 1.7487,
+        "radius_max": 3.8891,
+        "gap_bdy_deg": 19.0942,
+        "gap_disk_deg": 16.4444,
+        "strip_deg": 18.0993,
+        "margin_deg": -1.6549
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed19_ring04_std0.0025.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0006,
+        "radius_min": 0.9949,
+        "radius_max": 1.0053,
+        "gap_bdy_deg": 71.6829,
+        "gap_disk_deg": 71.6829,
+        "strip_deg": 87.9587,
+        "margin_deg": -16.2758
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8065,
+        "radius_min": 1.5165,
+        "radius_max": 1.9862,
+        "gap_bdy_deg": 51.381,
+        "gap_disk_deg": 51.381,
+        "strip_deg": 33.6104,
+        "margin_deg": 17.7706
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5596,
+        "radius_min": 1.9788,
+        "radius_max": 2.9757,
+        "gap_bdy_deg": 36.2987,
+        "gap_disk_deg": 36.2987,
+        "strip_deg": 22.9969,
+        "margin_deg": 13.3019
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2151,
+        "radius_min": 1.5915,
+        "radius_max": 3.8818,
+        "gap_bdy_deg": 19.1174,
+        "gap_disk_deg": 16.7644,
+        "strip_deg": 18.1214,
+        "margin_deg": -1.3571
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed19_ring05_std0.0468.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2147,
+        "radius_min": 1.1624,
+        "radius_max": 1.2526,
+        "gap_bdy_deg": 82.1835,
+        "gap_disk_deg": 82.1835,
+        "strip_deg": 55.409,
+        "margin_deg": 26.7745
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1535,
+        "radius_min": 1.8543,
+        "radius_max": 2.3906,
+        "gap_bdy_deg": 64.1097,
+        "gap_disk_deg": 64.1097,
+        "strip_deg": 27.6683,
+        "margin_deg": 36.4414
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9808,
+        "radius_min": 2.2079,
+        "radius_max": 3.5173,
+        "gap_bdy_deg": 43.8028,
+        "gap_disk_deg": 43.8028,
+        "strip_deg": 19.6019,
+        "margin_deg": 24.2009
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6592,
+        "radius_min": 1.7184,
+        "radius_max": 4.5338,
+        "gap_bdy_deg": 26.0565,
+        "gap_disk_deg": 26.0565,
+        "strip_deg": 15.8597,
+        "margin_deg": 10.1968
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2416,
+        "radius_min": 0.9996,
+        "radius_max": 5.5417,
+        "gap_bdy_deg": 11.9968,
+        "gap_disk_deg": 11.9968,
+        "strip_deg": 13.6364,
+        "margin_deg": -1.6396
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed20_ring02_std0.0000.ply",
+    "max_ring": 2,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 88.11,
+        "gap_disk_deg": 88.11,
+        "strip_deg": 89.9932,
+        "margin_deg": -1.8831
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7607,
+        "radius_min": 1.3308,
+        "radius_max": 1.9933,
+        "gap_bdy_deg": 61.5674,
+        "gap_disk_deg": 61.5674,
+        "strip_deg": 34.6081,
+        "margin_deg": 26.9593
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed20_ring03_std0.0000.ply",
+    "max_ring": 3,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0,
+        "radius_min": 1.0,
+        "radius_max": 1.0,
+        "gap_bdy_deg": 88.0405,
+        "gap_disk_deg": 88.0405,
+        "strip_deg": 89.973,
+        "margin_deg": -1.9325
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.7159,
+        "radius_min": 1.1101,
+        "radius_max": 1.9978,
+        "gap_bdy_deg": 56.2639,
+        "gap_disk_deg": 56.2639,
+        "strip_deg": 35.6458,
+        "margin_deg": 20.6182
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.4474,
+        "radius_min": 1.7216,
+        "radius_max": 2.8899,
+        "gap_bdy_deg": 37.953,
+        "gap_disk_deg": 37.953,
+        "strip_deg": 24.1162,
+        "margin_deg": 13.8368
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed20_ring04_std0.0020.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0048,
+        "radius_min": 1.0014,
+        "radius_max": 1.0075,
+        "gap_bdy_deg": 81.8658,
+        "gap_disk_deg": 81.8658,
+        "strip_deg": 84.3966,
+        "margin_deg": -2.5308
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8085,
+        "radius_min": 1.4642,
+        "radius_max": 2.0119,
+        "gap_bdy_deg": 57.419,
+        "gap_disk_deg": 57.419,
+        "strip_deg": 33.5695,
+        "margin_deg": 23.8495
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5706,
+        "radius_min": 1.6371,
+        "radius_max": 3.0033,
+        "gap_bdy_deg": 36.3077,
+        "gap_disk_deg": 36.3077,
+        "strip_deg": 22.8929,
+        "margin_deg": 13.4148
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2193,
+        "radius_min": 1.4735,
+        "radius_max": 3.9553,
+        "gap_bdy_deg": 19.9501,
+        "gap_disk_deg": 16.8618,
+        "strip_deg": 18.0971,
+        "margin_deg": -1.2353
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed20_ring04_std0.0043.ply",
+    "max_ring": 4,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.0117,
+        "radius_min": 1.0,
+        "radius_max": 1.0224,
+        "gap_bdy_deg": 83.0888,
+        "gap_disk_deg": 83.0888,
+        "strip_deg": 81.294,
+        "margin_deg": 1.7949
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 1.8245,
+        "radius_min": 1.5191,
+        "radius_max": 2.0281,
+        "gap_bdy_deg": 58.0567,
+        "gap_disk_deg": 58.0567,
+        "strip_deg": 33.2361,
+        "margin_deg": 24.8206
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.5808,
+        "radius_min": 1.5589,
+        "radius_max": 3.015,
+        "gap_bdy_deg": 37.8174,
+        "gap_disk_deg": 37.8174,
+        "strip_deg": 22.7977,
+        "margin_deg": 15.0198
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.2304,
+        "radius_min": 1.6029,
+        "radius_max": 3.9264,
+        "gap_bdy_deg": 19.8195,
+        "gap_disk_deg": 19.8195,
+        "strip_deg": 18.0326,
+        "margin_deg": 1.7869
+      }
+    }
+  },
+  {
+    "file": "physics_grow_seed20_ring05_std0.0474.ply",
+    "max_ring": 5,
+    "rings": {
+      "1": {
+        "n_verts": 7,
+        "radius_mean": 1.2032,
+        "radius_min": 1.168,
+        "radius_max": 1.277,
+        "gap_bdy_deg": 80.2845,
+        "gap_disk_deg": 80.2845,
+        "strip_deg": 56.2128,
+        "margin_deg": 24.0717
+      },
+      "2": {
+        "n_verts": 21,
+        "radius_mean": 2.1376,
+        "radius_min": 1.6965,
+        "radius_max": 2.4487,
+        "gap_bdy_deg": 59.4997,
+        "gap_disk_deg": 59.4997,
+        "strip_deg": 27.893,
+        "margin_deg": 31.6067
+      },
+      "3": {
+        "n_verts": 56,
+        "radius_mean": 2.9651,
+        "radius_min": 2.2081,
+        "radius_max": 3.5056,
+        "gap_bdy_deg": 38.1936,
+        "gap_disk_deg": 38.1936,
+        "strip_deg": 19.7101,
+        "margin_deg": 18.4835
+      },
+      "4": {
+        "n_verts": 147,
+        "radius_mean": 3.6787,
+        "radius_min": 2.1855,
+        "radius_max": 4.5233,
+        "gap_bdy_deg": 21.0298,
+        "gap_disk_deg": 21.0298,
+        "strip_deg": 15.7733,
+        "margin_deg": 5.2565
+      },
+      "5": {
+        "n_verts": 385,
+        "radius_mean": 4.2838,
+        "radius_min": 1.421,
+        "radius_max": 5.4557,
+        "gap_bdy_deg": 10.5559,
+        "gap_disk_deg": 10.54,
+        "strip_deg": 13.4995,
+        "margin_deg": -2.9595
+      }
+    }
+  }
+]

@@ -1,0 +1,62 @@
+*.ply
+*.obj
+*.glb
+.DS_Store
+library/
+physics_grow/
+physics_mesh/
+scraps/
+MeshLab/
+__pycache__/
+*.pyc
+
+# generated model checkpoints (regenerate via train_denoising.py / train_udg_embedder.py)
+python/ckpt_denoise/
+python/udg_ckpt/
+python/udg_ckpt_cold/
+python/udg_smoke_ckpt/
+python/udg_smoke_ckpt2/
+
+# generated data libraries (regenerate via generate_unit_distance_library.py)
+python/udg_library/
+python/udg_library_hard/
+python/udg_smoke_lib/
+python/*.npz
+
+# training run logs (regenerate by rerunning)
+python/udg_train*.log
+python/cold_start_aug.log
+
+# Claude Code's own session bookkeeping — not project content
+.claude/
+cc_sessions.txt
+
+# stray files
+doc/.Rhistory
+examples/boundary_ racing.png
+
+# generated model checkpoints (regenerate via train_denoising.py / train_udg_embedder.py)
+python/ckpt_denoise/
+python/udg_ckpt/
+python/udg_ckpt_cold/
+python/udg_smoke_ckpt/
+python/udg_smoke_ckpt2/
+
+# generated data libraries (regenerate via generate_unit_distance_library.py)
+python/udg_library/
+python/udg_library_hard/
+python/udg_smoke_lib/
+python/*.npz
+
+# training run logs (regenerate by rerunning)
+python/udg_train*.log
+python/cold_start_aug.log
+
+# Claude Code's own session bookkeeping — not project content
+.claude/
+cc_sessions.txt
+
+# python / editor cruft
+__pycache__/
+*.pyc
+*.swp

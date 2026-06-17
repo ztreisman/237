@@ -1,0 +1,23 @@
+PLEAT CAPACITY ANALYSIS
+critical absorption threshold 1/φ = 0.618034
+trials analyzed: 209
+
+ ring |  mean fold (rad) |  max fold |  turn excess |  absorption |   vs 1/φ
+---------------------------------------------------------------------------
+    1 |           0.4679 |    1.0182 |       0.1335 |     -0.0821 |    below
+    2 |           0.6047 |    1.4901 |       0.3359 |      0.3598 |    below
+    3 |           0.7487 |    1.9625 |       0.6096 |      0.6667 |    ABOVE
+    4 |           0.7819 |    2.0144 |       0.6624 |      0.8437 |    ABOVE
+    5 |           1.0165 |    2.6760 |       0.7895 |      0.9307 |    ABOVE
+
+Interpretation:
+- 'mean fold': average |π - dihedral| in the band ending at ring r.
+  Growth in r = accumulating pleat usage.
+- 'turn excess': mean (κ_ext - κ_int) on the ring-r boundary.
+  Positive = the embedding turns MORE than the intrinsic floor
+  (paying extra extrinsic curvature = normal curvature = pleating).
+- 'absorption': fraction of unit-edge length the ring 'eats'
+  relative to its presented circumference 2πR.
+  Theory: must be ≥ 1/φ = 0.618 for the NEXT ring to fit;
+  capacity c(r) declining through 1/φ between r=5 and r=6 is the
+  buckling hypothesis.

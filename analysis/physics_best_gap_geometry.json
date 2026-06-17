@@ -1,0 +1,2954 @@
+{
+  "file": "/mnt/user-data/uploads/physics_best.ply",
+  "max_ring": 5,
+  "n_verts": 617,
+  "gap_radius": 12.9726,
+  "gap_center": [
+    0.962022,
+    0.253718,
+    -0.1007
+  ],
+  "gap_profile": {
+    "azimuths": [
+      0.0,
+      5.0,
+      10.0,
+      15.0,
+      20.0,
+      25.0,
+      30.0,
+      35.0,
+      40.0,
+      45.0,
+      50.0,
+      55.0,
+      60.0,
+      65.0,
+      70.0,
+      75.0,
+      80.0,
+      85.0,
+      90.0,
+      95.0,
+      100.0,
+      105.0,
+      110.0,
+      115.0,
+      120.0,
+      125.0,
+      130.0,
+      135.0,
+      140.0,
+      145.0,
+      150.0,
+      155.0,
+      160.0,
+      165.0,
+      170.0,
+      175.0,
+      180.0,
+      185.0,
+      190.0,
+      195.0,
+      200.0,
+      205.0,
+      210.0,
+      215.0,
+      220.0,
+      225.0,
+      230.0,
+      235.0,
+      240.0,
+      245.0,
+      250.0,
+      255.0,
+      260.0,
+      265.0,
+      270.0,
+      275.0,
+      280.0,
+      285.0,
+      290.0,
+      295.0,
+      300.0,
+      305.0,
+      310.0,
+      315.0,
+      320.0,
+      325.0,
+      330.0,
+      335.0,
+      340.0,
+      345.0,
+      350.0,
+      355.0
+    ],
+    "radii": [
+      16.8538,
+      28.2839,
+      52.0377,
+      34.3711,
+      23.5075,
+      23.5075,
+      12.9726,
+      12.9726,
+      31.4822,
+      41.7811,
+      22.8721,
+      22.8721,
+      33.4167,
+      40.5177,
+      16.0185,
+      16.0185,
+      22.9896,
+      22.9896,
+      16.3706,
+      16.3706,
+      17.5751,
+      17.5751,
+      28.6555,
+      28.6555,
+      14.9909,
+      14.9909,
+      44.2786,
+      44.2786,
+      25.9152,
+      25.9152,
+      38.141,
+      57.228,
+      41.991,
+      13.1455,
+      13.1455,
+      17.9769,
+      36.1275,
+      36.1275,
+      69.3465,
+      41.8532,
+      31.509,
+      31.509,
+      18.7305,
+      18.7305,
+      19.081,
+      53.1777,
+      46.9601,
+      46.9601,
+      25.0884,
+      25.0884,
+      52.039,
+      32.1609,
+      32.1609,
+      13.4443,
+      13.3846,
+      13.3846,
+      35.628,
+      45.9135,
+      21.0332,
+      21.0332,
+      26.5946,
+      51.7422,
+      16.4243,
+      16.4243,
+      33.4469,
+      50.2149,
+      37.4403,
+      26.1236,
+      26.1236,
+      36.582,
+      36.582,
+      16.8538
+    ],
+    "mean": 29.2735,
+    "std": 12.9573,
+    "min": 12.9726,
+    "max": 69.3465
+  },
+  "demand": {
+    "base_mean": 14.8604,
+    "base_std": 6.811,
+    "base_min": 10.468,
+    "base_max": 90.0,
+    "adjusted_mean": 14.8604,
+    "adjusted_std": 7.1669,
+    "adjusted_min": 8.607,
+    "adjusted_max": 89.1,
+    "curvature_mean": -0.0,
+    "curvature_std": 6.13,
+    "per_vertex": [
+      {
+        "colat_from_gap": 28.655,
+        "base_demand": 14.862,
+        "curvature": 0.41,
+        "adjusted_demand": 14.738,
+        "radius": 3.8989
+      },
+      {
+        "colat_from_gap": 17.977,
+        "base_demand": 14.422,
+        "curvature": -10.31,
+        "adjusted_demand": 17.515,
+        "radius": 4.015
+      },
+      {
+        "colat_from_gap": 41.991,
+        "base_demand": 15.833,
+        "curvature": 5.218,
+        "adjusted_demand": 14.267,
+        "radius": 3.6653
+      },
+      {
+        "colat_from_gap": 47.809,
+        "base_demand": 12.012,
+        "curvature": 2.429,
+        "adjusted_demand": 11.284,
+        "radius": 4.8048
+      },
+      {
+        "colat_from_gap": 66.791,
+        "base_demand": 14.745,
+        "curvature": 3.643,
+        "adjusted_demand": 13.652,
+        "radius": 3.929
+      },
+      {
+        "colat_from_gap": 53.953,
+        "base_demand": 12.903,
+        "curvature": -0.214,
+        "adjusted_demand": 12.968,
+        "radius": 4.4781
+      },
+      {
+        "colat_from_gap": 53.178,
+        "base_demand": 13.383,
+        "curvature": -2.846,
+        "adjusted_demand": 14.237,
+        "radius": 4.3204
+      },
+      {
+        "colat_from_gap": 66.26,
+        "base_demand": 13.408,
+        "curvature": -3.276,
+        "adjusted_demand": 14.391,
+        "radius": 4.3125
+      },
+      {
+        "colat_from_gap": 79.924,
+        "base_demand": 20.512,
+        "curvature": -7.292,
+        "adjusted_demand": 22.699,
+        "radius": 2.8539
+      },
+      {
+        "colat_from_gap": 82.406,
+        "base_demand": 17.111,
+        "curvature": -1.343,
+        "adjusted_demand": 17.514,
+        "radius": 3.3987
+      },
+      {
+        "colat_from_gap": 73.333,
+        "base_demand": 15.415,
+        "curvature": 2.572,
+        "adjusted_demand": 14.643,
+        "radius": 3.7622
+      },
+      {
+        "colat_from_gap": 53.843,
+        "base_demand": 12.341,
+        "curvature": -5.077,
+        "adjusted_demand": 13.865,
+        "radius": 4.6786
+      },
+      {
+        "colat_from_gap": 58.054,
+        "base_demand": 14.355,
+        "curvature": 3.82,
+        "adjusted_demand": 13.208,
+        "radius": 4.0335
+      },
+      {
+        "colat_from_gap": 40.452,
+        "base_demand": 12.881,
+        "curvature": 1.218,
+        "adjusted_demand": 12.515,
+        "radius": 4.4858
+      },
+      {
+        "colat_from_gap": 19.081,
+        "base_demand": 13.293,
+        "curvature": -8.139,
+        "adjusted_demand": 15.735,
+        "radius": 4.3491
+      },
+      {
+        "colat_from_gap": 25.857,
+        "base_demand": 12.537,
+        "curvature": -2.768,
+        "adjusted_demand": 13.368,
+        "radius": 4.6067
+      },
+      {
+        "colat_from_gap": 42.949,
+        "base_demand": 11.577,
+        "curvature": 0.673,
+        "adjusted_demand": 11.375,
+        "radius": 4.9832
+      },
+      {
+        "colat_from_gap": 45.913,
+        "base_demand": 12.502,
+        "curvature": 0.161,
+        "adjusted_demand": 12.454,
+        "radius": 4.6195
+      },
+      {
+        "colat_from_gap": 38.334,
+        "base_demand": 12.018,
+        "curvature": 7.223,
+        "adjusted_demand": 9.851,
+        "radius": 4.8027
+      },
+      {
+        "colat_from_gap": 44.167,
+        "base_demand": 12.725,
+        "curvature": 1.572,
+        "adjusted_demand": 12.253,
+        "radius": 4.5399
+      },
+      {
+        "colat_from_gap": 51.054,
+        "base_demand": 15.965,
+        "curvature": -2.424,
+        "adjusted_demand": 16.692,
+        "radius": 3.6357
+      },
+      {
+        "colat_from_gap": 65.239,
+        "base_demand": 18.785,
+        "curvature": 2.34,
+        "adjusted_demand": 18.083,
+        "radius": 3.1054
+      },
+      {
+        "colat_from_gap": 84.689,
+        "base_demand": 26.877,
+        "curvature": 15.073,
+        "adjusted_demand": 22.355,
+        "radius": 2.212
+      },
+      {
+        "colat_from_gap": 60.3,
+        "base_demand": 36.417,
+        "curvature": -16.873,
+        "adjusted_demand": 41.479,
+        "radius": 1.6845
+      },
+      {
+        "colat_from_gap": 73.435,
+        "base_demand": 18.22,
+        "curvature": 0.276,
+        "adjusted_demand": 18.137,
+        "radius": 3.1983
+      },
+      {
+        "colat_from_gap": 43.581,
+        "base_demand": 17.205,
+        "curvature": -10.743,
+        "adjusted_demand": 20.428,
+        "radius": 3.3807
+      },
+      {
+        "colat_from_gap": 37.44,
+        "base_demand": 13.437,
+        "curvature": -5.958,
+        "adjusted_demand": 15.225,
+        "radius": 4.3033
+      },
+      {
+        "colat_from_gap": 26.124,
+        "base_demand": 12.325,
+        "curvature": 3.555,
+        "adjusted_demand": 11.258,
+        "radius": 4.6849
+      },
+      {
+        "colat_from_gap": 16.424,
+        "base_demand": 12.436,
+        "curvature": 1.275,
+        "adjusted_demand": 12.053,
+        "radius": 4.6436
+      },
+      {
+        "colat_from_gap": 13.385,
+        "base_demand": 19.039,
+        "curvature": -6.497,
+        "adjusted_demand": 20.988,
+        "radius": 3.0655
+      },
+      {
+        "colat_from_gap": 16.371,
+        "base_demand": 19.019,
+        "curvature": -1.697,
+        "adjusted_demand": 19.528,
+        "radius": 3.0686
+      },
+      {
+        "colat_from_gap": 16.019,
+        "base_demand": 12.122,
+        "curvature": -1.963,
+        "adjusted_demand": 12.711,
+        "radius": 4.7619
+      },
+      {
+        "colat_from_gap": 22.872,
+        "base_demand": 10.942,
+        "curvature": -2.482,
+        "adjusted_demand": 11.687,
+        "radius": 5.2681
+      },
+      {
+        "colat_from_gap": 31.482,
+        "base_demand": 11.836,
+        "curvature": -5.938,
+        "adjusted_demand": 13.617,
+        "radius": 4.8756
+      },
+      {
+        "colat_from_gap": 41.781,
+        "base_demand": 11.86,
+        "curvature": -5.117,
+        "adjusted_demand": 13.395,
+        "radius": 4.8656
+      },
+      {
+        "colat_from_gap": 40.518,
+        "base_demand": 12.312,
+        "curvature": -2.644,
+        "adjusted_demand": 13.105,
+        "radius": 4.6897
+      },
+      {
+        "colat_from_gap": 41.483,
+        "base_demand": 13.923,
+        "curvature": -1.809,
+        "adjusted_demand": 14.466,
+        "radius": 4.1559
+      },
+      {
+        "colat_from_gap": 63.469,
+        "base_demand": 13.853,
+        "curvature": -0.524,
+        "adjusted_demand": 14.011,
+        "radius": 4.1764
+      },
+      {
+        "colat_from_gap": 54.632,
+        "base_demand": 13.479,
+        "curvature": -9.373,
+        "adjusted_demand": 16.291,
+        "radius": 4.2903
+      },
+      {
+        "colat_from_gap": 73.488,
+        "base_demand": 13.46,
+        "curvature": 0.36,
+        "adjusted_demand": 13.352,
+        "radius": 4.2962
+      },
+      {
+        "colat_from_gap": 82.575,
+        "base_demand": 13.435,
+        "curvature": 0.188,
+        "adjusted_demand": 13.379,
+        "radius": 4.304
+      },
+      {
+        "colat_from_gap": 61.723,
+        "base_demand": 12.611,
+        "curvature": -4.959,
+        "adjusted_demand": 14.098,
+        "radius": 4.5803
+      },
+      {
+        "colat_from_gap": 51.137,
+        "base_demand": 13.109,
+        "curvature": -9.065,
+        "adjusted_demand": 15.829,
+        "radius": 4.409
+      },
+      {
+        "colat_from_gap": 56.596,
+        "base_demand": 15.43,
+        "curvature": 10.234,
+        "adjusted_demand": 12.36,
+        "radius": 3.7585
+      },
+      {
+        "colat_from_gap": 34.371,
+        "base_demand": 14.544,
+        "curvature": -5.657,
+        "adjusted_demand": 16.242,
+        "radius": 3.982
+      },
+      {
+        "colat_from_gap": 47.267,
+        "base_demand": 13.284,
+        "curvature": -7.541,
+        "adjusted_demand": 15.546,
+        "radius": 4.352
+      },
+      {
+        "colat_from_gap": 61.077,
+        "base_demand": 13.185,
+        "curvature": -5.989,
+        "adjusted_demand": 14.982,
+        "radius": 4.3841
+      },
+      {
+        "colat_from_gap": 74.065,
+        "base_demand": 13.308,
+        "curvature": 4.754,
+        "adjusted_demand": 11.882,
+        "radius": 4.3443
+      },
+      {
+        "colat_from_gap": 75.871,
+        "base_demand": 11.867,
+        "curvature": 0.361,
+        "adjusted_demand": 11.759,
+        "radius": 4.8627
+      },
+      {
+        "colat_from_gap": 78.651,
+        "base_demand": 11.905,
+        "curvature": 9.37,
+        "adjusted_demand": 9.094,
+        "radius": 4.8476
+      },
+      {
+        "colat_from_gap": 81.805,
+        "base_demand": 12.865,
+        "curvature": -5.252,
+        "adjusted_demand": 14.441,
+        "radius": 4.4912
+      },
+      {
+        "colat_from_gap": 85.317,
+        "base_demand": 16.229,
+        "curvature": -6.769,
+        "adjusted_demand": 18.26,
+        "radius": 3.5781
+      },
+      {
+        "colat_from_gap": 101.17,
+        "base_demand": 16.314,
+        "curvature": 2.601,
+        "adjusted_demand": 15.534,
+        "radius": 3.56
+      },
+      {
+        "colat_from_gap": 106.777,
+        "base_demand": 12.129,
+        "curvature": -3.433,
+        "adjusted_demand": 13.159,
+        "radius": 4.7593
+      },
+      {
+        "colat_from_gap": 96.056,
+        "base_demand": 11.737,
+        "curvature": 5.546,
+        "adjusted_demand": 10.073,
+        "radius": 4.9158
+      },
+      {
+        "colat_from_gap": 87.109,
+        "base_demand": 12.919,
+        "curvature": -3.486,
+        "adjusted_demand": 13.965,
+        "radius": 4.4728
+      },
+      {
+        "colat_from_gap": 102.932,
+        "base_demand": 11.739,
+        "curvature": 4.83,
+        "adjusted_demand": 10.29,
+        "radius": 4.9151
+      },
+      {
+        "colat_from_gap": 112.973,
+        "base_demand": 11.76,
+        "curvature": 1.527,
+        "adjusted_demand": 11.302,
+        "radius": 4.9063
+      },
+      {
+        "colat_from_gap": 114.522,
+        "base_demand": 13.392,
+        "curvature": -3.498,
+        "adjusted_demand": 14.442,
+        "radius": 4.3174
+      },
+      {
+        "colat_from_gap": 129.982,
+        "base_demand": 12.322,
+        "curvature": -3.867,
+        "adjusted_demand": 13.482,
+        "radius": 4.686
+      },
+      {
+        "colat_from_gap": 123.96,
+        "base_demand": 11.42,
+        "curvature": -0.526,
+        "adjusted_demand": 11.578,
+        "radius": 5.0506
+      },
+      {
+        "colat_from_gap": 126.139,
+        "base_demand": 11.459,
+        "curvature": 0.466,
+        "adjusted_demand": 11.319,
+        "radius": 5.0336
+      },
+      {
+        "colat_from_gap": 119.252,
+        "base_demand": 13.565,
+        "curvature": 0.972,
+        "adjusted_demand": 13.274,
+        "radius": 4.2635
+      },
+      {
+        "colat_from_gap": 106.205,
+        "base_demand": 12.438,
+        "curvature": 3.143,
+        "adjusted_demand": 11.495,
+        "radius": 4.643
+      },
+      {
+        "colat_from_gap": 94.378,
+        "base_demand": 12.848,
+        "curvature": 1.069,
+        "adjusted_demand": 12.527,
+        "radius": 4.4972
+      },
+      {
+        "colat_from_gap": 92.051,
+        "base_demand": 13.462,
+        "curvature": -1.915,
+        "adjusted_demand": 14.037,
+        "radius": 4.2955
+      },
+      {
+        "colat_from_gap": 76.018,
+        "base_demand": 12.871,
+        "curvature": -4.276,
+        "adjusted_demand": 14.154,
+        "radius": 4.4893
+      },
+      {
+        "colat_from_gap": 76.674,
+        "base_demand": 14.975,
+        "curvature": -2.519,
+        "adjusted_demand": 15.73,
+        "radius": 3.8701
+      },
+      {
+        "colat_from_gap": 89.554,
+        "base_demand": 13.873,
+        "curvature": -4.15,
+        "adjusted_demand": 15.118,
+        "radius": 4.1707
+      },
+      {
+        "colat_from_gap": 108.74,
+        "base_demand": 13.618,
+        "curvature": 4.894,
+        "adjusted_demand": 12.15,
+        "radius": 4.2472
+      },
+      {
+        "colat_from_gap": 98.889,
+        "base_demand": 13.955,
+        "curvature": 4.633,
+        "adjusted_demand": 12.565,
+        "radius": 4.1468
+      },
+      {
+        "colat_from_gap": 80.456,
+        "base_demand": 17.028,
+        "curvature": 6.45,
+        "adjusted_demand": 15.093,
+        "radius": 3.4149
+      },
+      {
+        "colat_from_gap": 92.227,
+        "base_demand": 31.977,
+        "curvature": 16.678,
+        "adjusted_demand": 26.974,
+        "radius": 1.8883
+      },
+      {
+        "colat_from_gap": 95.375,
+        "base_demand": 16.033,
+        "curvature": 0.52,
+        "adjusted_demand": 15.877,
+        "radius": 3.6207
+      },
+      {
+        "colat_from_gap": 115.067,
+        "base_demand": 13.211,
+        "curvature": 6.726,
+        "adjusted_demand": 11.193,
+        "radius": 4.3758
+      },
+      {
+        "colat_from_gap": 118.651,
+        "base_demand": 12.446,
+        "curvature": 3.755,
+        "adjusted_demand": 11.32,
+        "radius": 4.6399
+      },
+      {
+        "colat_from_gap": 121.216,
+        "base_demand": 16.77,
+        "curvature": -5.89,
+        "adjusted_demand": 18.537,
+        "radius": 3.4659
+      },
+      {
+        "colat_from_gap": 143.417,
+        "base_demand": 12.975,
+        "curvature": 5.997,
+        "adjusted_demand": 11.176,
+        "radius": 4.454
+      },
+      {
+        "colat_from_gap": 130.535,
+        "base_demand": 12.854,
+        "curvature": -0.264,
+        "adjusted_demand": 12.933,
+        "radius": 4.4949
+      },
+      {
+        "colat_from_gap": 125.188,
+        "base_demand": 11.85,
+        "curvature": 1.239,
+        "adjusted_demand": 11.478,
+        "radius": 4.8698
+      },
+      {
+        "colat_from_gap": 130.633,
+        "base_demand": 12.232,
+        "curvature": 1.686,
+        "adjusted_demand": 11.726,
+        "radius": 4.72
+      },
+      {
+        "colat_from_gap": 147.603,
+        "base_demand": 12.145,
+        "curvature": 8.725,
+        "adjusted_demand": 9.528,
+        "radius": 4.7531
+      },
+      {
+        "colat_from_gap": 156.339,
+        "base_demand": 14.149,
+        "curvature": -0.58,
+        "adjusted_demand": 14.323,
+        "radius": 4.091
+      },
+      {
+        "colat_from_gap": 153.078,
+        "base_demand": 12.13,
+        "curvature": -3.11,
+        "adjusted_demand": 13.063,
+        "radius": 4.7588
+      },
+      {
+        "colat_from_gap": 164.841,
+        "base_demand": 12.428,
+        "curvature": -0.607,
+        "adjusted_demand": 12.61,
+        "radius": 4.6466
+      },
+      {
+        "colat_from_gap": 160.145,
+        "base_demand": 12.986,
+        "curvature": -0.509,
+        "adjusted_demand": 13.138,
+        "radius": 4.4503
+      },
+      {
+        "colat_from_gap": 144.998,
+        "base_demand": 14.158,
+        "curvature": -5.486,
+        "adjusted_demand": 15.804,
+        "radius": 4.0884
+      },
+      {
+        "colat_from_gap": 132.006,
+        "base_demand": 22.991,
+        "curvature": -2.456,
+        "adjusted_demand": 23.728,
+        "radius": 2.5602
+      },
+      {
+        "colat_from_gap": 130.382,
+        "base_demand": 19.425,
+        "curvature": -4.305,
+        "adjusted_demand": 20.716,
+        "radius": 3.0069
+      },
+      {
+        "colat_from_gap": 139.829,
+        "base_demand": 16.617,
+        "curvature": -3.403,
+        "adjusted_demand": 17.638,
+        "radius": 3.4967
+      },
+      {
+        "colat_from_gap": 156.22,
+        "base_demand": 16.336,
+        "curvature": 5.078,
+        "adjusted_demand": 14.812,
+        "radius": 3.5554
+      },
+      {
+        "colat_from_gap": 130.28,
+        "base_demand": 17.25,
+        "curvature": -2.185,
+        "adjusted_demand": 17.905,
+        "radius": 3.3722
+      },
+      {
+        "colat_from_gap": 126.502,
+        "base_demand": 40.363,
+        "curvature": 24.188,
+        "adjusted_demand": 33.107,
+        "radius": 1.5441
+      },
+      {
+        "colat_from_gap": 110.25,
+        "base_demand": 21.763,
+        "curvature": 11.243,
+        "adjusted_demand": 18.39,
+        "radius": 2.6971
+      },
+      {
+        "colat_from_gap": 100.61,
+        "base_demand": 25.117,
+        "curvature": -1.921,
+        "adjusted_demand": 25.694,
+        "radius": 2.3559
+      },
+      {
+        "colat_from_gap": 109.342,
+        "base_demand": 16.182,
+        "curvature": -1.242,
+        "adjusted_demand": 16.554,
+        "radius": 3.5883
+      },
+      {
+        "colat_from_gap": 132.434,
+        "base_demand": 14.369,
+        "curvature": 4.484,
+        "adjusted_demand": 13.023,
+        "radius": 4.0296
+      },
+      {
+        "colat_from_gap": 148.701,
+        "base_demand": 13.111,
+        "curvature": 0.647,
+        "adjusted_demand": 12.917,
+        "radius": 4.4083
+      },
+      {
+        "colat_from_gap": 139.18,
+        "base_demand": 12.069,
+        "curvature": 0.312,
+        "adjusted_demand": 11.975,
+        "radius": 4.7828
+      },
+      {
+        "colat_from_gap": 128.504,
+        "base_demand": 12.846,
+        "curvature": 4.371,
+        "adjusted_demand": 11.535,
+        "radius": 4.4978
+      },
+      {
+        "colat_from_gap": 108.773,
+        "base_demand": 13.348,
+        "curvature": 2.842,
+        "adjusted_demand": 12.495,
+        "radius": 4.3315
+      },
+      {
+        "colat_from_gap": 116.421,
+        "base_demand": 12.55,
+        "curvature": 5.746,
+        "adjusted_demand": 10.826,
+        "radius": 4.6021
+      },
+      {
+        "colat_from_gap": 124.927,
+        "base_demand": 11.656,
+        "curvature": 5.71,
+        "adjusted_demand": 9.943,
+        "radius": 4.9495
+      },
+      {
+        "colat_from_gap": 137.435,
+        "base_demand": 11.668,
+        "curvature": -2.833,
+        "adjusted_demand": 12.518,
+        "radius": 4.9447
+      },
+      {
+        "colat_from_gap": 137.925,
+        "base_demand": 11.675,
+        "curvature": 0.327,
+        "adjusted_demand": 11.577,
+        "radius": 4.9416
+      },
+      {
+        "colat_from_gap": 136.408,
+        "base_demand": 12.349,
+        "curvature": 1.788,
+        "adjusted_demand": 11.813,
+        "radius": 4.6758
+      },
+      {
+        "colat_from_gap": 147.596,
+        "base_demand": 12.663,
+        "curvature": -8.741,
+        "adjusted_demand": 15.286,
+        "radius": 4.5616
+      },
+      {
+        "colat_from_gap": 161.015,
+        "base_demand": 14.403,
+        "curvature": -5.955,
+        "adjusted_demand": 16.189,
+        "radius": 4.0204
+      },
+      {
+        "colat_from_gap": 169.517,
+        "base_demand": 18.645,
+        "curvature": -1.544,
+        "adjusted_demand": 19.109,
+        "radius": 3.1279
+      },
+      {
+        "colat_from_gap": 161.915,
+        "base_demand": 12.564,
+        "curvature": 0.941,
+        "adjusted_demand": 12.281,
+        "radius": 4.5972
+      },
+      {
+        "colat_from_gap": 144.23,
+        "base_demand": 13.673,
+        "curvature": -0.573,
+        "adjusted_demand": 13.845,
+        "radius": 4.2305
+      },
+      {
+        "colat_from_gap": 125.282,
+        "base_demand": 14.322,
+        "curvature": -4.475,
+        "adjusted_demand": 15.664,
+        "radius": 4.0426
+      },
+      {
+        "colat_from_gap": 133.427,
+        "base_demand": 12.165,
+        "curvature": 5.326,
+        "adjusted_demand": 10.567,
+        "radius": 4.7457
+      },
+      {
+        "colat_from_gap": 133.435,
+        "base_demand": 13.862,
+        "curvature": 0.186,
+        "adjusted_demand": 13.806,
+        "radius": 4.1739
+      },
+      {
+        "colat_from_gap": 153.205,
+        "base_demand": 22.863,
+        "curvature": 6.113,
+        "adjusted_demand": 21.029,
+        "radius": 2.5738
+      },
+      {
+        "colat_from_gap": 114.036,
+        "base_demand": 41.401,
+        "curvature": -20.456,
+        "adjusted_demand": 47.538,
+        "radius": 1.5121
+      },
+      {
+        "colat_from_gap": 103.051,
+        "base_demand": 17.037,
+        "curvature": -9.733,
+        "adjusted_demand": 19.957,
+        "radius": 3.4131
+      },
+      {
+        "colat_from_gap": 105.641,
+        "base_demand": 13.833,
+        "curvature": -1.529,
+        "adjusted_demand": 14.291,
+        "radius": 4.1825
+      },
+      {
+        "colat_from_gap": 121.962,
+        "base_demand": 12.955,
+        "curvature": 7.56,
+        "adjusted_demand": 10.687,
+        "radius": 4.4605
+      },
+      {
+        "colat_from_gap": 109.747,
+        "base_demand": 11.978,
+        "curvature": 1.487,
+        "adjusted_demand": 11.531,
+        "radius": 4.8186
+      },
+      {
+        "colat_from_gap": 100.509,
+        "base_demand": 11.992,
+        "curvature": 1.035,
+        "adjusted_demand": 11.682,
+        "radius": 4.8128
+      },
+      {
+        "colat_from_gap": 88.846,
+        "base_demand": 12.335,
+        "curvature": 4.672,
+        "adjusted_demand": 10.933,
+        "radius": 4.6811
+      },
+      {
+        "colat_from_gap": 72.125,
+        "base_demand": 16.613,
+        "curvature": -0.606,
+        "adjusted_demand": 16.795,
+        "radius": 3.4976
+      },
+      {
+        "colat_from_gap": 80.893,
+        "base_demand": 16.12,
+        "curvature": 6.732,
+        "adjusted_demand": 14.1,
+        "radius": 3.6017
+      },
+      {
+        "colat_from_gap": 90.148,
+        "base_demand": 11.864,
+        "curvature": -1.993,
+        "adjusted_demand": 12.462,
+        "radius": 4.8641
+      },
+      {
+        "colat_from_gap": 107.57,
+        "base_demand": 12.058,
+        "curvature": -1.258,
+        "adjusted_demand": 12.436,
+        "radius": 4.7869
+      },
+      {
+        "colat_from_gap": 119.113,
+        "base_demand": 13.02,
+        "curvature": -2.799,
+        "adjusted_demand": 13.86,
+        "radius": 4.4387
+      },
+      {
+        "colat_from_gap": 119.102,
+        "base_demand": 14.697,
+        "curvature": 1.055,
+        "adjusted_demand": 14.38,
+        "radius": 3.9416
+      },
+      {
+        "colat_from_gap": 106.427,
+        "base_demand": 13.382,
+        "curvature": -6.171,
+        "adjusted_demand": 15.233,
+        "radius": 4.3208
+      },
+      {
+        "colat_from_gap": 114.051,
+        "base_demand": 19.792,
+        "curvature": 4.043,
+        "adjusted_demand": 18.579,
+        "radius": 2.9533
+      },
+      {
+        "colat_from_gap": 89.08,
+        "base_demand": 15.552,
+        "curvature": -12.222,
+        "adjusted_demand": 19.218,
+        "radius": 3.7298
+      },
+      {
+        "colat_from_gap": 93.406,
+        "base_demand": 13.024,
+        "curvature": 2.31,
+        "adjusted_demand": 12.331,
+        "radius": 4.4373
+      },
+      {
+        "colat_from_gap": 89.017,
+        "base_demand": 12.377,
+        "curvature": 0.602,
+        "adjusted_demand": 12.196,
+        "radius": 4.6655
+      },
+      {
+        "colat_from_gap": 89.483,
+        "base_demand": 12.366,
+        "curvature": -0.842,
+        "adjusted_demand": 12.618,
+        "radius": 4.6696
+      },
+      {
+        "colat_from_gap": 71.08,
+        "base_demand": 11.111,
+        "curvature": -4.66,
+        "adjusted_demand": 12.509,
+        "radius": 5.1891
+      },
+      {
+        "colat_from_gap": 62.91,
+        "base_demand": 11.26,
+        "curvature": -4.24,
+        "adjusted_demand": 12.532,
+        "radius": 5.1214
+      },
+      {
+        "colat_from_gap": 64.553,
+        "base_demand": 11.978,
+        "curvature": -0.099,
+        "adjusted_demand": 12.008,
+        "radius": 4.8184
+      },
+      {
+        "colat_from_gap": 48.722,
+        "base_demand": 11.669,
+        "curvature": 5.021,
+        "adjusted_demand": 10.163,
+        "radius": 4.9441
+      },
+      {
+        "colat_from_gap": 52.37,
+        "base_demand": 15.022,
+        "curvature": 2.018,
+        "adjusted_demand": 14.417,
+        "radius": 3.8581
+      },
+      {
+        "colat_from_gap": 68.803,
+        "base_demand": 12.609,
+        "curvature": 2.629,
+        "adjusted_demand": 11.821,
+        "radius": 4.5808
+      },
+      {
+        "colat_from_gap": 80.996,
+        "base_demand": 12.827,
+        "curvature": -1.047,
+        "adjusted_demand": 13.141,
+        "radius": 4.5045
+      },
+      {
+        "colat_from_gap": 65.02,
+        "base_demand": 13.635,
+        "curvature": -6.319,
+        "adjusted_demand": 15.531,
+        "radius": 4.2419
+      },
+      {
+        "colat_from_gap": 84.116,
+        "base_demand": 15.279,
+        "curvature": 1.288,
+        "adjusted_demand": 14.893,
+        "radius": 3.7948
+      },
+      {
+        "colat_from_gap": 75.337,
+        "base_demand": 21.245,
+        "curvature": -3.871,
+        "adjusted_demand": 22.407,
+        "radius": 2.7597
+      },
+      {
+        "colat_from_gap": 74.269,
+        "base_demand": 29.009,
+        "curvature": 9.81,
+        "adjusted_demand": 26.066,
+        "radius": 2.0621
+      },
+      {
+        "colat_from_gap": 17.575,
+        "base_demand": 33.64,
+        "curvature": -22.51,
+        "adjusted_demand": 40.393,
+        "radius": 1.8052
+      },
+      {
+        "colat_from_gap": 46.013,
+        "base_demand": 17.633,
+        "curvature": 8.23,
+        "adjusted_demand": 15.164,
+        "radius": 3.3012
+      },
+      {
+        "colat_from_gap": 41.5,
+        "base_demand": 13.797,
+        "curvature": 4.166,
+        "adjusted_demand": 12.547,
+        "radius": 4.1933
+      },
+      {
+        "colat_from_gap": 14.991,
+        "base_demand": 14.088,
+        "curvature": -12.294,
+        "adjusted_demand": 17.776,
+        "radius": 4.1083
+      },
+      {
+        "colat_from_gap": 25.915,
+        "base_demand": 13.375,
+        "curvature": 9.431,
+        "adjusted_demand": 10.546,
+        "radius": 4.3229
+      },
+      {
+        "colat_from_gap": 30.658,
+        "base_demand": 13.526,
+        "curvature": 0.674,
+        "adjusted_demand": 13.324,
+        "radius": 4.2756
+      },
+      {
+        "colat_from_gap": 42.888,
+        "base_demand": 12.536,
+        "curvature": 3.829,
+        "adjusted_demand": 11.387,
+        "radius": 4.6073
+      },
+      {
+        "colat_from_gap": 36.127,
+        "base_demand": 11.678,
+        "curvature": -9.221,
+        "adjusted_demand": 14.444,
+        "radius": 4.9404
+      },
+      {
+        "colat_from_gap": 54.634,
+        "base_demand": 12.064,
+        "curvature": 0.822,
+        "adjusted_demand": 11.818,
+        "radius": 4.7844
+      },
+      {
+        "colat_from_gap": 59.815,
+        "base_demand": 12.128,
+        "curvature": -0.897,
+        "adjusted_demand": 12.397,
+        "radius": 4.7596
+      },
+      {
+        "colat_from_gap": 66.481,
+        "base_demand": 13.317,
+        "curvature": 6.109,
+        "adjusted_demand": 11.484,
+        "radius": 4.3416
+      },
+      {
+        "colat_from_gap": 41.853,
+        "base_demand": 12.3,
+        "curvature": -9.986,
+        "adjusted_demand": 15.296,
+        "radius": 4.6943
+      },
+      {
+        "colat_from_gap": 49.726,
+        "base_demand": 11.819,
+        "curvature": 2.21,
+        "adjusted_demand": 11.156,
+        "radius": 4.8822
+      },
+      {
+        "colat_from_gap": 62.322,
+        "base_demand": 12.844,
+        "curvature": 2.603,
+        "adjusted_demand": 12.063,
+        "radius": 4.4986
+      },
+      {
+        "colat_from_gap": 76.751,
+        "base_demand": 13.342,
+        "curvature": 0.697,
+        "adjusted_demand": 13.133,
+        "radius": 4.3333
+      },
+      {
+        "colat_from_gap": 85.848,
+        "base_demand": 15.796,
+        "curvature": 7.51,
+        "adjusted_demand": 13.543,
+        "radius": 3.6736
+      },
+      {
+        "colat_from_gap": 88.585,
+        "base_demand": 30.773,
+        "curvature": 1.869,
+        "adjusted_demand": 30.212,
+        "radius": 1.9545
+      },
+      {
+        "colat_from_gap": 93.508,
+        "base_demand": 20.552,
+        "curvature": 8.012,
+        "adjusted_demand": 18.148,
+        "radius": 2.8486
+      },
+      {
+        "colat_from_gap": 73.99,
+        "base_demand": 13.772,
+        "curvature": -3.88,
+        "adjusted_demand": 14.936,
+        "radius": 4.2006
+      },
+      {
+        "colat_from_gap": 67.533,
+        "base_demand": 14.601,
+        "curvature": -2.034,
+        "adjusted_demand": 15.211,
+        "radius": 3.967
+      },
+      {
+        "colat_from_gap": 65.801,
+        "base_demand": 12.633,
+        "curvature": 5.113,
+        "adjusted_demand": 11.099,
+        "radius": 4.5722
+      },
+      {
+        "colat_from_gap": 52.039,
+        "base_demand": 11.447,
+        "curvature": -5.636,
+        "adjusted_demand": 13.138,
+        "radius": 5.0387
+      },
+      {
+        "colat_from_gap": 61.506,
+        "base_demand": 12.989,
+        "curvature": 6.46,
+        "adjusted_demand": 11.051,
+        "radius": 4.449
+      },
+      {
+        "colat_from_gap": 46.96,
+        "base_demand": 12.511,
+        "curvature": -2.293,
+        "adjusted_demand": 13.199,
+        "radius": 4.6163
+      },
+      {
+        "colat_from_gap": 31.509,
+        "base_demand": 13.99,
+        "curvature": -3.393,
+        "adjusted_demand": 15.008,
+        "radius": 4.1366
+      },
+      {
+        "colat_from_gap": 29.351,
+        "base_demand": 11.754,
+        "curvature": 4.056,
+        "adjusted_demand": 10.538,
+        "radius": 4.9088
+      },
+      {
+        "colat_from_gap": 25.088,
+        "base_demand": 12.079,
+        "curvature": 2.619,
+        "adjusted_demand": 11.293,
+        "radius": 4.7787
+      },
+      {
+        "colat_from_gap": 32.161,
+        "base_demand": 10.989,
+        "curvature": 0.664,
+        "adjusted_demand": 10.79,
+        "radius": 5.2459
+      },
+      {
+        "colat_from_gap": 37.137,
+        "base_demand": 11.42,
+        "curvature": -0.418,
+        "adjusted_demand": 11.545,
+        "radius": 5.0505
+      },
+      {
+        "colat_from_gap": 47.414,
+        "base_demand": 11.198,
+        "curvature": -1.998,
+        "adjusted_demand": 11.797,
+        "radius": 5.1495
+      },
+      {
+        "colat_from_gap": 55.876,
+        "base_demand": 12.811,
+        "curvature": 9.212,
+        "adjusted_demand": 10.047,
+        "radius": 4.51
+      },
+      {
+        "colat_from_gap": 35.628,
+        "base_demand": 11.409,
+        "curvature": -6.496,
+        "adjusted_demand": 13.357,
+        "radius": 5.0555
+      },
+      {
+        "colat_from_gap": 26.595,
+        "base_demand": 12.009,
+        "curvature": -9.296,
+        "adjusted_demand": 14.798,
+        "radius": 4.8062
+      },
+      {
+        "colat_from_gap": 33.447,
+        "base_demand": 11.583,
+        "curvature": -1.934,
+        "adjusted_demand": 12.163,
+        "radius": 4.9804
+      },
+      {
+        "colat_from_gap": 51.742,
+        "base_demand": 12.032,
+        "curvature": 0.209,
+        "adjusted_demand": 11.97,
+        "radius": 4.797
+      },
+      {
+        "colat_from_gap": 58.899,
+        "base_demand": 14.036,
+        "curvature": 7.501,
+        "adjusted_demand": 11.785,
+        "radius": 4.1233
+      },
+      {
+        "colat_from_gap": 48.056,
+        "base_demand": 21.866,
+        "curvature": -10.091,
+        "adjusted_demand": 24.893,
+        "radius": 2.685
+      },
+      {
+        "colat_from_gap": 77.743,
+        "base_demand": 18.753,
+        "curvature": 9.861,
+        "adjusted_demand": 15.795,
+        "radius": 3.1105
+      },
+      {
+        "colat_from_gap": 70.524,
+        "base_demand": 19.358,
+        "curvature": -10.692,
+        "adjusted_demand": 22.566,
+        "radius": 3.0168
+      },
+      {
+        "colat_from_gap": 68.708,
+        "base_demand": 48.107,
+        "curvature": -3.786,
+        "adjusted_demand": 49.243,
+        "radius": 1.3434
+      },
+      {
+        "colat_from_gap": 85.638,
+        "base_demand": 27.167,
+        "curvature": 14.573,
+        "adjusted_demand": 22.795,
+        "radius": 2.1902
+      },
+      {
+        "colat_from_gap": 81.83,
+        "base_demand": 18.438,
+        "curvature": 2.294,
+        "adjusted_demand": 17.75,
+        "radius": 3.1617
+      },
+      {
+        "colat_from_gap": 64.487,
+        "base_demand": 14.551,
+        "curvature": -1.447,
+        "adjusted_demand": 14.985,
+        "radius": 3.9801
+      },
+      {
+        "colat_from_gap": 58.433,
+        "base_demand": 15.596,
+        "curvature": 4.399,
+        "adjusted_demand": 14.276,
+        "radius": 3.7195
+      },
+      {
+        "colat_from_gap": 50.215,
+        "base_demand": 14.217,
+        "curvature": 9.704,
+        "adjusted_demand": 11.306,
+        "radius": 4.0718
+      },
+      {
+        "colat_from_gap": 36.582,
+        "base_demand": 11.766,
+        "curvature": 3.72,
+        "adjusted_demand": 10.65,
+        "radius": 4.9041
+      },
+      {
+        "colat_from_gap": 28.284,
+        "base_demand": 11.848,
+        "curvature": -3.069,
+        "adjusted_demand": 12.769,
+        "radius": 4.8706
+      },
+      {
+        "colat_from_gap": 16.854,
+        "base_demand": 12.699,
+        "curvature": -4.42,
+        "adjusted_demand": 14.026,
+        "radius": 4.5488
+      },
+      {
+        "colat_from_gap": 13.444,
+        "base_demand": 12.623,
+        "curvature": -5.284,
+        "adjusted_demand": 14.209,
+        "radius": 4.5758
+      },
+      {
+        "colat_from_gap": 21.033,
+        "base_demand": 14.864,
+        "curvature": 7.619,
+        "adjusted_demand": 12.579,
+        "radius": 3.8982
+      },
+      {
+        "colat_from_gap": 18.731,
+        "base_demand": 17.284,
+        "curvature": 5.465,
+        "adjusted_demand": 15.644,
+        "radius": 3.3658
+      },
+      {
+        "colat_from_gap": 13.146,
+        "base_demand": 22.918,
+        "curvature": -4.405,
+        "adjusted_demand": 24.24,
+        "radius": 2.568
+      },
+      {
+        "colat_from_gap": 22.99,
+        "base_demand": 14.543,
+        "curvature": 6.795,
+        "adjusted_demand": 12.505,
+        "radius": 3.9823
+      },
+      {
+        "colat_from_gap": 12.973,
+        "base_demand": 11.15,
+        "curvature": -6.79,
+        "adjusted_demand": 13.188,
+        "radius": 5.171
+      },
+      {
+        "colat_from_gap": 23.508,
+        "base_demand": 10.901,
+        "curvature": 5.585,
+        "adjusted_demand": 9.226,
+        "radius": 5.2877
+      },
+      {
+        "colat_from_gap": 27.201,
+        "base_demand": 10.972,
+        "curvature": -0.943,
+        "adjusted_demand": 11.255,
+        "radius": 5.2542
+      },
+      {
+        "colat_from_gap": 33.417,
+        "base_demand": 10.825,
+        "curvature": 4.075,
+        "adjusted_demand": 9.602,
+        "radius": 5.3247
+      },
+      {
+        "colat_from_gap": 41.423,
+        "base_demand": 12.32,
+        "curvature": 4.791,
+        "adjusted_demand": 10.883,
+        "radius": 4.6867
+      },
+      {
+        "colat_from_gap": 52.373,
+        "base_demand": 11.478,
+        "curvature": 5.405,
+        "adjusted_demand": 9.856,
+        "radius": 5.0254
+      },
+      {
+        "colat_from_gap": 52.155,
+        "base_demand": 11.906,
+        "curvature": 5.71,
+        "adjusted_demand": 10.193,
+        "radius": 4.847
+      },
+      {
+        "colat_from_gap": 34.169,
+        "base_demand": 12.766,
+        "curvature": -6.832,
+        "adjusted_demand": 14.815,
+        "radius": 4.5256
+      },
+      {
+        "colat_from_gap": 52.416,
+        "base_demand": 12.448,
+        "curvature": 5.126,
+        "adjusted_demand": 10.91,
+        "radius": 4.6392
+      },
+      {
+        "colat_from_gap": 53.096,
+        "base_demand": 13.897,
+        "curvature": -4.847,
+        "adjusted_demand": 15.351,
+        "radius": 4.1637
+      },
+      {
+        "colat_from_gap": 74.89,
+        "base_demand": 13.352,
+        "curvature": 10.729,
+        "adjusted_demand": 10.133,
+        "radius": 4.3303
+      },
+      {
+        "colat_from_gap": 64.854,
+        "base_demand": 12.283,
+        "curvature": 0.093,
+        "adjusted_demand": 12.255,
+        "radius": 4.7006
+      },
+      {
+        "colat_from_gap": 63.156,
+        "base_demand": 12.037,
+        "curvature": -0.903,
+        "adjusted_demand": 12.308,
+        "radius": 4.7951
+      },
+      {
+        "colat_from_gap": 83.1,
+        "base_demand": 15.306,
+        "curvature": 0.236,
+        "adjusted_demand": 15.235,
+        "radius": 3.7882
+      },
+      {
+        "colat_from_gap": 92.239,
+        "base_demand": 15.553,
+        "curvature": 9.402,
+        "adjusted_demand": 12.733,
+        "radius": 3.7295
+      },
+      {
+        "colat_from_gap": 72.536,
+        "base_demand": 11.861,
+        "curvature": -4.476,
+        "adjusted_demand": 13.204,
+        "radius": 4.8654
+      },
+      {
+        "colat_from_gap": 71.45,
+        "base_demand": 11.609,
+        "curvature": 4.32,
+        "adjusted_demand": 10.313,
+        "radius": 4.9693
+      },
+      {
+        "colat_from_gap": 61.915,
+        "base_demand": 12.125,
+        "curvature": 5.486,
+        "adjusted_demand": 10.479,
+        "radius": 4.7611
+      },
+      {
+        "colat_from_gap": 58.487,
+        "base_demand": 11.442,
+        "curvature": 6.633,
+        "adjusted_demand": 9.452,
+        "radius": 5.0409
+      },
+      {
+        "colat_from_gap": 52.572,
+        "base_demand": 12.571,
+        "curvature": -4.969,
+        "adjusted_demand": 14.062,
+        "radius": 4.5945
+      },
+      {
+        "colat_from_gap": 40.151,
+        "base_demand": 19.037,
+        "curvature": -5.332,
+        "adjusted_demand": 20.637,
+        "radius": 3.0658
+      },
+      {
+        "colat_from_gap": 39.906,
+        "base_demand": 12.511,
+        "curvature": -3.298,
+        "adjusted_demand": 13.501,
+        "radius": 4.6161
+      },
+      {
+        "colat_from_gap": 52.038,
+        "base_demand": 12.812,
+        "curvature": 8.451,
+        "adjusted_demand": 10.277,
+        "radius": 4.5095
+      },
+      {
+        "colat_from_gap": 57.58,
+        "base_demand": 13.088,
+        "curvature": -0.526,
+        "adjusted_demand": 13.246,
+        "radius": 4.416
+      },
+      {
+        "colat_from_gap": 68.945,
+        "base_demand": 14.739,
+        "curvature": 9.617,
+        "adjusted_demand": 11.854,
+        "radius": 3.9307
+      },
+      {
+        "colat_from_gap": 65.187,
+        "base_demand": 13.155,
+        "curvature": -2.384,
+        "adjusted_demand": 13.87,
+        "radius": 4.3939
+      },
+      {
+        "colat_from_gap": 73.434,
+        "base_demand": 11.413,
+        "curvature": -5.428,
+        "adjusted_demand": 13.041,
+        "radius": 5.0537
+      },
+      {
+        "colat_from_gap": 83.659,
+        "base_demand": 11.682,
+        "curvature": 9.006,
+        "adjusted_demand": 8.981,
+        "radius": 4.9387
+      },
+      {
+        "colat_from_gap": 67.361,
+        "base_demand": 12.109,
+        "curvature": -9.9,
+        "adjusted_demand": 15.079,
+        "radius": 4.767
+      },
+      {
+        "colat_from_gap": 71.2,
+        "base_demand": 11.559,
+        "curvature": -9.296,
+        "adjusted_demand": 14.348,
+        "radius": 4.9904
+      },
+      {
+        "colat_from_gap": 82.34,
+        "base_demand": 11.443,
+        "curvature": 5.838,
+        "adjusted_demand": 9.691,
+        "radius": 5.0407
+      },
+      {
+        "colat_from_gap": 91.774,
+        "base_demand": 11.611,
+        "curvature": 4.188,
+        "adjusted_demand": 10.354,
+        "radius": 4.9687
+      },
+      {
+        "colat_from_gap": 93.367,
+        "base_demand": 13.197,
+        "curvature": 4.822,
+        "adjusted_demand": 11.751,
+        "radius": 4.3801
+      },
+      {
+        "colat_from_gap": 90.805,
+        "base_demand": 21.167,
+        "curvature": -2.438,
+        "adjusted_demand": 21.899,
+        "radius": 2.7694
+      },
+      {
+        "colat_from_gap": 106.333,
+        "base_demand": 13.051,
+        "curvature": -2.946,
+        "adjusted_demand": 13.935,
+        "radius": 4.4282
+      },
+      {
+        "colat_from_gap": 117.388,
+        "base_demand": 13.294,
+        "curvature": 10.833,
+        "adjusted_demand": 10.044,
+        "radius": 4.3489
+      },
+      {
+        "colat_from_gap": 103.031,
+        "base_demand": 10.897,
+        "curvature": 3.326,
+        "adjusted_demand": 9.899,
+        "radius": 5.2899
+      },
+      {
+        "colat_from_gap": 92.633,
+        "base_demand": 11.485,
+        "curvature": -6.91,
+        "adjusted_demand": 13.558,
+        "radius": 5.0222
+      },
+      {
+        "colat_from_gap": 88.386,
+        "base_demand": 13.767,
+        "curvature": -3.197,
+        "adjusted_demand": 14.726,
+        "radius": 4.2022
+      },
+      {
+        "colat_from_gap": 92.804,
+        "base_demand": 11.039,
+        "curvature": 2.783,
+        "adjusted_demand": 10.204,
+        "radius": 5.2225
+      },
+      {
+        "colat_from_gap": 92.932,
+        "base_demand": 10.868,
+        "curvature": -4.936,
+        "adjusted_demand": 12.349,
+        "radius": 5.3037
+      },
+      {
+        "colat_from_gap": 103.271,
+        "base_demand": 11.85,
+        "curvature": -4.681,
+        "adjusted_demand": 13.254,
+        "radius": 4.8697
+      },
+      {
+        "colat_from_gap": 119.622,
+        "base_demand": 11.232,
+        "curvature": 7.173,
+        "adjusted_demand": 9.08,
+        "radius": 5.1339
+      },
+      {
+        "colat_from_gap": 111.926,
+        "base_demand": 11.208,
+        "curvature": -5.146,
+        "adjusted_demand": 12.752,
+        "radius": 5.1447
+      },
+      {
+        "colat_from_gap": 124.115,
+        "base_demand": 11.842,
+        "curvature": -0.5,
+        "adjusted_demand": 11.993,
+        "radius": 4.8728
+      },
+      {
+        "colat_from_gap": 134.709,
+        "base_demand": 13.096,
+        "curvature": 7.66,
+        "adjusted_demand": 10.798,
+        "radius": 4.4135
+      },
+      {
+        "colat_from_gap": 132.988,
+        "base_demand": 12.948,
+        "curvature": 6.017,
+        "adjusted_demand": 11.143,
+        "radius": 4.463
+      },
+      {
+        "colat_from_gap": 115.984,
+        "base_demand": 10.468,
+        "curvature": -3.945,
+        "adjusted_demand": 11.651,
+        "radius": 5.5042
+      },
+      {
+        "colat_from_gap": 115.899,
+        "base_demand": 10.95,
+        "curvature": -5.162,
+        "adjusted_demand": 12.499,
+        "radius": 5.2646
+      },
+      {
+        "colat_from_gap": 135.446,
+        "base_demand": 12.443,
+        "curvature": 9.666,
+        "adjusted_demand": 9.543,
+        "radius": 4.641
+      },
+      {
+        "colat_from_gap": 125.421,
+        "base_demand": 11.608,
+        "curvature": -1.928,
+        "adjusted_demand": 12.187,
+        "radius": 4.9696
+      },
+      {
+        "colat_from_gap": 111.141,
+        "base_demand": 11.922,
+        "curvature": -1.588,
+        "adjusted_demand": 12.398,
+        "radius": 4.8409
+      },
+      {
+        "colat_from_gap": 94.983,
+        "base_demand": 12.243,
+        "curvature": -0.828,
+        "adjusted_demand": 12.491,
+        "radius": 4.7158
+      },
+      {
+        "colat_from_gap": 85.418,
+        "base_demand": 14.007,
+        "curvature": -9.263,
+        "adjusted_demand": 16.786,
+        "radius": 4.1316
+      },
+      {
+        "colat_from_gap": 101.202,
+        "base_demand": 12.239,
+        "curvature": 7.987,
+        "adjusted_demand": 9.843,
+        "radius": 4.7172
+      },
+      {
+        "colat_from_gap": 86.731,
+        "base_demand": 11.816,
+        "curvature": 1.409,
+        "adjusted_demand": 11.393,
+        "radius": 4.8835
+      },
+      {
+        "colat_from_gap": 78.593,
+        "base_demand": 12.363,
+        "curvature": -2.782,
+        "adjusted_demand": 13.198,
+        "radius": 4.6705
+      },
+      {
+        "colat_from_gap": 81.995,
+        "base_demand": 12.227,
+        "curvature": 8.781,
+        "adjusted_demand": 9.592,
+        "radius": 4.722
+      },
+      {
+        "colat_from_gap": 70.41,
+        "base_demand": 13.226,
+        "curvature": -8.924,
+        "adjusted_demand": 15.903,
+        "radius": 4.3709
+      },
+      {
+        "colat_from_gap": 87.976,
+        "base_demand": 14.954,
+        "curvature": 4.862,
+        "adjusted_demand": 13.495,
+        "radius": 3.8754
+      },
+      {
+        "colat_from_gap": 99.431,
+        "base_demand": 12.284,
+        "curvature": -0.052,
+        "adjusted_demand": 12.3,
+        "radius": 4.7001
+      },
+      {
+        "colat_from_gap": 109.414,
+        "base_demand": 13.023,
+        "curvature": 5.328,
+        "adjusted_demand": 11.424,
+        "radius": 4.4377
+      },
+      {
+        "colat_from_gap": 98.279,
+        "base_demand": 12.904,
+        "curvature": -5.535,
+        "adjusted_demand": 14.565,
+        "radius": 4.4778
+      },
+      {
+        "colat_from_gap": 90.232,
+        "base_demand": 13.78,
+        "curvature": 1.248,
+        "adjusted_demand": 13.405,
+        "radius": 4.1983
+      },
+      {
+        "colat_from_gap": 79.078,
+        "base_demand": 14.748,
+        "curvature": -6.266,
+        "adjusted_demand": 16.628,
+        "radius": 3.9282
+      },
+      {
+        "colat_from_gap": 68.935,
+        "base_demand": 20.829,
+        "curvature": -2.548,
+        "adjusted_demand": 21.593,
+        "radius": 2.8123
+      },
+      {
+        "colat_from_gap": 62.51,
+        "base_demand": 32.045,
+        "curvature": -18.07,
+        "adjusted_demand": 37.466,
+        "radius": 1.8847
+      },
+      {
+        "colat_from_gap": 88.587,
+        "base_demand": 20.531,
+        "curvature": -5.214,
+        "adjusted_demand": 22.095,
+        "radius": 2.8514
+      },
+      {
+        "colat_from_gap": 101.124,
+        "base_demand": 12.906,
+        "curvature": -1.502,
+        "adjusted_demand": 13.357,
+        "radius": 4.4772
+      },
+      {
+        "colat_from_gap": 109.876,
+        "base_demand": 14.576,
+        "curvature": 1.78,
+        "adjusted_demand": 14.042,
+        "radius": 3.9736
+      },
+      {
+        "colat_from_gap": 106.805,
+        "base_demand": 11.952,
+        "curvature": -4.761,
+        "adjusted_demand": 13.38,
+        "radius": 4.8288
+      },
+      {
+        "colat_from_gap": 108.065,
+        "base_demand": 11.785,
+        "curvature": -4.663,
+        "adjusted_demand": 13.184,
+        "radius": 4.8964
+      },
+      {
+        "colat_from_gap": 121.727,
+        "base_demand": 13.193,
+        "curvature": 1.793,
+        "adjusted_demand": 12.655,
+        "radius": 4.3816
+      },
+      {
+        "colat_from_gap": 132.487,
+        "base_demand": 14.413,
+        "curvature": 4.946,
+        "adjusted_demand": 12.929,
+        "radius": 4.0176
+      },
+      {
+        "colat_from_gap": 133.865,
+        "base_demand": 12.146,
+        "curvature": -4.087,
+        "adjusted_demand": 13.372,
+        "radius": 4.753
+      },
+      {
+        "colat_from_gap": 140.975,
+        "base_demand": 12.23,
+        "curvature": 3.999,
+        "adjusted_demand": 11.031,
+        "radius": 4.7205
+      },
+      {
+        "colat_from_gap": 120.622,
+        "base_demand": 11.99,
+        "curvature": -9.966,
+        "adjusted_demand": 14.98,
+        "radius": 4.8136
+      },
+      {
+        "colat_from_gap": 130.642,
+        "base_demand": 11.261,
+        "curvature": 7.737,
+        "adjusted_demand": 8.94,
+        "radius": 5.1207
+      },
+      {
+        "colat_from_gap": 117.255,
+        "base_demand": 12.043,
+        "curvature": -5.788,
+        "adjusted_demand": 13.779,
+        "radius": 4.793
+      },
+      {
+        "colat_from_gap": 120.898,
+        "base_demand": 13.353,
+        "curvature": -3.047,
+        "adjusted_demand": 14.267,
+        "radius": 4.3299
+      },
+      {
+        "colat_from_gap": 136.996,
+        "base_demand": 11.453,
+        "curvature": -2.122,
+        "adjusted_demand": 12.089,
+        "radius": 5.0363
+      },
+      {
+        "colat_from_gap": 140.761,
+        "base_demand": 11.706,
+        "curvature": -8.585,
+        "adjusted_demand": 14.281,
+        "radius": 4.929
+      },
+      {
+        "colat_from_gap": 151.089,
+        "base_demand": 11.766,
+        "curvature": 2.539,
+        "adjusted_demand": 11.004,
+        "radius": 4.9041
+      },
+      {
+        "colat_from_gap": 162.748,
+        "base_demand": 11.776,
+        "curvature": 5.687,
+        "adjusted_demand": 10.07,
+        "radius": 4.8997
+      },
+      {
+        "colat_from_gap": 157.783,
+        "base_demand": 11.045,
+        "curvature": -0.13,
+        "adjusted_demand": 11.084,
+        "radius": 5.2196
+      },
+      {
+        "colat_from_gap": 154.593,
+        "base_demand": 12.201,
+        "curvature": -4.367,
+        "adjusted_demand": 13.511,
+        "radius": 4.7316
+      },
+      {
+        "colat_from_gap": 176.303,
+        "base_demand": 12.269,
+        "curvature": 10.397,
+        "adjusted_demand": 9.149,
+        "radius": 4.706
+      },
+      {
+        "colat_from_gap": 166.972,
+        "base_demand": 13.345,
+        "curvature": -1.252,
+        "adjusted_demand": 13.721,
+        "radius": 4.3324
+      },
+      {
+        "colat_from_gap": 154.336,
+        "base_demand": 14.243,
+        "curvature": 1.764,
+        "adjusted_demand": 13.714,
+        "radius": 4.0644
+      },
+      {
+        "colat_from_gap": 146.632,
+        "base_demand": 14.164,
+        "curvature": 1.247,
+        "adjusted_demand": 13.79,
+        "radius": 4.0867
+      },
+      {
+        "colat_from_gap": 145.773,
+        "base_demand": 18.042,
+        "curvature": 6.454,
+        "adjusted_demand": 16.105,
+        "radius": 3.2288
+      },
+      {
+        "colat_from_gap": 123.15,
+        "base_demand": 18.424,
+        "curvature": -8.368,
+        "adjusted_demand": 20.934,
+        "radius": 3.1641
+      },
+      {
+        "colat_from_gap": 131.03,
+        "base_demand": 16.717,
+        "curvature": 4.264,
+        "adjusted_demand": 15.438,
+        "radius": 3.4765
+      },
+      {
+        "colat_from_gap": 138.342,
+        "base_demand": 14.831,
+        "curvature": 3.237,
+        "adjusted_demand": 13.86,
+        "radius": 3.9068
+      },
+      {
+        "colat_from_gap": 148.122,
+        "base_demand": 13.432,
+        "curvature": -0.674,
+        "adjusted_demand": 13.634,
+        "radius": 4.305
+      },
+      {
+        "colat_from_gap": 157.763,
+        "base_demand": 13.36,
+        "curvature": 5.592,
+        "adjusted_demand": 11.683,
+        "radius": 4.3276
+      },
+      {
+        "colat_from_gap": 144.523,
+        "base_demand": 15.077,
+        "curvature": 1.272,
+        "adjusted_demand": 14.696,
+        "radius": 3.8443
+      },
+      {
+        "colat_from_gap": 120.407,
+        "base_demand": 17.874,
+        "curvature": -1.58,
+        "adjusted_demand": 18.348,
+        "radius": 3.2582
+      },
+      {
+        "colat_from_gap": 113.693,
+        "base_demand": 24.016,
+        "curvature": -9.761,
+        "adjusted_demand": 26.944,
+        "radius": 2.4571
+      },
+      {
+        "colat_from_gap": 90.934,
+        "base_demand": 69.886,
+        "curvature": -18.405,
+        "adjusted_demand": 75.407,
+        "radius": 1.065
+      },
+      {
+        "colat_from_gap": 92.176,
+        "base_demand": 29.099,
+        "curvature": -8.416,
+        "adjusted_demand": 31.624,
+        "radius": 2.0563
+      },
+      {
+        "colat_from_gap": 105.84,
+        "base_demand": 18.419,
+        "curvature": 0.409,
+        "adjusted_demand": 18.296,
+        "radius": 3.165
+      },
+      {
+        "colat_from_gap": 99.224,
+        "base_demand": 25.202,
+        "curvature": -2.906,
+        "adjusted_demand": 26.074,
+        "radius": 2.3484
+      },
+      {
+        "colat_from_gap": 103.649,
+        "base_demand": 17.443,
+        "curvature": -0.634,
+        "adjusted_demand": 17.633,
+        "radius": 3.336
+      },
+      {
+        "colat_from_gap": 117.52,
+        "base_demand": 13.497,
+        "curvature": 3.453,
+        "adjusted_demand": 12.461,
+        "radius": 4.2845
+      },
+      {
+        "colat_from_gap": 118.792,
+        "base_demand": 15.549,
+        "curvature": -6.185,
+        "adjusted_demand": 17.405,
+        "radius": 3.7304
+      },
+      {
+        "colat_from_gap": 137.106,
+        "base_demand": 12.544,
+        "curvature": -3.461,
+        "adjusted_demand": 13.582,
+        "radius": 4.6045
+      },
+      {
+        "colat_from_gap": 159.0,
+        "base_demand": 12.285,
+        "curvature": 10.318,
+        "adjusted_demand": 9.189,
+        "radius": 4.6998
+      },
+      {
+        "colat_from_gap": 148.663,
+        "base_demand": 11.312,
+        "curvature": -0.427,
+        "adjusted_demand": 11.44,
+        "radius": 5.098
+      },
+      {
+        "colat_from_gap": 129.073,
+        "base_demand": 12.275,
+        "curvature": -4.77,
+        "adjusted_demand": 13.706,
+        "radius": 4.7035
+      },
+      {
+        "colat_from_gap": 119.195,
+        "base_demand": 11.875,
+        "curvature": -1.85,
+        "adjusted_demand": 12.431,
+        "radius": 4.8594
+      },
+      {
+        "colat_from_gap": 113.586,
+        "base_demand": 12.967,
+        "curvature": -0.398,
+        "adjusted_demand": 13.086,
+        "radius": 4.4566
+      },
+      {
+        "colat_from_gap": 98.275,
+        "base_demand": 14.382,
+        "curvature": -8.815,
+        "adjusted_demand": 17.026,
+        "radius": 4.0261
+      },
+      {
+        "colat_from_gap": 105.407,
+        "base_demand": 12.874,
+        "curvature": -1.941,
+        "adjusted_demand": 13.457,
+        "radius": 4.4881
+      },
+      {
+        "colat_from_gap": 115.942,
+        "base_demand": 13.15,
+        "curvature": -4.732,
+        "adjusted_demand": 14.57,
+        "radius": 4.3954
+      },
+      {
+        "colat_from_gap": 122.492,
+        "base_demand": 11.553,
+        "curvature": -5.933,
+        "adjusted_demand": 13.333,
+        "radius": 4.9931
+      },
+      {
+        "colat_from_gap": 131.923,
+        "base_demand": 10.688,
+        "curvature": 1.959,
+        "adjusted_demand": 10.1,
+        "radius": 5.392
+      },
+      {
+        "colat_from_gap": 148.613,
+        "base_demand": 11.729,
+        "curvature": 6.022,
+        "adjusted_demand": 9.923,
+        "radius": 4.9192
+      },
+      {
+        "colat_from_gap": 147.747,
+        "base_demand": 11.05,
+        "curvature": 4.478,
+        "adjusted_demand": 9.707,
+        "radius": 5.2173
+      },
+      {
+        "colat_from_gap": 127.45,
+        "base_demand": 12.363,
+        "curvature": -9.717,
+        "adjusted_demand": 15.278,
+        "radius": 4.6708
+      },
+      {
+        "colat_from_gap": 141.791,
+        "base_demand": 12.067,
+        "curvature": -3.051,
+        "adjusted_demand": 12.983,
+        "radius": 4.7832
+      },
+      {
+        "colat_from_gap": 153.275,
+        "base_demand": 12.769,
+        "curvature": 8.582,
+        "adjusted_demand": 10.194,
+        "radius": 4.5246
+      },
+      {
+        "colat_from_gap": 159.399,
+        "base_demand": 12.599,
+        "curvature": 5.094,
+        "adjusted_demand": 11.071,
+        "radius": 4.5845
+      },
+      {
+        "colat_from_gap": 174.54,
+        "base_demand": 14.862,
+        "curvature": 8.162,
+        "adjusted_demand": 12.413,
+        "radius": 3.8988
+      },
+      {
+        "colat_from_gap": 171.74,
+        "base_demand": 19.249,
+        "curvature": -0.288,
+        "adjusted_demand": 19.336,
+        "radius": 3.0333
+      },
+      {
+        "colat_from_gap": 170.382,
+        "base_demand": 14.123,
+        "curvature": -0.057,
+        "adjusted_demand": 14.14,
+        "radius": 4.0983
+      },
+      {
+        "colat_from_gap": 171.361,
+        "base_demand": 12.311,
+        "curvature": 5.212,
+        "adjusted_demand": 10.747,
+        "radius": 4.69
+      },
+      {
+        "colat_from_gap": 150.587,
+        "base_demand": 11.991,
+        "curvature": -2.486,
+        "adjusted_demand": 12.737,
+        "radius": 4.8133
+      },
+      {
+        "colat_from_gap": 139.018,
+        "base_demand": 11.665,
+        "curvature": 0.883,
+        "adjusted_demand": 11.4,
+        "radius": 4.9458
+      },
+      {
+        "colat_from_gap": 132.04,
+        "base_demand": 11.818,
+        "curvature": -0.11,
+        "adjusted_demand": 11.851,
+        "radius": 4.8828
+      },
+      {
+        "colat_from_gap": 127.472,
+        "base_demand": 12.164,
+        "curvature": -1.882,
+        "adjusted_demand": 12.728,
+        "radius": 4.746
+      },
+      {
+        "colat_from_gap": 128.728,
+        "base_demand": 11.849,
+        "curvature": -8.21,
+        "adjusted_demand": 14.312,
+        "radius": 4.87
+      },
+      {
+        "colat_from_gap": 140.449,
+        "base_demand": 12.29,
+        "curvature": 9.368,
+        "adjusted_demand": 9.479,
+        "radius": 4.698
+      },
+      {
+        "colat_from_gap": 126.05,
+        "base_demand": 17.555,
+        "curvature": -13.33,
+        "adjusted_demand": 21.554,
+        "radius": 3.3153
+      },
+      {
+        "colat_from_gap": 145.324,
+        "base_demand": 17.123,
+        "curvature": 5.697,
+        "adjusted_demand": 15.414,
+        "radius": 3.3964
+      },
+      {
+        "colat_from_gap": 148.86,
+        "base_demand": 37.407,
+        "curvature": 15.239,
+        "adjusted_demand": 32.835,
+        "radius": 1.6462
+      },
+      {
+        "colat_from_gap": 120.124,
+        "base_demand": 28.606,
+        "curvature": 4.35,
+        "adjusted_demand": 27.301,
+        "radius": 2.0886
+      },
+      {
+        "colat_from_gap": 117.512,
+        "base_demand": 19.145,
+        "curvature": 5.924,
+        "adjusted_demand": 17.368,
+        "radius": 3.0492
+      },
+      {
+        "colat_from_gap": 108.056,
+        "base_demand": 13.744,
+        "curvature": 8.621,
+        "adjusted_demand": 11.158,
+        "radius": 4.209
+      },
+      {
+        "colat_from_gap": 95.819,
+        "base_demand": 14.994,
+        "curvature": -11.029,
+        "adjusted_demand": 18.302,
+        "radius": 3.8653
+      },
+      {
+        "colat_from_gap": 118.52,
+        "base_demand": 14.034,
+        "curvature": 4.718,
+        "adjusted_demand": 12.619,
+        "radius": 4.1237
+      },
+      {
+        "colat_from_gap": 110.284,
+        "base_demand": 12.811,
+        "curvature": -9.775,
+        "adjusted_demand": 15.743,
+        "radius": 4.5099
+      },
+      {
+        "colat_from_gap": 118.155,
+        "base_demand": 11.355,
+        "curvature": 8.14,
+        "adjusted_demand": 8.913,
+        "radius": 5.079
+      },
+      {
+        "colat_from_gap": 98.364,
+        "base_demand": 12.244,
+        "curvature": -6.764,
+        "adjusted_demand": 14.274,
+        "radius": 4.7151
+      },
+      {
+        "colat_from_gap": 100.584,
+        "base_demand": 11.697,
+        "curvature": 5.45,
+        "adjusted_demand": 10.062,
+        "radius": 4.9324
+      },
+      {
+        "colat_from_gap": 89.759,
+        "base_demand": 12.467,
+        "curvature": -4.956,
+        "adjusted_demand": 13.954,
+        "radius": 4.6323
+      },
+      {
+        "colat_from_gap": 78.589,
+        "base_demand": 13.191,
+        "curvature": -3.892,
+        "adjusted_demand": 14.358,
+        "radius": 4.3822
+      },
+      {
+        "colat_from_gap": 76.115,
+        "base_demand": 13.067,
+        "curvature": 0.758,
+        "adjusted_demand": 12.839,
+        "radius": 4.4231
+      },
+      {
+        "colat_from_gap": 69.347,
+        "base_demand": 20.606,
+        "curvature": -7.163,
+        "adjusted_demand": 22.755,
+        "radius": 2.8414
+      },
+      {
+        "colat_from_gap": 78.976,
+        "base_demand": 12.933,
+        "curvature": -4.717,
+        "adjusted_demand": 14.348,
+        "radius": 4.468
+      },
+      {
+        "colat_from_gap": 86.495,
+        "base_demand": 11.904,
+        "curvature": 1.932,
+        "adjusted_demand": 11.324,
+        "radius": 4.8481
+      },
+      {
+        "colat_from_gap": 97.787,
+        "base_demand": 11.008,
+        "curvature": 0.059,
+        "adjusted_demand": 10.99,
+        "radius": 5.2373
+      },
+      {
+        "colat_from_gap": 105.308,
+        "base_demand": 11.19,
+        "curvature": 2.629,
+        "adjusted_demand": 10.401,
+        "radius": 5.153
+      },
+      {
+        "colat_from_gap": 112.35,
+        "base_demand": 13.33,
+        "curvature": -0.991,
+        "adjusted_demand": 13.628,
+        "radius": 4.3372
+      },
+      {
+        "colat_from_gap": 131.473,
+        "base_demand": 13.744,
+        "curvature": 9.76,
+        "adjusted_demand": 10.816,
+        "radius": 4.209
+      },
+      {
+        "colat_from_gap": 124.314,
+        "base_demand": 12.666,
+        "curvature": -0.974,
+        "adjusted_demand": 12.958,
+        "radius": 4.5607
+      },
+      {
+        "colat_from_gap": 111.781,
+        "base_demand": 13.136,
+        "curvature": -0.983,
+        "adjusted_demand": 13.43,
+        "radius": 4.4003
+      },
+      {
+        "colat_from_gap": 113.414,
+        "base_demand": 13.075,
+        "curvature": -0.849,
+        "adjusted_demand": 13.329,
+        "radius": 4.4205
+      },
+      {
+        "colat_from_gap": 122.099,
+        "base_demand": 15.696,
+        "curvature": 8.366,
+        "adjusted_demand": 13.186,
+        "radius": 3.6965
+      },
+      {
+        "colat_from_gap": 97.918,
+        "base_demand": 18.722,
+        "curvature": -10.762,
+        "adjusted_demand": 21.95,
+        "radius": 3.1155
+      },
+      {
+        "colat_from_gap": 103.309,
+        "base_demand": 15.529,
+        "curvature": 9.81,
+        "adjusted_demand": 12.586,
+        "radius": 3.7352
+      },
+      {
+        "colat_from_gap": 99.294,
+        "base_demand": 13.678,
+        "curvature": 8.051,
+        "adjusted_demand": 11.263,
+        "radius": 4.2288
+      },
+      {
+        "colat_from_gap": 82.899,
+        "base_demand": 11.796,
+        "curvature": -2.466,
+        "adjusted_demand": 12.536,
+        "radius": 4.8918
+      },
+      {
+        "colat_from_gap": 77.324,
+        "base_demand": 12.232,
+        "curvature": -8.634,
+        "adjusted_demand": 14.822,
+        "radius": 4.7198
+      },
+      {
+        "colat_from_gap": 99.505,
+        "base_demand": 13.287,
+        "curvature": 10.255,
+        "adjusted_demand": 10.211,
+        "radius": 4.3511
+      },
+      {
+        "colat_from_gap": 81.145,
+        "base_demand": 11.168,
+        "curvature": -3.793,
+        "adjusted_demand": 12.306,
+        "radius": 5.1631
+      },
+      {
+        "colat_from_gap": 80.393,
+        "base_demand": 10.826,
+        "curvature": 4.28,
+        "adjusted_demand": 9.542,
+        "radius": 5.3239
+      },
+      {
+        "colat_from_gap": 71.087,
+        "base_demand": 10.515,
+        "curvature": 4.436,
+        "adjusted_demand": 9.184,
+        "radius": 5.4797
+      },
+      {
+        "colat_from_gap": 62.222,
+        "base_demand": 10.527,
+        "curvature": -4.776,
+        "adjusted_demand": 11.96,
+        "radius": 5.4734
+      },
+      {
+        "colat_from_gap": 72.077,
+        "base_demand": 11.111,
+        "curvature": 8.346,
+        "adjusted_demand": 8.607,
+        "radius": 5.1893
+      },
+      {
+        "colat_from_gap": 57.228,
+        "base_demand": 10.596,
+        "curvature": 0.322,
+        "adjusted_demand": 10.5,
+        "radius": 5.4382
+      },
+      {
+        "colat_from_gap": 49.26,
+        "base_demand": 10.887,
+        "curvature": -3.715,
+        "adjusted_demand": 12.001,
+        "radius": 5.2946
+      },
+      {
+        "colat_from_gap": 38.141,
+        "base_demand": 12.894,
+        "curvature": -8.359,
+        "adjusted_demand": 15.402,
+        "radius": 4.4813
+      },
+      {
+        "colat_from_gap": 44.279,
+        "base_demand": 12.561,
+        "curvature": -0.977,
+        "adjusted_demand": 12.854,
+        "radius": 4.5983
+      },
+      {
+        "colat_from_gap": 56.425,
+        "base_demand": 12.544,
+        "curvature": -4.162,
+        "adjusted_demand": 13.793,
+        "radius": 4.6041
+      },
+      {
+        "colat_from_gap": 75.924,
+        "base_demand": 11.704,
+        "curvature": -2.001,
+        "adjusted_demand": 12.304,
+        "radius": 4.9298
+      },
+      {
+        "colat_from_gap": 87.045,
+        "base_demand": 12.649,
+        "curvature": 8.586,
+        "adjusted_demand": 10.073,
+        "radius": 4.5667
+      },
+      {
+        "colat_from_gap": 77.041,
+        "base_demand": 12.905,
+        "curvature": 4.033,
+        "adjusted_demand": 11.695,
+        "radius": 4.4775
+      },
+      {
+        "colat_from_gap": 65.637,
+        "base_demand": 13.108,
+        "curvature": -4.679,
+        "adjusted_demand": 14.512,
+        "radius": 4.4094
+      },
+      {
+        "colat_from_gap": 75.612,
+        "base_demand": 14.589,
+        "curvature": 0.736,
+        "adjusted_demand": 14.368,
+        "radius": 3.9701
+      },
+      {
+        "colat_from_gap": 90.042,
+        "base_demand": 15.037,
+        "curvature": 2.06,
+        "adjusted_demand": 14.419,
+        "radius": 3.8545
+      },
+      {
+        "colat_from_gap": 91.85,
+        "base_demand": 18.364,
+        "curvature": 9.16,
+        "adjusted_demand": 15.617,
+        "radius": 3.174
+      },
+      {
+        "colat_from_gap": 66.568,
+        "base_demand": 18.192,
+        "curvature": -8.235,
+        "adjusted_demand": 20.663,
+        "radius": 3.203
+      },
+      {
+        "colat_from_gap": 62.351,
+        "base_demand": 37.576,
+        "curvature": 3.734,
+        "adjusted_demand": 36.456,
+        "radius": 1.6398
+      },
+      {
+        "colat_from_gap": 42.964,
+        "base_demand": 90.0,
+        "curvature": 3.001,
+        "adjusted_demand": 89.1,
+        "radius": 0.993
+      },
+      {
+        "colat_from_gap": 37.206,
+        "base_demand": 24.654,
+        "curvature": 11.386,
+        "adjusted_demand": 21.238,
+        "radius": 2.3973
+      },
+      {
+        "colat_from_gap": 34.065,
+        "base_demand": 17.63,
+        "curvature": -7.544,
+        "adjusted_demand": 19.893,
+        "radius": 3.3018
+      }
+    ]
+  },
+  "supply_minus_demand": {
+    "values": [
+      1.9935,
+      13.4235,
+      37.1773,
+      19.5108,
+      8.6471,
+      8.6471,
+      -1.8878,
+      -1.8878,
+      16.6218,
+      26.9207,
+      8.0117,
+      8.0117,
+      18.5563,
+      25.6573,
+      1.1581,
+      1.1581,
+      8.1292,
+      8.1292,
+      1.5102,
+      1.5102,
+      2.7147,
+      2.7147,
+      13.7951,
+      13.7951,
+      0.1305,
+      0.1305,
+      29.4182,
+      29.4182,
+      11.0548,
+      11.0548,
+      23.2806,
+      42.3676,
+      27.1306,
+      -1.7149,
+      -1.7149,
+      3.1165,
+      21.2671,
+      21.2671,
+      54.4861,
+      26.9928,
+      16.6486,
+      16.6486,
+      3.8701,
+      3.8701,
+      4.2206,
+      38.3173,
+      32.0997,
+      32.0997,
+      10.228,
+      10.228,
+      37.1786,
+      17.3005,
+      17.3005,
+      -1.4161,
+      -1.4758,
+      -1.4758,
+      20.7676,
+      31.0531,
+      6.1728,
+      6.1728,
+      11.7342,
+      36.8818,
+      1.5639,
+      1.5639,
+      18.5865,
+      35.3545,
+      22.5799,
+      11.2632,
+      11.2632,
+      21.7216,
+      21.7216,
+      1.9935
+    ],
+    "min": -1.8878,
+    "max": 54.4861,
+    "n_negative": 7,
+    "frac_negative": 0.0972
+  }
+}

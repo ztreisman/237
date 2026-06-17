@@ -1,0 +1,55 @@
+FOLD PROPAGATION: ring 4 -> ring 5
+trials: 209, radial 4->5 edges per trial: ~532
+
+A. Spearman correlation fold(e5) vs parent_fold (max band-4 fold at parent):
+   per-trial mean rho = -0.1596  (sd 0.0320, min -0.2429, max -0.0517)
+   pooled rho = -0.1608
+
+B. Decile contrast E[fold5 | parent top 10%] - E[fold5 | parent bottom 10%]:
+   mean = -0.2936 rad  (sd 0.0819)
+
+D. Signed inheritance (fraction of same-sign parent/child folds):
+   mean = 0.5227  (0.5 = no relation, >0.5 = creases propagate
+    radially with the same sign, <0.5 = alternation/pleating)
+
+C. Stress profile vs cyclic distance from worst band-4 edge's child
+   (band-5 fold, averaged over trials; first 30 lags):
+   d=  0: 0.8875  ###################################
+   d=  1: 0.9803  #######################################
+   d=  2: 0.9167  ####################################
+   d=  3: 0.8828  ###################################
+   d=  4: 1.0041  ########################################
+   d=  5: 0.9761  #######################################
+   d=  6: 1.0849  ###########################################
+   d=  7: 1.0629  ##########################################
+   d=  8: 1.0041  ########################################
+   d=  9: 1.0409  #########################################
+   d= 10: 1.0209  ########################################
+   d= 11: 0.9786  #######################################
+   d= 12: 1.0302  #########################################
+   d= 13: 1.0023  ########################################
+   d= 14: 1.0149  ########################################
+   d= 15: 1.0654  ##########################################
+   d= 16: 0.9887  #######################################
+   d= 17: 1.0733  ##########################################
+   d= 18: 0.9909  #######################################
+   d= 19: 0.9938  #######################################
+   d= 20: 1.0474  #########################################
+   d= 21: 0.9999  #######################################
+   d= 22: 1.0544  ##########################################
+   d= 23: 0.9994  #######################################
+   d= 24: 0.9943  #######################################
+   d= 25: 1.0777  ###########################################
+   d= 26: 0.9493  #####################################
+   d= 27: 0.9962  #######################################
+   d= 28: 0.9931  #######################################
+   d= 29: 0.9794  #######################################
+
+Interpretation guide:
+ - rho > 0 and contrast > 0: bad ring-4 folds DO make adjacent ring-5
+   folds worse (radial stress inheritance — supports compounding h(r)).
+ - profile peaked at d=0 and decaying: stress is LOCALIZED radially.
+   Decay length = how far a crease's influence spreads along the ring.
+ - sign fraction >> 0.5: a crease at ring 4 continues as a crease at
+   ring 5 (same bend direction) — a propagating fold line.
+   << 0.5: the surface accommodates by counter-folding (pleating).

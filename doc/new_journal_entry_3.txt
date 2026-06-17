@@ -1,0 +1,57 @@
+=== Journal Entry 2026-04-14 (evening) ===
+
+## boundary_racing.html — interactive visualization
+
+Built a standalone HTML animation of the ring-4 and ring-5 boundary cycles
+as a racing game. All geometry is inlined — no server needed, open in any
+browser.
+
+### Geometry
+- Ring-4 track: 147 vertices, arc length 36.7 (normalized to unit sphere)
+- Ring-5 track: 385 vertices, arc length 69.7
+- Both tracks centered and scaled to unit sphere from ring-0 vertex
+- Track data pre-computed from physics_grow_seed02_ring04_std0.0031.ply
+  and physics_grow_seed03_ring05_std0.0415.ply
+
+### Features
+- Drag to rotate, scroll to zoom (3D projection, painter's algorithm)
+- Glowing dots with fading trails race along both boundary cycles
+- Finish line: checkerboard flag on ring-5 track, adjustable position
+- Flash announcement on lap completion
+- Pause/play, reset view, trails toggle
+- Surface fill toggle: R4 surface and R5 surface independently,
+  viridis coloring by ring depth, 42-55% opacity, painter's sort
+- Speed slider: logarithmic, center = 1x = 60-second laps, range ÷10 to ×10
+- Ring-4 and ring-5 racer count sliders (1–20 each)
+- Ring-4 and ring-5 palette selectors: Rainbow, Viridis, Stoplight,
+  Tron, Zissou, Grand Budapest, Moonrise, Darjeeling
+  Default: Grand Budapest (ring 4), Tron (ring 5)
+- Each racer gets a different color offset within the palette
+- Three leaderboards (monospaced tabular format):
+    Overall | Ring 4 | Ring 5
+  Each shows top 4: rank | swatch | name | laps | best lap time
+  Gold/silver/bronze medals for top 3. Best lap measured from
+  second crossing onward. Reset laps button clears all.
+
+### Mathematical content
+The game makes the spherical gap argument visually immediate:
+- Ring-4 track is a compact loop, racers complete laps quickly
+- Ring-5 track winds all over the sphere, 2.6× longer arc
+- The finish line represents the 12.35° spherical gap — the only
+  uncovered region after ring-5 fills the sphere
+- Toby's question "where is the finish line?" captures the geometry:
+  the gap is where the ring-5 track almost meets itself but doesn't
+- π₀ of the ring-5 boundary = {pt}: single connected component,
+  one closed loop (unknot bounding an embedded disk)
+- Surface fill shows the crumpled geometry directly: ring-4 is
+  relatively coherent, ring-5 is extremely buckled
+
+### Files
+- boundary_racing.html — standalone animation (~340 KB, inlined geometry)
+- scene_data.json — mesh + track geometry (intermediate build file)
+- track_data_v2.json — palette color arrays (intermediate build file)
+
+### GitHub
+Repo: https://github.com/ztreisman/237
+Pushed: boundary_racing.html, Python scripts, gap analysis outputs
+.gitignore excludes: *.ply, *.obj, library.jsonl, ply_library/, __pycache__
